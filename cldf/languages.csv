@@ -1,0 +1,11 @@
+ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family,SubGroup
+Goshimjang,Goshimjang,ndan1241,Nda'nda',nnz,Africa,5.234168,10.407013,Atlantic-Congo,Ndanda_Ouest
+NdandaCaa,Ndanda_Ca-a,ndan1241,Nda'nda',nnz,Africa,,,Atlantic-Congo,Ndanda_Ouest
+NdandaDenfap,Ndanda_Denfap,ndan1241,Nda'nda',nnz,Africa,5.111459,10.336031,Atlantic-Congo,Ndanda_Sud
+NdandaLek,Ndanda_Lek,ndan1241,Nda'nda',nnz,Africa,5.150741,10.429029,Atlantic-Congo,Ndanda_Sud
+NdandaMeno,Ndanda_Meno,ndan1241,Nda'nda',nnz,Africa,5.069482,10.425853,Atlantic-Congo,Ndanda_Sud
+NdandaNgwa,Ndanda_Ngwa,ndan1241,Nda'nda',nnz,Africa,5.191047,10.473404,Atlantic-Congo,Ndanda_Est
+NdandaNyep,Ndanda_Nyep,bato1245,Batoufam,,Africa,5.254489,10.471901,Atlantic-Congo,Ndanda_Est
+NdandaShingou,Ndanda_Shingou,ndan1241,Nda'nda',nnz,Africa,5.238847,10.491081,Atlantic-Congo,Ndanda_Est
+NdandaTwefap,Ndanda_Twefap,ndan1241,Nda'nda',nnz,Africa,5.027245,10.473575,Atlantic-Congo,Ndanda_Sud
+NdandaZua,Ndanda_Zua,,,,,,,,

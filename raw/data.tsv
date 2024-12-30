@@ -1,0 +1,2001 @@
+ID	DOCULECT	VALUE	CONCEPT	POS
+1	Ndanda_Nyep	wɛ́	I	NA
+2	Ndanda_Shingou	wɛ́	I	NA
+3	Ndanda_Ca-a	wɛ́	I	NA
+4	Ndanda_Meno	mé	I	NA
+5	Ndanda_Lek	mà	I	NA
+6	Ndanda_Ngwa	mǎ	I	NA
+7	Ndanda_Twefap	mɔ̂	I	NA
+8	Ndanda_Denfap	mé	I	NA
+9	Ndanda_Zua	̀mà	I	NA
+10	Goshimjang	mà	I	NA
+11	Ndanda_Nyep	jɔ̌	You (sg)	NA
+12	Ndanda_Shingou	hû	You (sg)	NA
+13	Ndanda_Ca-a	hû	You (sg)	NA
+14	Ndanda_Meno	hû	You (sg)	NA
+15	Ndanda_Lek	ù	You (sg)	NA
+16	Ndanda_Ngwa	wû	You (sg)	NA
+17	Ndanda_Twefap	hû	You (sg)	NA
+18	Ndanda_Denfap	hûwɔ́	You (sg)	NA
+19	Ndanda_Zua	ù	You (sg)	NA
+20	Goshimjang	ù	You (sg)	NA
+21	Ndanda_Nyep	jɔ̌	He 	NA
+22	Ndanda_Shingou	jɔ̌	He 	NA
+23	Ndanda_Ca-a	jɔ̌	He 	NA
+24	Ndanda_Meno	jɔ̌	He 	NA
+25	Ndanda_Lek	jɔ́	He 	NA
+26	Ndanda_Ngwa	ʒǔ	He 	NA
+27	Ndanda_Twefap	ʒîp	He 	NA
+28	Ndanda_Denfap	ʒɨ̌	He 	NA
+29	Ndanda_Zua	jó	He 	NA
+30	Goshimjang	jɔ́	He 	NA
+31	Ndanda_Nyep	pâpə̀	We 	NA
+32	Ndanda_Shingou	pâpə̀	We 	NA
+33	Ndanda_Ca-a	pâpə̀	We 	NA
+34	Ndanda_Meno	pə̀	We 	NA
+35	Ndanda_Lek	pɔ̀	We 	NA
+36	Ndanda_Ngwa	pâpə̀	We 	NA
+37	Ndanda_Twefap	pɔ̂	We 	NA
+38	Ndanda_Denfap	wɔ̌	We 	NA
+39	Ndanda_Zua	bɔ̀	We 	NA
+40	Goshimjang	bɔ̀	We 	NA
+41	Ndanda_Nyep	wɔ̌p 	You (pl)	NA
+42	Ndanda_Shingou	wɔ̌p 	You (pl)	NA
+43	Ndanda_Ca-a	wɔ̌p 	You (pl)	NA
+44	Ndanda_Meno	pǔ	You (pl)	NA
+45	Ndanda_Lek	pə̀	You (pl)	NA
+46	Ndanda_Ngwa	wǔp	You (pl)	NA
+47	Ndanda_Twefap	wǔp	You (pl)	NA
+48	Ndanda_Denfap	wɔ̌p 	You (pl)	NA
+49	Ndanda_Zua	bú	You (pl)	NA
+50	Goshimjang	bʉ́	You (pl)	NA
+51	Ndanda_Nyep	wɔ̌p 	They 	NA
+52	Ndanda_Shingou	wɔ̌p 	They 	NA
+53	Ndanda_Ca-a	wɔ̌p 	They 	NA
+54	Ndanda_Meno	pǔ	They 	NA
+55	Ndanda_Lek	́pú	They 	NA
+56	Ndanda_Ngwa	wǔp	They 	NA
+57	Ndanda_Twefap	wǔp	They 	NA
+58	Ndanda_Denfap	wɔ̌p 	They 	NA
+59	Ndanda_Zua	bú	They 	NA
+60	Goshimjang	bú	They 	NA
+61	Ndanda_Nyep	jɔ̌ŋgɛ́ 	This 	NA
+62	Ndanda_Shingou	jîgə́lɛ̂ 	This 	NA
+63	Ndanda_Ca-a	jìgâŋgɛ́	This 	NA
+64	Ndanda_Meno	sâ	This 	NA
+65	Ndanda_Lek	jìgà 	This 	NA
+66	Ndanda_Ngwa	jɔ̌ŋgɔ́lɔ́	This 	NA
+67	Ndanda_Twefap	jɔ̌ŋgɛ̀	This 	NA
+68	Ndanda_Denfap	jɔ̌	This 	NA
+69	Ndanda_Zua	jìŋà	This 	NA
+70	Goshimjang	jàŋà 	This 	NA
+71	Ndanda_Nyep	jìgà 	That 	NA
+72	Ndanda_Shingou	jì	That 	NA
+73	Ndanda_Ca-a	jì	That 	NA
+74	Ndanda_Meno	jì	That 	NA
+75	Ndanda_Lek	jìgì	That 	NA
+76	Ndanda_Ngwa	jì	That 	NA
+77	Ndanda_Twefap	jɔ̌	That 	NA
+78	Ndanda_Denfap	jɔ̌	That 	NA
+79	Ndanda_Zua	já 	That 	NA
+80	Goshimjang	jìbì	That 	NA
+81	Ndanda_Nyep	sɛ̌	Here 	NA
+82	Ndanda_Shingou	sɛ̌	Here	NA
+83	Ndanda_Ca-a	ʃɛ̌	Here	NA
+84	Ndanda_Meno	sâ	Here	NA
+85	Ndanda_Lek	síndìʔì	Here	NA
+86	Ndanda_Ngwa	ʃɛ̌	Here	NA
+87	Ndanda_Twefap	ʃɛ̌	Here	NA
+88	Ndanda_Denfap	ʃɛ̌	Here	NA
+89	Ndanda_Zua	sílì 	Here	NA
+90	Goshimjang	jísì	Here	NA
+91	Ndanda_Nyep	sî	There 	NA
+92	Ndanda_Shingou	sî	There 	NA
+93	Ndanda_Ca-a	ʃî	There 	NA
+94	Ndanda_Meno	sî	There 	NA
+95	Ndanda_Lek	sàndàʔà 	There 	NA
+96	Ndanda_Ngwa	ʃî	There 	NA
+97	Ndanda_Twefap	ʃî	There 	NA
+98	Ndanda_Denfap	ʃî	There 	NA
+99	Ndanda_Zua	sà	There 	NA
+100	Goshimjang	sì	There 	NA
+101	Ndanda_Nyep	wɔ̌	Who	NA
+102	Ndanda_Shingou	wɔ̌	Who	NA
+103	Ndanda_Ca-a	wɔ̌	Who	NA
+104	Ndanda_Meno	ɛ̌ wɔ̌	Who	NA
+105	Ndanda_Lek	wɔ́	Who	NA
+106	Ndanda_Ngwa	ɛ̌ wɔ̌	Who	NA
+107	Ndanda_Twefap	wɔ̌	Who	NA
+108	Ndanda_Denfap	wɔ̌	Who	NA
+109	Ndanda_Zua	wɔ́	Who	NA
+110	Goshimjang	wɔ́	Who	NA
+111	Ndanda_Nyep	kɔ̌	What	NA
+112	Ndanda_Shingou	kɔ̌	What	NA
+113	Ndanda_Ca-a	kɔ̌	What	NA
+114	Ndanda_Meno	ɛ́ kɔ̌	What	NA
+115	Ndanda_Lek	kɔ́	What	NA
+116	Ndanda_Ngwa	kɔ̌	What	NA
+117	Ndanda_Twefap	ŋgé	What	NA
+118	Ndanda_Denfap	kɔ̌	What	NA
+119	Ndanda_Zua	kɔ́	What	NA
+120	Goshimjang	kɔ́	What	NA
+121	Ndanda_Nyep	hɛ́ zɨ̌ʔ	Where	NA
+122	Ndanda_Shingou	ɛ́ hɨ̂n	Where	NA
+123	Ndanda_Ca-a	hɨ̂n	Where	NA
+124	Ndanda_Meno	ɛ́ hû	Where	NA
+125	Ndanda_Lek	hɔ́	Where	NA
+126	Ndanda_Ngwa	hǔmbɔ̌	Where	NA
+127	Ndanda_Twefap	hɨ̂n	Where	NA
+128	Ndanda_Denfap	hɨ̂n	Where	NA
+129	Ndanda_Zua	hə́	Where	NA
+130	Goshimjang	hə́	Where	NA
+131	Ndanda_Nyep	sɨ̌	When 	NA
+132	Ndanda_Shingou	sɨ̌	When	NA
+133	Ndanda_Ca-a	sɨ̌ʔ	When	NA
+134	Ndanda_Meno	sɨ̌	When	NA
+135	Ndanda_Lek	sɨ́	When	NA
+136	Ndanda_Ngwa	sě	When	NA
+137	Ndanda_Twefap	sɨ̌gɨ̌	When	NA
+138	Ndanda_Denfap	tsíp kô	When	NA
+139	Ndanda_Zua	sɨ́	When	NA
+140	Goshimjang	sɨ́	When	NA
+141	Ndanda_Nyep	nděʔé	How 	NA
+142	Ndanda_Shingou	̀̀mɨ̂ ndí-ɛ́ 	How	NA
+143	Ndanda_Ca-a	ndí-ɛ́ 	How	NA
+144	Ndanda_Meno	ndɛ̌ʔɛ̌	How	NA
+145	Ndanda_Lek	ndɛ́ʔɛ́	How	NA
+146	Ndanda_Ngwa	mébíʔhî	How	NA
+147	Ndanda_Twefap	pálíjɛ̌	How	NA
+148	Ndanda_Denfap	pálíjé	How	NA
+149	Ndanda_Zua	ndàkɔ́	How	NA
+150	Goshimjang	ndàkɔ́	How	NA
+151	Ndanda_Nyep	kâpɔ̌	Not 	NA
+152	Ndanda_Shingou	kâpɔ̌	Not 	NA
+153	Ndanda_Ca-a	kâpɔ̌	Not 	NA
+154	Ndanda_Meno	kâbɔ̌	Not 	NA
+155	Ndanda_Lek	ŋgák	Not 	NA
+156	Ndanda_Ngwa	kâpí	Not 	NA
+157	Ndanda_Twefap	ŋgǎk	Not 	NA
+158	Ndanda_Denfap	ŋgǎk	Not 	NA
+159	Ndanda_Zua	ŋgáŋ	Not 	NA
+160	Goshimjang	háŋ	Not 	NA
+161	Ndanda_Nyep	nzùŋgí áwágá 	All	NA
+162	Ndanda_Shingou	nzùŋgí áwágá 	All	NA
+163	Ndanda_Ca-a	wǎgálâk 	All	NA
+164	Ndanda_Meno	wǎgálâk	All	NA
+165	Ndanda_Lek	wáŋ	All	NA
+166	Ndanda_Ngwa	lâ wághá	All	NA
+167	Ndanda_Twefap	láwǎk	All	NA
+168	Ndanda_Denfap	léwɔ̌k	All	NA
+169	Ndanda_Zua	ɣáŋ	All	NA
+170	Goshimjang	ɣáŋ	All	NA
+171	Ndanda_Nyep	tɛ̌ɲɔ́	Many	NA
+172	Ndanda_Shingou	bǔwɔ̂ jɔ́	Many	NA
+173	Ndanda_Ca-a	ŋgɛ́ jɔ̌	Many	NA
+174	Ndanda_Meno	jɔ̌	Many	NA
+175	Ndanda_Lek	fə̀ʔjɔ́	Many	NA
+176	Ndanda_Ngwa	ì jɔ̌p 	Many	NA
+177	Ndanda_Twefap	ɣábé	Many	NA
+178	Ndanda_Denfap	jûjûk	Many	NA
+179	Ndanda_Zua	jìjɔ̀	Many	NA
+180	Goshimjang	jɔ̀jɔ̀	Many	NA
+181	Ndanda_Nyep	tʃǎʔzǔk 	Some 	NA
+182	Ndanda_Shingou	pǔwɔ́kêp 	Some 	NA
+183	Ndanda_Ca-a	tʃǎʔzǔk 	Some 	NA
+184	Ndanda_Meno	mɔ̌ʔɔ̌	Some 	NA
+185	Ndanda_Lek	mə̀tʃǔŋgɛ́	Some 	NA
+186	Ndanda_Ngwa	ndzóŋgǐ	Some 	NA
+187	Ndanda_Twefap	ntʃě	Some 	NA
+188	Ndanda_Denfap	ntʃě	Some 	NA
+189	Ndanda_Zua	búhɔ́ndɔ̀ŋgí 	Some 	NA
+190	Goshimjang	ntʃʉ̀ʔntʃʉ̀ʔ	Some 	NA
+191	Ndanda_Nyep	kwɔ̌	Few 	NA
+192	Ndanda_Shingou	̀mî tɔ̂gɛ̂	Few 	NA
+193	Ndanda_Ca-a	̀mî tɔ̂gɛ̂	Few 	NA
+194	Ndanda_Meno	mé tʃɔ̌gɔ̌	Few 	NA
+195	Ndanda_Lek	mə̀tʃǔŋgɛ́	Few 	NA
+196	Ndanda_Ngwa	mé dzwé	Few 	NA
+197	Ndanda_Twefap	mɨ̌ ʒé	Few 	NA
+198	Ndanda_Denfap	mɨ̌ ʒé	Few 	NA
+199	Ndanda_Zua	ntʃʉ̀ʔntʃʉ̀ʔ	Few 	NA
+200	Goshimjang	búhɔ́ndɔ̀ŋgí 	Few 	NA
+201	Ndanda_Nyep	ntʃǎ	Other	NA
+202	Ndanda_Shingou	ntʃǎ	Other	NA
+203	Ndanda_Ca-a	pɛ̂ ntʃǎ	Other	NA
+204	Ndanda_Meno	ntʃǎ	Other	NA
+205	Ndanda_Lek	mə̀tʃǔŋgɛ́	Other	NA
+206	Ndanda_Ngwa	pɛ̂ ntʃé	Other	NA
+207	Ndanda_Twefap	ntʃé	Other	NA
+208	Ndanda_Denfap	ntʃé	Other	NA
+209	Ndanda_Zua	mə̀ɲàŋá	Other	NA
+210	Goshimjang	mìɲàŋá	Other	NA
+211	Ndanda_Nyep	ntʃɨ̂	One 	NA
+212	Ndanda_Shingou	ntʃɨ̂	One 	NA
+213	Ndanda_Ca-a	ntʃɨ̂	One 	NA
+214	Ndanda_Meno	ntʃɨ̂	One 	NA
+215	Ndanda_Lek	ntʃʉ̀ʔ	One 	NA
+216	Ndanda_Ngwa	ntʃɨ̂	One 	NA
+217	Ndanda_Twefap	ntʃɨ̂	One 	NA
+218	Ndanda_Denfap	ntʃɨ̂	One 	NA
+219	Ndanda_Zua	ntʃʉ̀ʔ	One 	NA
+220	Goshimjang	ntʃʉ̀ʔ	Two	NA
+221	Ndanda_Nyep	pâ	Two	NA
+222	Ndanda_Shingou	pâ	Two	NA
+223	Ndanda_Ca-a	pâ	Two	NA
+224	Ndanda_Meno	pâ	Two	NA
+225	Ndanda_Lek	pá	Two	NA
+226	Ndanda_Ngwa	pǔ	Two	NA
+227	Ndanda_Twefap	pégɨ̌	Two	NA
+228	Ndanda_Denfap	pégɨ̌	Two	NA
+229	Ndanda_Zua	bá	Two	NA
+230	Goshimjang	bá 	Two	NA
+231	Ndanda_Nyep	tí	Three 	NA
+232	Ndanda_Shingou	tiɛ̌	Three 	NA
+233	Ndanda_Ca-a	tiɛ̌	Three 	NA
+234	Ndanda_Meno	tiɛ̌	Three 	NA
+235	Ndanda_Lek	tjɛ́	Three 	NA
+236	Ndanda_Ngwa	tě	Three 	NA
+237	Ndanda_Twefap	tě	Three 	NA
+238	Ndanda_Denfap	tě	Three 	NA
+239	Ndanda_Zua	té	Three 	NA
+240	Goshimjang	té	Three 	NA
+241	Ndanda_Nyep	kwɔ̂	Four 	NA
+242	Ndanda_Shingou	kwǎ	Four 	NA
+243	Ndanda_Ca-a	kwǎ	Four 	NA
+244	Ndanda_Meno	kwǎ	Four 	NA
+245	Ndanda_Lek	kwà	Four 	NA
+246	Ndanda_Ngwa	kwô	Four 	NA
+247	Ndanda_Twefap	kwɔ̂	Four 	NA
+248	Ndanda_Denfap	kwɔ̂	Four 	NA
+249	Ndanda_Zua	kwà	Four 	NA
+250	Goshimjang	kwà	Four 	NA
+251	Ndanda_Nyep	tǎ	Five 	NA
+252	Ndanda_Shingou	tǎ	Five 	NA
+253	Ndanda_Ca-a	tǎ	Five 	NA
+254	Ndanda_Meno	tǎ	Five 	NA
+255	Ndanda_Lek	tà	Five 	NA
+256	Ndanda_Ngwa	tɔ̌	Five 	NA
+257	Ndanda_Twefap	tɔ̌	Five 	NA
+258	Ndanda_Denfap	tɔ̌	Five 	NA
+259	Ndanda_Zua	tà 	Five 	NA
+260	Goshimjang	tà 	Five 	NA
+261	Ndanda_Nyep	ŋgǔʔ	Big 	NA
+262	Ndanda_Shingou	míjǎn ŋgɛ́	Big 	NA
+263	Ndanda_Ca-a	bûʔu ŋgɛ̌ 	Big 	NA
+264	Ndanda_Meno	míjǎn ŋgɛ́	Big 	NA
+265	Ndanda_Lek	ŋkɔ̀ŋgɛ̀ 	Big 	NA
+266	Ndanda_Ngwa	hǔ	Big 	NA
+267	Ndanda_Twefap	mbǔʔhí 	Big 	NA
+268	Ndanda_Denfap	hǔ	Big 	NA
+269	Ndanda_Zua	húʔ	Big 	NA
+270	Goshimjang	ŋkɔ̀ŋgì	Big 	NA
+271	Ndanda_Nyep	sǎ 	Long 	NA
+272	Ndanda_Shingou	sísíjá ŋgɛ́ 	Long 	NA
+273	Ndanda_Ca-a	sâ	Long 	NA
+274	Ndanda_Meno	sísíjá ŋgɛ́ 	Long 	NA
+275	Ndanda_Lek	sàh 	Long 	NA
+276	Ndanda_Ngwa	sâ	Long 	NA
+277	Ndanda_Twefap	sêgé ʒê	Long 	NA
+278	Ndanda_Denfap	sâ	Long 	NA
+279	Ndanda_Zua	sàh	Long 	NA
+280	Goshimjang	sàh	Long 	NA
+281	Ndanda_Nyep	zɨ̌ʔ	Wide 	NA
+282	Ndanda_Shingou	ŋkxé-á 	Wide 	NA
+283	Ndanda_Ca-a	ndíndê	Wide 	NA
+284	Ndanda_Meno	míjâŋgɛ́	Wide 	NA
+285	Ndanda_Lek	ndjɛ̀bə̀ 	Wide 	NA
+286	Ndanda_Ngwa	ŋkǐ 	Wide 	NA
+287	Ndanda_Twefap	ŋkxɔ̌ 	Wide 	NA
+288	Ndanda_Denfap	ŋkxɔ̌ 	Wide 	NA
+289	Ndanda_Zua	lígə́sə̀ 	Wide 	NA
+290	Goshimjang	lígə́sə̀ 	Wide 	NA
+291	Ndanda_Nyep	ŋgǔʔ	Thick	NA
+292	Ndanda_Shingou	húʔú	Thick	NA
+293	Ndanda_Ca-a	pâp ŋgɛ̌	Thick	NA
+294	Ndanda_Meno	nzɛ̌ 	Thick	NA
+295	Ndanda_Lek	zɛ̀	Thick	NA
+296	Ndanda_Ngwa	húʔ	Thick	NA
+297	Ndanda_Twefap	tsî tsɨ̌	Thick	NA
+298	Ndanda_Denfap	húʔ	Thick	NA
+299	Ndanda_Zua	kìtsìbì 	Thick	NA
+300	Goshimjang	húʔ	Thick	NA
+301	Ndanda_Nyep	nzǐ 	Heavy 	NA
+302	Ndanda_Shingou	nzǐ 	Heavy	NA
+303	Ndanda_Ca-a	zɛ̂	Heavy	NA
+304	Ndanda_Meno	zɛ̂	Heavy	NA
+305	Ndanda_Lek	ŋgɛ́ zɛ̀ 	Heavy	NA
+306	Ndanda_Ngwa	zé	Heavy	NA
+307	Ndanda_Twefap	ndzǐ 	Heavy	NA
+308	Ndanda_Denfap	tsé	Heavy	NA
+309	Ndanda_Zua	zì 	Heavy	NA
+310	Goshimjang	zɛ̀ 	Heavy	NA
+311	Ndanda_Nyep	kwɔ̌ 	Small 	NA
+312	Ndanda_Shingou	kwɔ̌ 	Small	NA
+313	Ndanda_Ca-a	kwɔ̌ 	Small	NA
+314	Ndanda_Meno	kwɔ̌ 	Small	NA
+315	Ndanda_Lek	mə̀tʃùʔú 	Small	NA
+316	Ndanda_Ngwa	méʒúwé 	Small	NA
+317	Ndanda_Twefap	ŋkwɨ̌	Small	NA
+318	Ndanda_Denfap	ŋkwɨ̌	Small	NA
+319	Ndanda_Zua	kxɔ́ 	Small	NA
+320	Goshimjang	ɣɔ́ 	Small	NA
+321	Ndanda_Nyep	bvɨ̌ 	Short 	NA
+322	Ndanda_Shingou	bvɨ̌ 	Short 	NA
+323	Ndanda_Ca-a	kɛ̌bɛ̌ 	Short 	NA
+324	Ndanda_Meno	kɛ̌bɛ̌ 	Short 	NA
+325	Ndanda_Lek	mə̀tʃùʔú 	Short 	NA
+326	Ndanda_Ngwa	kâp 	Short 	NA
+327	Ndanda_Twefap	mbvɔ̌ 	Short 	NA
+328	Ndanda_Denfap	bvɨ̌ 	Short 	NA
+329	Ndanda_Zua	mə̀tɔ́ŋgí 	Short 	NA
+330	Goshimjang	kɔ̀bíŋgɛ́ 	Short 	NA
+331	Ndanda_Nyep	zɨ́ 	Narrow 	NA
+332	Ndanda_Shingou	sɨ́ 	Narrow 	NA
+333	Ndanda_Ca-a	sɨ́ 	Narrow 	NA
+334	Ndanda_Meno	nwɔ̌ sé 	Narrow 	NA
+335	Ndanda_Lek	kə̀ɣéndə̀táŋ	Narrow 	NA
+336	Ndanda_Ngwa	kxɨ̌	Narrow 	NA
+337	Ndanda_Twefap	ŋkxɨ̌	Narrow 	NA
+338	Ndanda_Denfap	ŋúwɔ̀ tsé 	Narrow 	NA
+339	Ndanda_Zua	jàŋà 	Narrow 	NA
+340	Goshimjang	bjɛ́ 	Narrow 	NA
+341	Ndanda_Nyep	níjɛŋ 	Thin 	NA
+342	Ndanda_Shingou	tǎ ŋgɛ́ 	Thin 	NA
+343	Ndanda_Ca-a	tǎ ŋgɛ́ 	Thin 	NA
+344	Ndanda_Meno	ntɔ̌ʔŋgɛ́ 	Thin 	NA
+345	Ndanda_Lek	tóhì 	Thin 	NA
+346	Ndanda_Ngwa	ɲǎk 	Thin 	NA
+347	Ndanda_Twefap	ɲǎk 	Thin 	NA
+348	Ndanda_Denfap	krǐ 	Thin 	NA
+349	Ndanda_Zua	ndɔ̀ŋgí 	Thin 	NA
+350	Goshimjang	tʃàŋgɛ́ 	Thin 	NA
+351	Ndanda_Nyep	mɨ̂ʒwí	Woman 	NA
+352	Ndanda_Shingou	mɨ̂ʒwí	Woman 	NA
+353	Ndanda_Ca-a	mɨ̂ʒwí	Woman 	NA
+354	Ndanda_Meno	mɨ̂ʒwí	Woman 	NA
+355	Ndanda_Lek	mɨ̂ʒwí	Woman 	NA
+356	Ndanda_Ngwa	mɨ̂ʒwí	Woman 	NA
+357	Ndanda_Twefap	mɨ̂ʒwí	Woman 	NA
+358	Ndanda_Denfap	mɨ̂ʒwí	Woman 	NA
+359	Ndanda_Zua	mɨ̂ʒwí	Woman 	NA
+360	Goshimjang	mɨ̂ʒwí	Woman 	NA
+361	Ndanda_Nyep	mbǎgâ	Man 	NA
+362	Ndanda_Shingou	mbǎgâ	Man 	NA
+363	Ndanda_Ca-a	mbǎgâ	Man 	NA
+364	Ndanda_Meno	mbǎgâ	Man 	NA
+365	Ndanda_Lek	mbǎgâ	Man 	NA
+366	Ndanda_Ngwa	mbǎgâ	Man 	NA
+367	Ndanda_Twefap	mbǎgâ	Man 	NA
+368	Ndanda_Denfap	mbǎgâ	Man 	NA
+369	Ndanda_Zua	mbǎgâ	Man 	NA
+370	Goshimjang	mbǎgâ	Man 	NA
+371	Ndanda_Nyep	mɨ̂ntè 	Human 	NA
+372	Ndanda_Shingou	mɨ̂ntè 	Human 	NA
+373	Ndanda_Ca-a	mɨ̂ntè 	Human 	NA
+374	Ndanda_Meno	mɨ̂ntè 	Human 	NA
+375	Ndanda_Lek	̀mə̀ntə̀	Human 	NA
+376	Ndanda_Ngwa	mɨ̂ntè 	Human 	NA
+377	Ndanda_Twefap	mîntɨ̀k	Human 	NA
+378	Ndanda_Denfap	mìntè 	Human 	NA
+379	Ndanda_Zua	̀mə̀ntə̀	Human 	NA
+380	Goshimjang	̀mə̀ntə̀	Human 	NA
+381	Ndanda_Nyep	ŋǔ	Child 	NA
+382	Ndanda_Shingou	ŋǔ	Child 	NA
+383	Ndanda_Ca-a	ŋǔ	Child 	NA
+384	Ndanda_Meno	mǔ ǎ	Child 	NA
+385	Ndanda_Lek	ŋwɔ́	Child 	NA
+386	Ndanda_Ngwa	ŋúwɔ̌	Child 	NA
+387	Ndanda_Twefap	ŋǔwɔ̌	Child 	NA
+388	Ndanda_Denfap	ŋúwɔ̌	Child 	NA
+389	Ndanda_Zua	ŋwɔ́	Child 	NA
+390	Goshimjang	ŋwɔ́	Child 	NA
+391	Ndanda_Nyep	ɲʒì 	Wife 	NA
+392	Ndanda_Shingou	ɲʒǔ	Wife 	NA
+393	Ndanda_Ca-a	ɲʒì 	Wife 	NA
+394	Ndanda_Meno	ɲʒì 	Wife 	NA
+395	Ndanda_Lek	ɲʒwí	Wife 	NA
+396	Ndanda_Ngwa	ɲʒì 	Wife 	NA
+397	Ndanda_Twefap	dʒwíɛ́	Wife 	NA
+398	Ndanda_Denfap	ɲʒì 	Wife 	NA
+399	Ndanda_Zua	ɲʒwí	Wife 	NA
+400	Goshimjang	ɲʒwí	Wife 	NA
+401	Ndanda_Nyep	ndzúwì 	Husband 	NA
+402	Ndanda_Shingou	ndzǔ	Husband 	NA
+403	Ndanda_Ca-a	ndzǔ	Husband 	NA
+404	Ndanda_Meno	ndúwî	Husband 	NA
+405	Ndanda_Lek	ndúwi	Husband 	NA
+406	Ndanda_Ngwa	ndúwi	Husband 	NA
+407	Ndanda_Twefap	dzwɨ̌	Husband 	NA
+408	Ndanda_Denfap	dzwɨ̌	Husband 	NA
+409	Ndanda_Zua	ndúwî	Husband 	NA
+410	Goshimjang	ndzúwì 	Husband 	NA
+411	Ndanda_Nyep	mǎ jí 	Mother 	NA
+412	Ndanda_Shingou	mû	Mother 	NA
+413	Ndanda_Ca-a	mǎmá 	Mother 	NA
+414	Ndanda_Meno	mǎmá 	Mother 	NA
+415	Ndanda_Lek	má	Mother 	NA
+416	Ndanda_Ngwa	mɛ̌	Mother 	NA
+417	Ndanda_Twefap	mɛ̌	Mother 	NA
+418	Ndanda_Denfap	mɛ̌	Mother 	NA
+419	Ndanda_Zua	má	Mother 	NA
+420	Goshimjang	má	Mother 	NA
+421	Ndanda_Nyep	tǎ jí	Father 	NA
+422	Ndanda_Shingou	̀mbâjé	Father 	NA
+423	Ndanda_Ca-a	mǎ pá 	Father 	NA
+424	Ndanda_Meno	mbâ	Father 	NA
+425	Ndanda_Lek	tá	Father 	NA
+426	Ndanda_Ngwa	tɛ̌	Father 	NA
+427	Ndanda_Twefap	tɛ̌	Father 	NA
+428	Ndanda_Denfap	tɛ̌	Father 	NA
+429	Ndanda_Zua	tá	Father 	NA
+430	Goshimjang	tá	Father 	NA
+431	Ndanda_Nyep	nɔ̂	Animal 	NA
+432	Ndanda_Shingou	nɔ̂	Animal 	NA
+433	Ndanda_Ca-a	nɔ̂	Animal 	NA
+434	Ndanda_Meno	nɔ̂	Animal 	NA
+435	Ndanda_Lek	nɔ̂	Animal 	NA
+436	Ndanda_Ngwa	nɔ̂	Animal 	NA
+437	Ndanda_Twefap	nǔp 	Animal 	NA
+438	Ndanda_Denfap	nôp 	Animal 	NA
+439	Ndanda_Zua	ɲɔ̀	Animal 	NA
+440	Goshimjang	ɲɔ̀	Animal 	NA
+441	Ndanda_Nyep	̀̀mbâpʃɛ̀ 	Fish 	NA
+442	Ndanda_Shingou	̀̀mbâpsé  	Fish 	NA
+443	Ndanda_Ca-a	fíʃì	Fish 	NA
+444	Ndanda_Meno	físí	Fish 	NA
+445	Ndanda_Lek	mbàpsə̀  	Fish 	NA
+446	Ndanda_Ngwa	fíʃì	Fish 	NA
+447	Ndanda_Twefap	mbɛ̂ʃé	Fish 	NA
+448	Ndanda_Denfap	mbɛ̂ʃé	Fish 	NA
+449	Ndanda_Zua	mbàpsə̀  	Fish 	NA
+450	Goshimjang	mbàpsə̀  	Fish 	NA
+451	Ndanda_Nyep	sɨ̂k 	Bird 	NA
+452	Ndanda_Shingou	sɨ̂k 	Bird 	NA
+453	Ndanda_Ca-a	sɨ̂k 	Bird 	NA
+454	Ndanda_Meno	sɨ̂k 	Bird 	NA
+455	Ndanda_Lek	sɨ́ŋ	Bird 	NA
+456	Ndanda_Ngwa	sɨ̂k 	Bird 	NA
+457	Ndanda_Twefap	sɔ̌k 	Bird 	NA
+458	Ndanda_Denfap	sɔ̌k 	Bird 	NA
+459	Ndanda_Zua	sɨ́ŋ	Bird 	NA
+460	Goshimjang	sɨ́ŋ	Bird 	NA
+461	Ndanda_Nyep	̀mbvɔ́ 	Dog 	NA
+462	Ndanda_Shingou	mbvɔ́ 	Dog 	NA
+463	Ndanda_Ca-a	mbvɔ́ 	Dog 	NA
+464	Ndanda_Meno	mbvɔ́ 	Dog 	NA
+465	Ndanda_Lek	ɱvɔ́ 	Dog 	NA
+466	Ndanda_Ngwa	mbʉ̌	Dog 	NA
+467	Ndanda_Twefap	bvʉ́k 	Dog 	NA
+468	Ndanda_Denfap	mbʉ̌	Dog 	NA
+469	Ndanda_Zua	ɱvó 	Dog 	NA
+470	Goshimjang	ɱvɔ́ 	Dog 	NA
+471	Ndanda_Nyep	ntʃî	Louse 	NA
+472	Ndanda_Shingou	ntʃîɛ́	Louse 	NA
+473	Ndanda_Ca-a	nʃî-ɛ̌	Louse 	NA
+474	Ndanda_Meno	ntʃî ɛ́	Louse 	NA
+475	Ndanda_Lek	nʃî-ɛ̌	Louse 	NA
+476	Ndanda_Ngwa	nʃé 	Louse 	NA
+477	Ndanda_Twefap	ntʃé 	Louse 	NA
+478	Ndanda_Denfap	ntʃé 	Louse 	NA
+479	Ndanda_Zua	ntʃjɛ́	Louse 	NA
+480	Goshimjang	nʃjɛ́	Louse 	NA
+481	Ndanda_Nyep	nǔ	Snake 	NA
+482	Ndanda_Shingou	nǔ	Snake 	NA
+483	Ndanda_Ca-a	nǔ	Snake 	NA
+484	Ndanda_Meno	nǔ	Snake 	NA
+485	Ndanda_Lek	nú	Snake 	NA
+486	Ndanda_Ngwa	nǔ	Snake 	NA
+487	Ndanda_Twefap	ɲíjǔ	Snake 	NA
+488	Ndanda_Denfap	ɲíjǔ	Snake 	NA
+489	Ndanda_Zua	ɲú	Snake 	NA
+490	Goshimjang	ɲú	Snake 	NA
+491	Ndanda_Nyep	̀mɛ̌ŋún 	Worm 	NA
+492	Ndanda_Shingou	ńtê	Worm 	NA
+493	Ndanda_Ca-a	ńtê	Worm 	NA
+494	Ndanda_Meno	té tɨ́gé	Worm 	NA
+495	Ndanda_Lek	ntɨ̀tə̀ŋə̀ ʃìʃɔ̀	Worm 	NA
+496	Ndanda_Ngwa	ńtê teŋ lé	Worm 	NA
+497	Ndanda_Twefap	ǹté têk	Worm 	NA
+498	Ndanda_Denfap	ǹté têk	Worm 	NA
+499	Ndanda_Zua	ntɨ̀tə̀ŋə̀ ʃìʃɔ̀	Worm 	NA
+500	Goshimjang	ntɨ̀tə̀ŋə̀ ʃìʃɔ̀	Worm 	NA
+501	Ndanda_Nyep	tíjʉ̂	Tree 	NA
+502	Ndanda_Shingou	tíjʉ̂	Tree 	NA
+503	Ndanda_Ca-a	tʉ̌	Tree 	NA
+504	Ndanda_Meno	tʉ̌	Tree 	NA
+505	Ndanda_Lek	tə́h	Tree 	NA
+506	Ndanda_Ngwa	tsé	Tree 	NA
+507	Ndanda_Twefap	tsé	Tree 	NA
+508	Ndanda_Denfap	tsé	Tree 	NA
+509	Ndanda_Zua	tsí	Tree 	NA
+510	Goshimjang	tsí	Tree 	NA
+511	Ndanda_Nyep	mpû	Forest 	NA
+512	Ndanda_Shingou	mpû	Forest 	NA
+513	Ndanda_Ca-a	pǔʔ	Forest 	NA
+514	Ndanda_Meno	pǔʔ	Forest 	NA
+515	Ndanda_Lek	ɱvə̀ʔ	Forest 	NA
+516	Ndanda_Ngwa	pǔʔ	Forest 	NA
+517	Ndanda_Twefap	bvè	Forest 	NA
+518	Ndanda_Denfap	bvè	Forest 	NA
+519	Ndanda_Zua	ɱvʉ̀ʔ	Forest 	NA
+520	Goshimjang	ɱvə̀ʔ	Forest 	NA
+521	Ndanda_Nyep	ŋkwɨ̌	Stick 	NA
+522	Ndanda_Shingou	ŋkwɨ̌	Stick 	NA
+523	Ndanda_Ca-a	ŋkwɨ̌	Stick 	NA
+524	Ndanda_Meno	ŋkwɨ̌	Stick 	NA
+525	Ndanda_Lek	tə́bʒwí	Stick 	NA
+526	Ndanda_Ngwa	ŋkwɨ̌	Stick 	NA
+527	Ndanda_Twefap	ŋkwɨ̌	Stick 	NA
+528	Ndanda_Denfap	ŋkwɨ̌	Stick 	NA
+529	Ndanda_Zua	kə́pʒwí	Stick 	NA
+530	Goshimjang	tʃíɣə́ 	Stick 	NA
+531	Ndanda_Nyep	ntɔ̌ tɨ̌ 	Fruit	NA
+532	Ndanda_Shingou	ntɔ̌tíjǐ	Fruit	NA
+533	Ndanda_Ca-a	ntɔ̌ tɨ̌ 	Fruit	NA
+534	Ndanda_Meno	ntɔ̌ tɨ̌ 	Fruit	NA
+535	Ndanda_Lek	tɔ́ 	Fruit	NA
+536	Ndanda_Ngwa	ntǔm tsé	Fruit	NA
+537	Ndanda_Twefap	ntǔm tsé	Fruit	NA
+538	Ndanda_Denfap	ntǔm tsé	Fruit	NA
+539	Ndanda_Zua	ʒwíndìlə̀sə̀ 	Fruit	NA
+540	Goshimjang	ʒwínìlə̀sə̀ 	Fruit	NA
+541	Ndanda_Nyep	ʒwǐge	Seed	NA
+542	Ndanda_Shingou	ʒwɛ̌zɨ́	Seed	NA
+543	Ndanda_Ca-a	ʒwɛ̌	Seed	NA
+544	Ndanda_Meno	ʒwɛ̌zwɨ́	Seed	NA
+545	Ndanda_Lek	nə́h 	Seed	NA
+546	Ndanda_Ngwa	dúwíbvɨ̌	Seed	NA
+547	Ndanda_Twefap	dzwî tsé 	Seed	NA
+548	Ndanda_Denfap	dzwî tsé 	Seed	NA
+549	Ndanda_Zua	nə́h 	Seed	NA
+550	Goshimjang	nə́h 	Seed	NA
+551	Ndanda_Nyep	nxê	Leaf 	NA
+552	Ndanda_Shingou	nxê	Leaf	NA
+553	Ndanda_Ca-a	nxê	Leaf	NA
+554	Ndanda_Meno	nxê ntɨ̌	Leaf	NA
+555	Ndanda_Lek	ŋkxə̀ 	Leaf	NA
+556	Ndanda_Ngwa	nxê	Leaf	NA
+557	Ndanda_Twefap	kwěnt tsé 	Leaf	NA
+558	Ndanda_Denfap	kxə tsé 	Leaf	NA
+559	Ndanda_Zua	ŋkxə̀ 	Leaf	NA
+560	Goshimjang	ŋkxə̀ 	Leaf	NA
+561	Ndanda_Nyep	ŋgâk 	Root	NA
+562	Ndanda_Shingou	ŋgâk 	Root	NA
+563	Ndanda_Ca-a	ŋgâk 	Root	NA
+564	Ndanda_Meno	ŋgâk 	Root	NA
+565	Ndanda_Lek	ŋgàk 	Root	NA
+566	Ndanda_Ngwa	ŋgâk 	Root	NA
+567	Ndanda_Twefap	ŋgâk tsé 	Root	NA
+568	Ndanda_Denfap	ŋgâk tsé 	Root	NA
+569	Ndanda_Zua	ŋgàŋ	Root	NA
+570	Goshimjang	ŋgàŋ	Root	NA
+571	Ndanda_Nyep	ŋkəbə	Bark 	NA
+572	Ndanda_Shingou	ŋkəbə	Bark 	NA
+573	Ndanda_Ca-a	ŋkəbə	Bark 	NA
+574	Ndanda_Meno	ŋkəbə	Bark 	NA
+575	Ndanda_Lek	ŋkə̀bə̀	Bark 	NA
+576	Ndanda_Ngwa	ŋkébé 	Bark 	NA
+577	Ndanda_Twefap	ŋgɨ̂bé tsé 	Bark 	NA
+578	Ndanda_Denfap	ŋkêp 	Bark 	NA
+579	Ndanda_Zua	ŋkùbè 	Bark 	NA
+580	Goshimjang	ŋkùbì 	Bark 	NA
+581	Ndanda_Nyep	sɔ̌nìɲɛ̀ 	Flower 	NA
+582	Ndanda_Shingou	sɔ̌tíjɨ́	Flower	NA
+583	Ndanda_Ca-a	sǎŋ ŋgɛ̌ 	Flower	NA
+584	Ndanda_Meno	sɔ̌nìɲà	Flower	NA
+585	Ndanda_Lek	sɔ̌ɲìɲà 	Flower	NA
+586	Ndanda_Ngwa	flôwà 	Flower	NA
+587	Ndanda_Twefap	flôwà 	Flower	NA
+588	Ndanda_Denfap	sôp 	Flower	NA
+589	Ndanda_Zua	sǒɲìɲà 	Flower	NA
+590	Goshimjang	sɔ̌ɲìɲà 	Flower	NA
+591	Ndanda_Nyep	níɲɛ́ 	Grass	NA
+592	Ndanda_Shingou	níɲá 	Grass	NA
+593	Ndanda_Ca-a	níɲɛ́ 	Grass	NA
+594	Ndanda_Meno	níɲɛ́ 	Grass	NA
+595	Ndanda_Lek	ɲìɲà	Grass	NA
+596	Ndanda_Ngwa	níɲá 	Grass	NA
+597	Ndanda_Twefap	ɲɛ̌	Grass	NA
+598	Ndanda_Denfap	ɲɛ̌	Grass	NA
+599	Ndanda_Zua	ɲìɲà	Grass	NA
+600	Goshimjang	ɲìɲà 	Grass	NA
+601	Ndanda_Nyep	mbgwɛ̂ 	Rope 	NA
+602	Ndanda_Shingou	ŋkxé 	Rope 	NA
+603	Ndanda_Ca-a	ŋkxé ŋkxé 	Rope 	NA
+604	Ndanda_Meno	ŋgɛ̌p 	Rope 	NA
+605	Ndanda_Lek	ŋkxə̀ 	Rope 	NA
+606	Ndanda_Ngwa	̀̀mbgwé 	Rope 	NA
+607	Ndanda_Twefap	ŋkxê 	Rope 	NA
+608	Ndanda_Denfap	ŋgwɛ̂	Rope 	NA
+609	Ndanda_Zua	ŋkxə̀ 	Rope 	NA
+610	Goshimjang	ŋkxə̀ ŋkxè	Rope 	NA
+611	Ndanda_Nyep	ŋgɨ́bé 	Skin 	NA
+612	Ndanda_Shingou	ŋgɨ́bé nǔ	Skin 	NA
+613	Ndanda_Ca-a	mbâp nî 	Skin 	NA
+614	Ndanda_Meno	ŋgɨ́bé nǔ	Skin 	NA
+615	Ndanda_Lek	ŋgə́bə́	Skin 	NA
+616	Ndanda_Ngwa	ŋgɨ́p 	Skin 	NA
+617	Ndanda_Twefap	ŋgɨ̂p	Skin 	NA
+618	Ndanda_Denfap	ŋgɨ̂p	Skin 	NA
+619	Ndanda_Zua	ŋgúbə́ 	Skin 	NA
+620	Goshimjang	ŋgúbí 	Skin 	NA
+621	Ndanda_Nyep	mbâp 	Meat 	NA
+622	Ndanda_Shingou	mbâp 	Meat 	NA
+623	Ndanda_Ca-a	mbâp 	Meat 	NA
+624	Ndanda_Meno	mbâp 	Meat 	NA
+625	Ndanda_Lek	mbàp 	Meat 	NA
+626	Ndanda_Ngwa	̀mbɛ̂	Meat 	NA
+627	Ndanda_Twefap	̀mbɛ̂	Meat 	NA
+628	Ndanda_Denfap	̀mbɛ̂	Meat 	NA
+629	Ndanda_Zua	mbàp 	Meat 	NA
+630	Goshimjang	mbàp 	Meat 	NA
+631	Ndanda_Nyep	ʃè mbǎk 	Blood 	NA
+632	Ndanda_Shingou	sé mbǎk 	Blood 	NA
+633	Ndanda_Ca-a	sé mbǎk 	Blood 	NA
+634	Ndanda_Meno	nse mbǎk 	Blood 	NA
+635	Ndanda_Lek	ndzjɛ́p 	Blood 	NA
+636	Ndanda_Ngwa	dǐp 	Blood 	NA
+637	Ndanda_Twefap	ʃé pǎk 	Blood 	NA
+638	Ndanda_Denfap	tʃé pǎk 	Blood 	NA
+639	Ndanda_Zua	lɨ́gə́	Blood 	NA
+640	Goshimjang	lɨ́gə́	Blood 	NA
+641	Ndanda_Nyep	bvɨ̌	Bone 	NA
+642	Ndanda_Shingou	bvíjí 	Bone 	NA
+643	Ndanda_Ca-a	bvɨ̌	Bone 	NA
+644	Ndanda_Meno	bvɨ̌	Bone 	NA
+645	Ndanda_Lek	və́h 	Bone 	NA
+646	Ndanda_Ngwa	bvɨ̌	Bone 	NA
+647	Ndanda_Twefap	bvɔ̌	Bone 	NA
+648	Ndanda_Denfap	bvɨ̌	Bone 	NA
+649	Ndanda_Zua	vʉ́h 	Bone 	NA
+650	Goshimjang	və́h 	Fat 	NA
+651	Ndanda_Nyep	ŋgǔʔ	Fat 	NA
+652	Ndanda_Shingou	míján ŋgɛ́ 	Fat 	NA
+653	Ndanda_Ca-a	bǔʔû ŋgɛ̌ 	Fat 	NA
+654	Ndanda_Meno	ghâ	Fat 	NA
+655	Ndanda_Lek	ndɔ́ŋ 	Fat 	NA
+656	Ndanda_Ngwa	hú 	Fat 	NA
+657	Ndanda_Twefap	ŋgǔ	Fat 	NA
+658	Ndanda_Denfap	hǔ	Fat 	NA
+659	Ndanda_Zua	ndɔ́ŋ 	Fat 	NA
+660	Goshimjang	ndɔ́ŋ 	Fat 	NA
+661	Ndanda_Nyep	mbǐp 	Egg	NA
+662	Ndanda_Shingou	mbǐp 	Egg	NA
+663	Ndanda_Ca-a	mbǐp 	Egg	NA
+664	Ndanda_Meno	mbǐp 	Egg	NA
+665	Ndanda_Lek	búŋgə́p	Egg	NA
+666	Ndanda_Ngwa	mbǐp 	Egg	NA
+667	Ndanda_Twefap	mbǐp 	Egg	NA
+668	Ndanda_Denfap	mbǐp 	Egg	NA
+669	Ndanda_Zua	búŋgúp	Egg	NA
+670	Goshimjang	búŋgúp	Egg	NA
+671	Ndanda_Nyep	ndɔ̌k 	Horn 	NA
+672	Ndanda_Shingou	ndɔ̌k 	Horn 	NA
+673	Ndanda_Ca-a	ndɔ̌k 	Horn 	NA
+674	Ndanda_Meno	ndɔ̌k 	Horn 	NA
+675	Ndanda_Lek	ndɔ́ŋ 	Horn 	NA
+676	Ndanda_Ngwa	ndɔ̌k 	Horn 	NA
+677	Ndanda_Twefap	ndɔ̌k 	Horn 	NA
+678	Ndanda_Denfap	ndɔ̌k 	Horn 	NA
+679	Ndanda_Zua	ndɔ́ŋ 	Horn 	NA
+680	Goshimjang	ndɔ́ŋ 	Horn 	NA
+681	Ndanda_Nyep	ŋkǔ 	Tail	NA
+682	Ndanda_Shingou	ŋkǔ 	Tail	NA
+683	Ndanda_Ca-a	ŋkǔ 	Tail	NA
+684	Ndanda_Meno	ŋkǔ 	Tail	NA
+685	Ndanda_Lek	ŋkù 	Tail	NA
+686	Ndanda_Ngwa	ŋkǔ 	Tail	NA
+687	Ndanda_Twefap	ŋkû 	Tail	NA
+688	Ndanda_Denfap	ŋkû í 	Tail	NA
+689	Ndanda_Zua	ŋkù	Tail	NA
+690	Goshimjang	ŋkù 	Tail	NA
+691	Ndanda_Nyep	fə̀	Feather 	NA
+692	Ndanda_Shingou	fə̀	Feather 	NA
+693	Ndanda_Ca-a	mbâbâlǐ	Feather 	NA
+694	Ndanda_Meno	nʃû	Feather 	NA
+695	Ndanda_Lek	fúh 	Feather 	NA
+696	Ndanda_Ngwa	fə̀	Feather 	NA
+697	Ndanda_Twefap	fə̀	Feather 	NA
+698	Ndanda_Denfap	fə̀	Feather 	NA
+699	Ndanda_Zua	fúh 	Feather 	NA
+700	Goshimjang	fúh 	Feather 	NA
+701	Ndanda_Nyep	nɨ̌gé 	Hair 	NA
+702	Ndanda_Shingou	nɨ̌gé 	Hair 	NA
+703	Ndanda_Ca-a	nɨ̌gé 	Hair 	NA
+704	Ndanda_Meno	nɨ̌gé 	Hair 	NA
+705	Ndanda_Lek	ɲìŋtʃwí 	Hair 	NA
+706	Ndanda_Ngwa	nɔ̂k 	Hair 	NA
+707	Ndanda_Twefap	nɔ̂k 	Hair 	NA
+708	Ndanda_Denfap	nɔ̂k 	Hair 	NA
+709	Ndanda_Zua	ɲìŋtʃwí 	Hair 	NA
+710	Goshimjang	ɲìŋtʃwí 	Hair 	NA
+711	Ndanda_Nyep	twɨ̌ 	Head 	NA
+712	Ndanda_Shingou	tʃǔ	Head 	NA
+713	Ndanda_Ca-a	tʃǔ	Head 	NA
+714	Ndanda_Meno	twɨ̌ 	Head 	NA
+715	Ndanda_Lek	tʃwí 	Head 	NA
+716	Ndanda_Ngwa	twɨ̌ 	Head 	NA
+717	Ndanda_Twefap	twɨ̌ 	Head 	NA
+718	Ndanda_Denfap	twɨ̌ 	Head 	NA
+719	Ndanda_Zua	tʃwí 	Head 	NA
+720	Goshimjang	tʃwí 	Head 	NA
+721	Ndanda_Nyep	ntúgú 	Ear 	NA
+722	Ndanda_Shingou	ntúgú 	Ear 	NA
+723	Ndanda_Ca-a	ntǔgǔ	Ear 	NA
+724	Ndanda_Meno	ntúgú 	Ear 	NA
+725	Ndanda_Lek	tùŋù 	Ear 	NA
+726	Ndanda_Ngwa	ntɔ̌g	Ear 	NA
+727	Ndanda_Twefap	ntɔ̌k 	Ear 	NA
+728	Ndanda_Denfap	ntɔ̌k	Ear 	NA
+729	Ndanda_Zua	tùŋù	Ear 	NA
+730	Goshimjang	tùŋù	Ear 	NA
+731	Ndanda_Nyep	víjé	Eye 	NA
+732	Ndanda_Shingou	víjé mú	Eye 	NA
+733	Ndanda_Ca-a	né	Eye 	NA
+734	Ndanda_Meno	né	Eye 	NA
+735	Ndanda_Lek	zə́h 	Eye 	NA
+736	Ndanda_Ngwa	né 	Eye 	NA
+737	Ndanda_Twefap	nɔ̌	Eye 	NA
+738	Ndanda_Denfap	zɨ̌	Eye 	NA
+739	Ndanda_Zua	zʉ́h 	Eye 	NA
+740	Goshimjang	zə́h 	Eye 	NA
+741	Ndanda_Nyep	nzé	Nose 	NA
+742	Ndanda_Shingou	nzé	Nose 	NA
+743	Ndanda_Ca-a	nzé	Nose 	NA
+744	Ndanda_Meno	nzé	Nose 	NA
+745	Ndanda_Lek	nzə́	Nose 	NA
+746	Ndanda_Ngwa	nzé	Nose 	NA
+747	Ndanda_Twefap	nzé	Nose 	NA
+748	Ndanda_Denfap	nzé	Nose 	NA
+749	Ndanda_Zua	ndzə́	Nose 	NA
+750	Goshimjang	nzə́	Nose 	NA
+751	Ndanda_Nyep	ʃwǐ	Mouth 	NA
+752	Ndanda_Shingou	nʃǔ 	Mouth 	NA
+753	Ndanda_Ca-a	nʃǔ 	Mouth 	NA
+754	Ndanda_Meno	nʃǔwí	Mouth 	NA
+755	Ndanda_Lek	nʃǔ	Mouth 	NA
+756	Ndanda_Ngwa	nʃúwɔ̂	Mouth 	NA
+757	Ndanda_Twefap	nʃwé	Mouth 	NA
+758	Ndanda_Denfap	ntʃwǐ	Mouth 	NA
+759	Ndanda_Zua	ntʃǔ	Mouth 	NA
+760	Goshimjang	nʃǔ	Mouth 	NA
+761	Ndanda_Nyep	sɔ̂k 	Tooth 	NA
+762	Ndanda_Shingou	nsɔ̌n mú 	Tooth 	NA
+763	Ndanda_Ca-a	sɔ̂k mɛ́ 	Tooth 	NA
+764	Ndanda_Meno	sɔ̂k 	Tooth 	NA
+765	Ndanda_Lek	sɔ̀ŋ 	Tooth 	NA
+766	Ndanda_Ngwa	súwɔ̂ 	Tooth 	NA
+767	Ndanda_Twefap	súwɔ̌k 	Tooth 	NA
+768	Ndanda_Denfap	súwɔ̌k 	Tooth 	NA
+769	Ndanda_Zua	sɔ̀ŋ 	Tooth 	NA
+770	Goshimjang	sɔ̀ŋ 	Tooth 	NA
+771	Ndanda_Nyep	diɛ̌p 	Tongue 	NA
+772	Ndanda_Shingou	diɛ̌p zǔ	Tongue 	NA
+773	Ndanda_Ca-a	diɛ̌p zǐ	Tongue 	NA
+774	Ndanda_Meno	lɛ̌p	Tongue 	NA
+775	Ndanda_Lek	ndʒɛ́p 	Tongue 	NA
+776	Ndanda_Ngwa	dɨ̌p	Tongue 	NA
+777	Ndanda_Twefap	lǐp	Tongue 	NA
+778	Ndanda_Denfap	lǐp	Tongue 	NA
+779	Ndanda_Zua	lèlí	Tongue 	NA
+780	Goshimjang	lìlɛ́ 	Tongue 	NA
+781	Ndanda_Nyep	ŋkábá 	Finger nail 	NA
+782	Ndanda_Shingou	ŋkábá pú	Finger nail 	NA
+783	Ndanda_Ca-a	ŋkábá 	Finger nail 	NA
+784	Ndanda_Meno	ŋkábá 	Finger nail 	NA
+785	Ndanda_Lek	kàbàtʃwípú 	Finger nail 	NA
+786	Ndanda_Ngwa	ŋkɨ́bé 	Finger nail 	NA
+787	Ndanda_Twefap	ŋkǐp 	Finger nail 	NA
+788	Ndanda_Denfap	ŋkǐp 	Finger nail 	NA
+789	Ndanda_Zua	kàbàtʃwíbú 	Finger nail 	NA
+790	Goshimjang	kàbàtʃwíbú 	Finger nail 	NA
+791	Ndanda_Nyep	zízɔ̌	Foot 	NA
+792	Ndanda_Shingou	zízɔ̌	Foot 	NA
+793	Ndanda_Ca-a	zízɔ̌	Foot 	NA
+794	Ndanda_Meno	zízwɔ̌	Foot 	NA
+795	Ndanda_Lek	zízɔ̌	Foot 	NA
+796	Ndanda_Ngwa	zízɨ̌	Foot 	NA
+797	Ndanda_Twefap	ʒɨ̌tǐk	Foot 	NA
+798	Ndanda_Denfap	ʒwɨ̌tɨ́ 	Foot 	NA
+799	Ndanda_Zua	ʒwízɔ̌	Foot 	NA
+800	Goshimjang	ʒwízɔ̌	Foot 	NA
+801	Ndanda_Nyep	ŋkxé	Leg 	NA
+802	Ndanda_Shingou	ŋkxé mú	Leg 	NA
+803	Ndanda_Ca-a	ŋkxé mú	Leg 	NA
+804	Ndanda_Meno	ŋkxé	Leg 	NA
+805	Ndanda_Lek	kxə̀	Leg 	NA
+806	Ndanda_Ngwa	ŋkxé	Leg 	NA
+807	Ndanda_Twefap	ŋkxé	Leg 	NA
+808	Ndanda_Denfap	ŋkxwɔ̂ 	Leg 	NA
+809	Ndanda_Zua	kxə̀	Leg 	NA
+810	Goshimjang	kxə̀ 	Leg 	NA
+811	Ndanda_Nyep	zûk	Knee 	NA
+812	Ndanda_Shingou	zúk 	Knee 	NA
+813	Ndanda_Ca-a	túzǔk	Knee 	NA
+814	Ndanda_Meno	zúk 	Knee 	NA
+815	Ndanda_Lek	zùk 	Knee 	NA
+816	Ndanda_Ngwa	tútû	Knee 	NA
+817	Ndanda_Twefap	tétû	Knee 	NA
+818	Ndanda_Denfap	tétû	Knee 	NA
+819	Ndanda_Zua	zúŋ	Knee 	NA
+820	Goshimjang	zúŋ	Knee 	NA
+821	Ndanda_Nyep	pú 	Hand 	NA
+822	Ndanda_Shingou	mbú mú 	Hand 	NA
+823	Ndanda_Ca-a	mbǔ	Hand 	NA
+824	Ndanda_Meno	mbǔ	Hand 	NA
+825	Ndanda_Lek	pú 	Hand 	NA
+826	Ndanda_Ngwa	mbǔ	Hand 	NA
+827	Ndanda_Twefap	pǔ	Hand 	NA
+828	Ndanda_Denfap	pǔ	Hand 	NA
+829	Ndanda_Zua	bú	Hand 	NA
+830	Goshimjang	bú 	Hand 	NA
+831	Ndanda_Nyep	mbâbà 	Wing 	NA
+832	Ndanda_Shingou	mbâbà 	Wing 	NA
+833	Ndanda_Ca-a	mbâbà 	Wing 	NA
+834	Ndanda_Meno	mbâbà 	Wing 	NA
+835	Ndanda_Lek	mbàbə̀ 	Wing 	NA
+836	Ndanda_Ngwa	pɛ̌	Wing 	NA
+837	Ndanda_Twefap	mbɛ̌	Wing 	NA
+838	Ndanda_Denfap	mbɛ̌	Wing 	NA
+839	Ndanda_Zua	mbàbə̀ 	Wing 	NA
+840	Goshimjang	mbàbə̀ 	Wing 	NA
+841	Ndanda_Nyep	ɱvɔ̌p 	Belly 	NA
+842	Ndanda_Shingou	ɱvɔ̌p zú	Belly 	NA
+843	Ndanda_Ca-a	ɱvɔ̌p zí	Belly 	NA
+844	Ndanda_Meno	vɔ̌p	Belly 	NA
+845	Ndanda_Lek	vòp	Belly 	NA
+846	Ndanda_Ngwa	bvǎp	Belly 	NA
+847	Ndanda_Twefap	bvǎp	Belly 	NA
+848	Ndanda_Denfap	bvǎp	Belly 	NA
+849	Ndanda_Zua	vòp	Belly 	NA
+850	Goshimjang	vɔ̀p	Belly 	NA
+851	Ndanda_Nyep	tʃǎ	Guts 	NA
+852	Ndanda_Shingou	zú vɔ̌p	Guts 	NA
+853	Ndanda_Ca-a	tʃǎ	Guts 	NA
+854	Ndanda_Meno	tʃǎ	Guts 	NA
+855	Ndanda_Lek	ntú	Guts 	NA
+856	Ndanda_Ngwa	tʃǎ	Guts 	NA
+857	Ndanda_Twefap	ntʃǔ	Guts 	NA
+858	Ndanda_Denfap	ntʃǔ	Guts 	NA
+859	Ndanda_Zua	ntú	Guts 	NA
+860	Goshimjang	ntú 	Guts 	NA
+861	Ndanda_Nyep	ntɔ̌k	Neck 	NA
+862	Ndanda_Shingou	ntɔ́gú	Neck 	NA
+863	Ndanda_Ca-a	ntɔ́gú í 	Neck 	NA
+864	Ndanda_Meno	ntɔ̌k	Neck 	NA
+865	Ndanda_Lek	ntɔ́k 	Neck 	NA
+866	Ndanda_Ngwa	ntɔ́k 	Neck 	NA
+867	Ndanda_Twefap	ntɔ́k 	Neck 	NA
+868	Ndanda_Denfap	ntɔ́k 	Neck 	NA
+869	Ndanda_Zua	ntɔ́ŋ 	Neck 	NA
+870	Goshimjang	ntɔ́ŋ 	Neck 	NA
+871	Ndanda_Nyep	ŋkpə̀ 	Back 	NA
+872	Ndanda_Shingou	ŋkpə̀ 	Back 	NA
+873	Ndanda_Ca-a	ŋkpə̀ 	Back 	NA
+874	Ndanda_Meno	ŋkpə̀ 	Back 	NA
+875	Ndanda_Lek	ŋkpə̀ 	Back 	NA
+876	Ndanda_Ngwa	ŋkpə̀ 	Back 	NA
+877	Ndanda_Twefap	ŋkpə̀ 	Back 	NA
+878	Ndanda_Denfap	ŋkpə̀ 	Back 	NA
+879	Ndanda_Zua	ŋkpə̀ 	Back 	NA
+880	Goshimjang	ŋkpə̀ 	Back 	NA
+881	Ndanda_Nyep	pǐ	Breast 	NA
+882	Ndanda_Shingou	mbǐ	Breast 	NA
+883	Ndanda_Ca-a	pǐ	Breast 	NA
+884	Ndanda_Meno	pǐ	Breast 	NA
+885	Ndanda_Lek	mbə́h 	Breast 	NA
+886	Ndanda_Ngwa	pǐ	Breast 	NA
+887	Ndanda_Twefap	mbɨ̌k 	Breast 	NA
+888	Ndanda_Denfap	mbǐ	Breast 	NA
+889	Ndanda_Zua	mbʉ́h	Breast 	NA
+890	Goshimjang	mbə́h 	Breast 	NA
+891	Ndanda_Nyep	ntíɛ́p 	Heart 	NA
+892	Ndanda_Shingou	ntíɛ́p 	Heart 	NA
+893	Ndanda_Ca-a	ntíjǎ	Heart 	NA
+894	Ndanda_Meno	tɨ́p	Heart 	NA
+895	Ndanda_Lek	ntsí 	Heart 	NA
+896	Ndanda_Ngwa	tɨ̌p	Heart 	NA
+897	Ndanda_Twefap	tɨ̌p	Heart 	NA
+898	Ndanda_Denfap	tɨ̌p	Heart 	NA
+899	Ndanda_Zua	ntsí 	Heart 	NA
+900	Goshimjang	ntsí 	Heart 	NA
+901	Ndanda_Nyep	mbímí 	Liver 	NA
+902	Ndanda_Shingou	mbímǔ	Liver 	NA
+903	Ndanda_Ca-a	tʃɛ̌p zú 	Liver 	NA
+904	Ndanda_Meno	mbí 	Liver 	NA
+905	Ndanda_Lek	mbímí 	Liver 	NA
+906	Ndanda_Ngwa	mbîmí 	Liver 	NA
+907	Ndanda_Twefap	mbîmí	Liver 	NA
+908	Ndanda_Denfap	bví 	Liver 	NA
+909	Ndanda_Zua	ntsí 	Liver 	NA
+910	Goshimjang	ntsí 	Liver 	NA
+911	Ndanda_Nyep	nǔ 	to drink 	NA
+912	Ndanda_Shingou	nǔ 	to drink 	NA
+913	Ndanda_Ca-a	nǔ 	to drink 	NA
+914	Ndanda_Meno	nǔ 	to drink 	NA
+915	Ndanda_Lek	nə̀ nú 	to drink 	NA
+916	Ndanda_Ngwa	nǔ 	to drink 	NA
+917	Ndanda_Twefap	nǔ 	to drink 	NA
+918	Ndanda_Denfap	nǔ 	to drink 	NA
+919	Ndanda_Zua	ndì ɲú	to drink 	NA
+920	Goshimjang	nì ɲú 	to drink 	NA
+921	Ndanda_Nyep	kpwɛ̌	to eat 	NA
+922	Ndanda_Shingou	kpwɛ̌	to eat 	NA
+923	Ndanda_Ca-a	kpwɛ̌	to eat 	NA
+924	Ndanda_Meno	kpwɛ̌	to eat 	NA
+925	Ndanda_Lek	nə̀ ŋkpɛ́ 	to eat 	NA
+926	Ndanda_Ngwa	kpwé 	to eat 	NA
+927	Ndanda_Twefap	kpwé 	to eat 	NA
+928	Ndanda_Denfap	kpwé 	to eat 	NA
+929	Ndanda_Zua	ndì nkpɛ́ 	to eat 	NA
+930	Goshimjang	nì nkpɛ́ 	to eat 	NA
+931	Ndanda_Nyep	ndɨ̌p 	to bite 	NA
+932	Ndanda_Shingou	nděp 	to bite	NA
+933	Ndanda_Ca-a	nděp bî	to bite	NA
+934	Ndanda_Meno	lɨ̌p 	to bite	NA
+935	Ndanda_Lek	nə̀ tʃúh 	to bite	NA
+936	Ndanda_Ngwa	lěp	to bite	NA
+937	Ndanda_Twefap	dɨ̌p 	to bite	NA
+938	Ndanda_Denfap	lěp	to bite	NA
+939	Ndanda_Zua	ndì tʃúh 	to bite	NA
+940	Goshimjang	nì tʃúh 	to bite	NA
+941	Ndanda_Nyep	nǔ 	to suck 	NA
+942	Ndanda_Shingou	fíjɛ̌p sé 	to suck	NA
+943	Ndanda_Ca-a	nǔ sé 	to suck	NA
+944	Ndanda_Meno	fúwɔ̌p sé 	to suck	NA
+945	Ndanda_Lek	nə̀ ʃjɛ́ 	to suck	NA
+946	Ndanda_Ngwa	núwɔ̌k 	to suck	NA
+947	Ndanda_Twefap	núwɔ̌k 	to suck	NA
+948	Ndanda_Denfap	fíjɛ̌ tsé 	to suck	NA
+949	Ndanda_Zua	ndì sísə̀ 	to suck	NA
+950	Goshimjang	nì ɲɔ́ 	to suck	NA
+951	Ndanda_Nyep	ntɛ̂m tí 	to spit 	NA
+952	Ndanda_Shingou	ntí tí 	to spit 	NA
+953	Ndanda_Ca-a	ntɨ̌ tijɨ́	to spit 	NA
+954	Ndanda_Meno	ntí tí 	to spit 	NA
+955	Ndanda_Lek	nə̀ tʃì 	to spit 	NA
+956	Ndanda_Ngwa	tǒ	to spit 	NA
+957	Ndanda_Twefap	tǒ	to spit 	NA
+958	Ndanda_Denfap	tǒ	to spit 	NA
+959	Ndanda_Zua	ndì tʃì 	to spit 	NA
+960	Goshimjang	nì tʃì 	to spit 	NA
+961	Ndanda_Nyep	ndǐʔí	to vomit 	NA
+962	Ndanda_Shingou	dǐéʔ	to vomit 	NA
+963	Ndanda_Ca-a	nděʔé	to vomit 	NA
+964	Ndanda_Meno	lɨ̌ʔɨ́ 	to vomit 	NA
+965	Ndanda_Lek	nə̀ lə́ʔə́ 	to vomit 	NA
+966	Ndanda_Ngwa	lɨ̌ʔɨ́ 	to vomit 	NA
+967	Ndanda_Twefap	ndɔ̌ʔɔ́	to vomit 	NA
+968	Ndanda_Denfap	lɨ̌ʔɨ́ 	to vomit 	NA
+969	Ndanda_Zua	ndì lʉ́ʔʉ́ 	to vomit 	NA
+970	Goshimjang	nì lə́ʔə́ 	to vomit 	NA
+971	Ndanda_Nyep	fɛ̌sé 	to blow 	NA
+972	Ndanda_Shingou	fɛ́ mú 	to blow 	NA
+973	Ndanda_Ca-a	fɛ̌sé 	to blow 	NA
+974	Ndanda_Meno	fɛ̌sé 	to blow 	NA
+975	Ndanda_Lek	nə̀ fɔ́hsə́ 	to blow 	NA
+976	Ndanda_Ngwa	fě 	to blow 	NA
+977	Ndanda_Twefap	fǐ 	to blow 	NA
+978	Ndanda_Denfap	fé tsé 	to blow 	NA
+979	Ndanda_Zua	ndì fɔ́hsə́ 	to blow 	NA
+980	Goshimjang	nì fɔ́hsə́ 	to blow 	NA
+981	Ndanda_Nyep	ʒwǐhɛ̌ 	to breathe	NA
+982	Ndanda_Shingou	ʒwǐhɛ́ 	to breathe	NA
+983	Ndanda_Ca-a	ʒwǐhɛ́ 	to breathe	NA
+984	Ndanda_Meno	dʒwǐhɛ́ 	to breathe	NA
+985	Ndanda_Lek	nə̀ ʒwɛ̀hɛ̀ 	to breathe	NA
+986	Ndanda_Ngwa	ʒwǐhɛ́ 	to breathe	NA
+987	Ndanda_Twefap	ʒûwɔ̂	to breathe	NA
+988	Ndanda_Denfap	ʒûwɔ̂	to breathe	NA
+989	Ndanda_Zua	ndì ʒwɛ̀hɛ̀ 	to breathe	NA
+990	Goshimjang	nì ʒwɛ̀hɛ̀ 	to breathe	NA
+991	Ndanda_Nyep	nʒwǐ	to laugh 	NA
+992	Ndanda_Shingou	nʒwǐ	to laugh 	NA
+993	Ndanda_Ca-a	nʒwǐ	to laugh 	NA
+994	Ndanda_Meno	nʒwǐ	to laugh 	NA
+995	Ndanda_Lek	nə̀ ʒwí 	to laugh 	NA
+996	Ndanda_Ngwa	ɣǔ	to laugh 	NA
+997	Ndanda_Twefap	ŋɣǔ	to laugh 	NA
+998	Ndanda_Denfap	ɣǔ	to laugh 	NA
+999	Ndanda_Zua	ndì ʒwí	to laugh 	NA
+1000	Goshimjang	nì ʒwí	to laugh 	NA
+1001	Ndanda_Nyep	ndʒɨ̌	to see 	NA
+1002	Ndanda_Shingou	ndʒɨ̌	to see 	NA
+1003	Ndanda_Ca-a	ndʒɨ̌	to see 	NA
+1004	Ndanda_Meno	jɛ̌	to see 	NA
+1005	Ndanda_Lek	nə̀ jí 	to see 	NA
+1006	Ndanda_Ngwa	jɔ̌	to see 	NA
+1007	Ndanda_Twefap	ndʒɔ̌	to see 	NA
+1008	Ndanda_Denfap	ndʒɔ̌	to see 	NA
+1009	Ndanda_Zua	ndì lɔ́ŋsə́	to see 	NA
+1010	Goshimjang	nì lɔ́ŋsə́	to see 	NA
+1011	Ndanda_Nyep	ndʒû	to hear 	NA
+1012	Ndanda_Shingou	ndʒû	to hear 	NA
+1013	Ndanda_Ca-a	ndʒû	to hear 	NA
+1014	Ndanda_Meno	jǔʔǔ 	to hear 	NA
+1015	Ndanda_Lek	nə̀ júʔ	to hear 	NA
+1016	Ndanda_Ngwa	jǔ	to hear 	NA
+1017	Ndanda_Twefap	ndʒû	to hear 	NA
+1018	Ndanda_Denfap	jǔ	to hear 	NA
+1019	Ndanda_Zua	ndì ndʒúʔ	to hear 	NA
+1020	Goshimjang	nì júʔ	to hear 	NA
+1021	Ndanda_Nyep	ʒɛ̌ 	to nkow 	NA
+1022	Ndanda_Shingou	nzɨ̌	to nkow 	NA
+1023	Ndanda_Ca-a	nzɨ̌	to nkow 	NA
+1024	Ndanda_Meno	zɨ̌	to nkow 	NA
+1025	Ndanda_Lek	nə̀ zə́	to nkow 	NA
+1026	Ndanda_Ngwa	ʒɛ̌ 	to nkow 	NA
+1027	Ndanda_Twefap	ʒɛ̌ 	to nkow 	NA
+1028	Ndanda_Denfap	ʒɛ̌ 	to nkow 	NA
+1029	Ndanda_Zua	ndì lɛ̀ŋ	to nkow 	NA
+1030	Goshimjang	nì lɛ̀ŋ	to nkow 	NA
+1031	Ndanda_Nyep	ʃǎksé 	to think 	NA
+1032	Ndanda_Shingou	kpwǎk 	to think	NA
+1033	Ndanda_Ca-a	kpwǎk sé	to think	NA
+1034	Ndanda_Meno	kpwǎk sé	to think	NA
+1035	Ndanda_Lek	nə̀ kwàŋsə̀	to think	NA
+1036	Ndanda_Ngwa	kɨ̌pzɛ́ 	to think	NA
+1037	Ndanda_Twefap	kwǎgǎ	to think	NA
+1038	Ndanda_Denfap	kwǎk 	to think	NA
+1039	Ndanda_Zua	ndì kwàŋsə̀	to think	NA
+1040	Goshimjang	nə̀ kwàŋsə̀	to think	NA
+1041	Ndanda_Nyep	ndɛ̌p 	to smell 	NA
+1042	Ndanda_Shingou	ndɛ̌p	to smell 	NA
+1043	Ndanda_Ca-a	nʒǔ sɛ̌ 	to smell 	NA
+1044	Ndanda_Meno	sɛ̂	to smell 	NA
+1045	Ndanda_Lek	nə̀ lɛ̀psə̀	to smell 	NA
+1046	Ndanda_Ngwa	ndǎp 	to smell 	NA
+1047	Ndanda_Twefap	ndǎbǎ	to smell 	NA
+1048	Ndanda_Denfap	jǔ ʒwí 	to smell 	NA
+1049	Ndanda_Zua	ndì ndə̀p 	to smell 	NA
+1050	Goshimjang	nì júʔkə̀bɔ̀ŋ	to smell 	NA
+1051	Ndanda_Nyep	mbɔ̌	to fear 	NA
+1052	Ndanda_Shingou	mbɔ̌	to fear 	NA
+1053	Ndanda_Ca-a	mbɔ̌	to fear 	NA
+1054	Ndanda_Meno	mbɔ̌hɔ̌	to fear 	NA
+1055	Ndanda_Lek	nə̀ bɔ́h 	to fear 	NA
+1056	Ndanda_Ngwa	pú ɔ̌	to fear 	NA
+1057	Ndanda_Twefap	bwɔ̌ 	to fear 	NA
+1058	Ndanda_Denfap	púwɔ̌	to fear 	NA
+1059	Ndanda_Zua	ndì bɔ́h 	to fear 	NA
+1060	Goshimjang	nì bɔ́h 	to fear 	NA
+1061	Ndanda_Nyep	ndǐ	to sleep 	NA
+1062	Ndanda_Shingou	ndǐ	to sleep 	NA
+1063	Ndanda_Ca-a	ndǐ	to sleep 	NA
+1064	Ndanda_Meno	ndǐ	to sleep 	NA
+1065	Ndanda_Lek	nì dzí 	to sleep 	NA
+1066	Ndanda_Ngwa	zǐ	to sleep 	NA
+1067	Ndanda_Twefap	ndǐ	to sleep 	NA
+1068	Ndanda_Denfap	tsî	to sleep 	NA
+1069	Ndanda_Zua	ndì ndí	to sleep 	NA
+1070	Goshimjang	nì ndí 	to sleep 	NA
+1071	Ndanda_Nyep	tʃɨ̌je 	to live 	NA
+1072	Ndanda_Shingou	sé	to live 	NA
+1073	Ndanda_Ca-a	sɨ́ hǎ	to live 	NA
+1074	Ndanda_Meno	ntsɨ̌	to live 	NA
+1075	Ndanda_Lek	nə̀ zò 	to live 	NA
+1076	Ndanda_Ngwa	tʃɛ̂	to live 	NA
+1077	Ndanda_Twefap	ntʃě	to live 	NA
+1078	Ndanda_Denfap	tʃɛ̂	to live 	NA
+1079	Ndanda_Zua	ndì zùh 	to live 	NA
+1080	Goshimjang	nì zùh	to live 	NA
+1081	Ndanda_Nyep	ŋkwɔ̌ 	to die 	NA
+1082	Ndanda_Shingou	ŋkwɔ̌ 	to die 	NA
+1083	Ndanda_Ca-a	ŋkwɔ̌ 	to die 	NA
+1084	Ndanda_Meno	ŋkwɔ̌ 	to die 	NA
+1085	Ndanda_Lek	nə̀ gɣúhɔ́ 	to die 	NA
+1086	Ndanda_Ngwa	kfwɨ̌	to die 	NA
+1087	Ndanda_Twefap	kpwɨ̌k 	to die 	NA
+1088	Ndanda_Denfap	kwɨ̌	to die 	NA
+1089	Ndanda_Zua	ndì kxúhó 	to die 	NA
+1090	Goshimjang	nì gɣúhɔ́ 	to die 	NA
+1091	Ndanda_Nyep	ʒwɨ̌ 	to kill 	NA
+1092	Ndanda_Shingou	ʒwɨ̌ 	to kill 	NA
+1093	Ndanda_Ca-a	ʒǔ 	to kill 	NA
+1094	Ndanda_Meno	ʒwɨ̌ 	to kill 	NA
+1095	Ndanda_Lek	nə̀ ʒwí 	to kill 	NA
+1096	Ndanda_Ngwa	ʒwɨ̌ 	to kill 	NA
+1097	Ndanda_Twefap	dʒwɨ̌	to kill 	NA
+1098	Ndanda_Denfap	ʒwə	to kill 	NA
+1099	Ndanda_Zua	ndì ʒwí 	to kill 	NA
+1100	Goshimjang	nì ʒwí	to fight 	NA
+1101	Ndanda_Nyep	nzɔ̌kwɛ̌ 	to fight 	NA
+1102	Ndanda_Shingou	zǎp nǔ 	to fight 	NA
+1103	Ndanda_Ca-a	zǎp ɲíá  	to fight 	NA
+1104	Ndanda_Meno	nzɔ̌	to fight 	NA
+1105	Ndanda_Lek	nə̀ zɔ́ŋkwɛ̀ 	to fight 	NA
+1106	Ndanda_Ngwa	nzɛ́ ŋkwè 	to fight 	NA
+1107	Ndanda_Twefap	tʃǔ ŋkwè 	to fight 	NA
+1108	Ndanda_Denfap	tʃǔ ŋkwè 	to fight 	NA
+1109	Ndanda_Zua	ndì dzɔ́ŋkwɛ̀	to fight 	NA
+1110	Goshimjang	nì zɔ́ŋkwɛ̀	to fight 	NA
+1111	Ndanda_Nyep	ndʒǔk 	to hunt 	NA
+1112	Ndanda_Shingou	ndʒǔk 	to hunt 	NA
+1113	Ndanda_Ca-a	ndʒǔk 	to hunt 	NA
+1114	Ndanda_Meno	ndʒǔk 	to hunt 	NA
+1115	Ndanda_Lek	nə̀ táʔnɔ̀ 	to hunt 	NA
+1116	Ndanda_Ngwa	ijɔ̌k 	to hunt 	NA
+1117	Ndanda_Twefap	ndʒǔk 	to hunt 	NA
+1118	Ndanda_Denfap	ndʒɔ̌k	to hunt 	NA
+1119	Ndanda_Zua	ndì táʔɲɔ̀	to hunt 	NA
+1120	Goshimjang	nì táʔɲɔ̀	to hunt 	NA
+1121	Ndanda_Nyep	nzǎp 	to hit 	NA
+1122	Ndanda_Shingou	nzǎp 	to hit 	NA
+1123	Ndanda_Ca-a	nzǎp 	to hit 	NA
+1124	Ndanda_Meno	nzǎp 	to hit 	NA
+1125	Ndanda_Lek	nə̀ zabə̀ 	to hit 	NA
+1126	Ndanda_Ngwa	zɛ́ 	to hit 	NA
+1127	Ndanda_Twefap	mbǔ 	to hit 	NA
+1128	Ndanda_Denfap	nzǎp 	to hit 	NA
+1129	Ndanda_Zua	ndì zàbə̀ 	to hit 	NA
+1130	Goshimjang	nì zàbə̀ 	to hit 	NA
+1131	Ndanda_Nyep	ndʒâ	to cut 	NA
+1132	Ndanda_Shingou	ntʃɔ̌	to cut 	NA
+1133	Ndanda_Ca-a	jáʔǎ	to cut 	NA
+1134	Ndanda_Meno	ndʒǎ 	to cut 	NA
+1135	Ndanda_Lek	nə̀ jáʔ	to cut 	NA
+1136	Ndanda_Ngwa	jáʔá 	to cut 	NA
+1137	Ndanda_Twefap	ndʒâ	to cut 	NA
+1138	Ndanda_Denfap	jâ	to cut 	NA
+1139	Ndanda_Zua	ndì jáʔ	to cut 	NA
+1140	Goshimjang	nì jáʔ	to cut 	NA
+1141	Ndanda_Nyep	mbǎ	to split 	NA
+1142	Ndanda_Shingou	mbǎ	to split 	NA
+1143	Ndanda_Ca-a	pǎʔa	to split 	NA
+1144	Ndanda_Meno	mbǎ	to split 	NA
+1145	Ndanda_Lek	nə̀ tàhsə̀ 	to split 	NA
+1146	Ndanda_Ngwa	ì paʔ	to split 	NA
+1147	Ndanda_Twefap	mbɛ̌	to split 	NA
+1148	Ndanda_Denfap	pɛ̂	to split 	NA
+1149	Ndanda_Zua	ndì tàhsə̀ 	to split 	NA
+1150	Goshimjang	nì tàhsə̀ 	to split 	NA
+1151	Ndanda_Nyep	sɔ̌p 	to stab 	NA
+1152	Ndanda_Shingou	sɔ̌p 	to stab	NA
+1153	Ndanda_Ca-a	sɔ̌p 	to stab	NA
+1154	Ndanda_Meno	sɔ̌p 	to stab	NA
+1155	Ndanda_Lek	nə̀ sɛ̀p 	to stab	NA
+1156	Ndanda_Ngwa	sǔp 	to stab	NA
+1157	Ndanda_Twefap	sǔp 	to stab	NA
+1158	Ndanda_Denfap	sǔp 	to stab	NA
+1159	Ndanda_Zua	ndì sə̀b 	to stab	NA
+1160	Goshimjang	nì sə̀b 	to scratch 	NA
+1161	Ndanda_Nyep	kpwɔ̌p 	to scratch 	NA
+1162	Ndanda_Shingou	kpwɔ̌p 	to scratch 	NA
+1163	Ndanda_Ca-a	kpwɔ̌p 	to scratch 	NA
+1164	Ndanda_Meno	kpwɔ̌p 	to scratch 	NA
+1165	Ndanda_Lek	nə̀ kɔ́ŋɔ́ 	to scratch 	NA
+1166	Ndanda_Ngwa	kǔp	to scratch 	NA
+1167	Ndanda_Twefap	kǔp	to scratch 	NA
+1168	Ndanda_Denfap	kǔp	to scratch 	NA
+1169	Ndanda_Zua	nə̀ ŋkwɔ́bsə́ 	to scratch 	NA
+1170	Goshimjang	nì jùh 	to scratch 	NA
+1171	Ndanda_Nyep	zɨ̌ʔɨ́ 	to dig 	NA
+1172	Ndanda_Shingou	zɨ̌ʔɨ́ 	to dig 	NA
+1173	Ndanda_Ca-a	zɨ̌ʔɨ́ 	to dig 	NA
+1174	Ndanda_Meno	ntǔk	to dig 	NA
+1175	Ndanda_Lek	nə̀ sùʔú 	to dig 	NA
+1176	Ndanda_Ngwa	tsǔ	to dig 	NA
+1177	Ndanda_Twefap	nzɨ̌	to dig 	NA
+1178	Ndanda_Denfap	tɔ̌k	to dig 	NA
+1179	Ndanda_Zua	ndì tsúʔ	to dig 	NA
+1180	Goshimjang	nì súʔ	to dig 	NA
+1181	Ndanda_Nyep	láŋǎ ʃè	to swim 	NA
+1182	Ndanda_Shingou	nɔ̌ sé 	to swim 	NA
+1183	Ndanda_Ca-a	láŋǎ ʃè	to swim 	NA
+1184	Ndanda_Meno	sɛ̌t	to swim 	NA
+1185	Ndanda_Lek	nə̀ màʔànɔ̀	to swim 	NA
+1186	Ndanda_Ngwa	láŋá 	to swim 	NA
+1187	Ndanda_Twefap	láŋá 	to swim 	NA
+1188	Ndanda_Denfap	láŋá 	to swim 	NA
+1189	Ndanda_Zua	ndì ndàŋàtsə̀ 	to swim 	NA
+1190	Goshimjang	nì sɛ̀b 	to swim 	NA
+1191	Ndanda_Nyep	fɛ̌	to fly 	NA
+1192	Ndanda_Shingou	fɛ̌	to fly 	NA
+1193	Ndanda_Ca-a	fɛ̌	to fly 	NA
+1194	Ndanda_Meno	nfɛ̌	to fly 	NA
+1195	Ndanda_Lek	nə̀ ʒɔ̀ 	to fly 	NA
+1196	Ndanda_Ngwa	fé 	to fly 	NA
+1197	Ndanda_Twefap	ntě	to fly 	NA
+1198	Ndanda_Denfap	tě 	to fly 	NA
+1199	Ndanda_Zua	ndì ʒìhɔ̀ 	to fly 	NA
+1200	Goshimjang	nì ʒɔ̀ 	to fly 	NA
+1201	Ndanda_Nyep	ndʒǐ 	to walk 	NA
+1202	Ndanda_Shingou	ndzǐ 	to walk 	NA
+1203	Ndanda_Ca-a	nzǐ	to walk 	NA
+1204	Ndanda_Meno	zǐ	to walk 	NA
+1205	Ndanda_Lek	nə̀ zísə̀ 	to walk 	NA
+1206	Ndanda_Ngwa	ʒî	to walk 	NA
+1207	Ndanda_Twefap	ndʒí	to walk 	NA
+1208	Ndanda_Denfap	ʒî	to walk 	NA
+1209	Ndanda_Zua	ndì zə̀ 	to walk 	NA
+1210	Goshimjang	nì zə̀ 	to walk 	NA
+1211	Ndanda_Nyep	ŋwǎ	to come 	NA
+1212	Ndanda_Shingou	ŋkɨ̌p 	to come 	NA
+1213	Ndanda_Ca-a	kɨ̌p	to come 	NA
+1214	Ndanda_Meno	kɨ̌p	to come 	NA
+1215	Ndanda_Lek	nə̀ hɔ̀ʔɔ́ 	to come 	NA
+1216	Ndanda_Ngwa	ŋwâ	to come 	NA
+1217	Ndanda_Twefap	ŋwɛ̌	to come 	NA
+1218	Ndanda_Denfap	ŋwɛ̌	to come 	NA
+1219	Ndanda_Zua	ndì sɔ̀ʔɔ̀ 	to come 	NA
+1220	Goshimjang	nì sɔ̀ʔɔ̀ 	to come 	NA
+1221	Ndanda_Nyep	nɔ̂k 	to lie 	NA
+1222	Ndanda_Shingou	nɔ̂k 	to lie 	NA
+1223	Ndanda_Ca-a	nɔ̌kʃǐ	to lie 	NA
+1224	Ndanda_Meno	nɔ̂k 	to lie 	NA
+1225	Ndanda_Lek	nə̀ nɔ́ŋɔ́sé 	to lie 	NA
+1226	Ndanda_Ngwa	nɔ̂kʃǐ	to lie 	NA
+1227	Ndanda_Twefap	nɔ̂kʃǐ	to lie 	NA
+1228	Ndanda_Denfap	nɔ̂kʃǐ	to lie 	NA
+1229	Ndanda_Zua	ndì nɔ́ŋɔ́sé 	to lie 	NA
+1230	Goshimjang	nì nɔ́ŋɔ́sé	to lie 	NA
+1231	Ndanda_Nyep	tʃǐɛ 	to sit 	NA
+1232	Ndanda_Shingou	sɨ́sí 	to sit 	NA
+1233	Ndanda_Ca-a	sǐ ʃî 	to sit 	NA
+1234	Ndanda_Meno	tsé 	to sit 	NA
+1235	Ndanda_Lek	nə̀ sɨ́sə́ 	to sit 	NA
+1236	Ndanda_Ngwa	tʃɛ́ʃí 	to sit 	NA
+1237	Ndanda_Twefap	tʃíʃí 	to sit 	NA
+1238	Ndanda_Denfap	tʃíʃí 	to sit 	NA
+1239	Ndanda_Zua	ndì tsɨ́sə́ 	to sit 	NA
+1240	Goshimjang	nì sɨ́sə́ 	to sit 	NA
+1241	Ndanda_Nyep	ntsǐ tíjɨ́ 	to stand 	NA
+1242	Ndanda_Shingou	sítíjɨ́ 	to stand 	NA
+1243	Ndanda_Ca-a	sǐ tɨ̌ 	to stand 	NA
+1244	Ndanda_Meno	ndúhú tɨ́	to stand 	NA
+1245	Ndanda_Lek	nè tʃɨ́sə́	to stand 	NA
+1246	Ndanda_Ngwa	tsǐ tsé	to stand 	NA
+1247	Ndanda_Twefap	tsí tsɨ̂ 	to stand 	NA
+1248	Ndanda_Denfap	tsí tsɨ̂ 	to stand 	NA
+1249	Ndanda_Zua	ndì tʃɨ́sə́	to stand 	NA
+1250	Goshimjang	nì tʃɨ́sə́  	to stand 	NA
+1251	Ndanda_Nyep	fǎk 	to turn 	NA
+1252	Ndanda_Shingou	fǎk 	to turn 	NA
+1253	Ndanda_Ca-a	fǎksé níjǔ 	to turn 	NA
+1254	Ndanda_Meno	fǎk 	to turn 	NA
+1255	Ndanda_Lek	nə̀ kə̀ŋ	to turn 	NA
+1256	Ndanda_Ngwa	fǎk 	to turn 	NA
+1257	Ndanda_Twefap	fǎk ɲíhú 	to turn 	NA
+1258	Ndanda_Denfap	fǎk 	to turn 	NA
+1259	Ndanda_Zua	ndì kə̀ŋ	to turn 	NA
+1260	Goshimjang	nì kə̀ŋ	to turn 	NA
+1261	Ndanda_Nyep	ŋgwɔ̌sí 	to fall 	NA
+1262	Ndanda_Shingou	tɛ̌p sí 	to fall 	NA
+1263	Ndanda_Ca-a	tɛ̌p ʃí	to fall 	NA
+1264	Ndanda_Meno	tɛ̌p 	to fall 	NA
+1265	Ndanda_Lek	nə̀ tɔ̀psə́ 	to fall 	NA
+1266	Ndanda_Ngwa	bvɨʃi 	to fall 	NA
+1267	Ndanda_Twefap	mbɨk ʃǐ 	to fall 	NA
+1268	Ndanda_Denfap	tǎp ʃí 	to fall 	NA
+1269	Ndanda_Zua	ndì tə́psə́	to fall 	NA
+1270	Goshimjang	nì tɔ́psə́ 	to fall 	NA
+1271	Ndanda_Nyep	hɛ̌ 	to give 	NA
+1272	Ndanda_Shingou	hɛ̌ 	to give 	NA
+1273	Ndanda_Ca-a	hɛ̌ 	to give 	NA
+1274	Ndanda_Meno	hɛ̌ 	to give 	NA
+1275	Ndanda_Lek	nə̀ há 	to give 	NA
+1276	Ndanda_Ngwa	hɛ̌ 	to give 	NA
+1277	Ndanda_Twefap	hɛ̌ 	to give 	NA
+1278	Ndanda_Denfap	hɛ̌ 	to give 	NA
+1279	Ndanda_Zua	ndì há	to give 	NA
+1280	Goshimjang	nì há 	to give 	NA
+1281	Ndanda_Nyep	tʃíbɨ́ 	to hold 	NA
+1282	Ndanda_Shingou	tʃíbɨ́ 	to hold 	NA
+1283	Ndanda_Ca-a	tʃíbɨ́ 	to hold 	NA
+1284	Ndanda_Meno	tʃíbɨ́ 	to hold 	NA
+1285	Ndanda_Lek	nə̀ ʃìbə̀	to hold 	NA
+1286	Ndanda_Ngwa	wǔp 	to hold 	NA
+1287	Ndanda_Twefap	tʃǐp 	to hold 	NA
+1288	Ndanda_Denfap	tʃǐp 	to hold 	NA
+1289	Ndanda_Zua	ndì wɔ̀p 	to hold 	NA
+1290	Goshimjang	nì ʃìbì 	to hold 	NA
+1291	Ndanda_Nyep	nɔ̂ʔ	to squeeze	NA
+1292	Ndanda_Shingou	nɔ̂ʔ	to squeeze	NA
+1293	Ndanda_Ca-a	nɔ̂ʔ	to squeeze	NA
+1294	Ndanda_Meno	nɔ̂ʔ	to squeeze	NA
+1295	Ndanda_Lek	nə̀ sú	to squeeze	NA
+1296	Ndanda_Ngwa	ní	to squeeze	NA
+1297	Ndanda_Twefap	nɔ̌tsé 	to squeeze	NA
+1298	Ndanda_Denfap	núwɔ̂	to squeeze	NA
+1299	Ndanda_Zua	ndì nséʔ	to squeeze	NA
+1300	Goshimjang	nì mɔ́ 	to squeeze	NA
+1301	Ndanda_Nyep	sɛ̌p 	to rub 	NA
+1302	Ndanda_Shingou	kwɔ̌p 	to rub 	NA
+1303	Ndanda_Ca-a	sɨ̌ʔ	to rub 	NA
+1304	Ndanda_Meno	tʃɛ̌p	to rub 	NA
+1305	Ndanda_Lek	nè sʉ́ʔsə́	to rub 	NA
+1306	Ndanda_Ngwa	sǎp 	to rub 	NA
+1307	Ndanda_Twefap	sǎktsé 	to rub 	NA
+1308	Ndanda_Denfap	sǎp 	to rub 	NA
+1309	Ndanda_Zua	ndì séhé 	to rub 	NA
+1310	Goshimjang	nì zíʔsə̀ 	to rub 	NA
+1311	Ndanda_Nyep	sǔ 	to wash 	NA
+1312	Ndanda_Shingou	sǔ 	to wash	NA
+1313	Ndanda_Ca-a	sǔ 	to wash	NA
+1314	Ndanda_Meno	sǔ 	to wash	NA
+1315	Ndanda_Lek	nə̀ súʔù 	to wash	NA
+1316	Ndanda_Ngwa	sǔ 	to wash	NA
+1317	Ndanda_Twefap	sǔ 	to wash	NA
+1318	Ndanda_Denfap	sǔ 	to wash	NA
+1319	Ndanda_Zua	ndì súʔù	to wash	NA
+1320	Goshimjang	nì súʔù 	to wash	NA
+1321	Ndanda_Nyep	tʃwǐ	to wipe 	NA
+1322	Ndanda_Shingou	ʃúwɛ́ 	to wipe 	NA
+1323	Ndanda_Ca-a	tʃǔwɛ́ sé 	to wipe 	NA
+1324	Ndanda_Meno	tʃíʔí 	to wipe 	NA
+1325	Ndanda_Lek	nə̀ ʃɛ́sə́ 	to wipe 	NA
+1326	Ndanda_Ngwa	tʃíhí 	to wipe 	NA
+1327	Ndanda_Twefap	tʃǐhí 	to wipe 	NA
+1328	Ndanda_Denfap	tʃíʔí 	to wipe 	NA
+1329	Ndanda_Zua	ndì tʃɛ́sə́ 	to wipe 	NA
+1330	Goshimjang	nì ʃɛ́sə́ 	to wipe 	NA
+1331	Ndanda_Nyep	fɨ̀k 	to pull 	NA
+1332	Ndanda_Shingou	fɨ̀k 	to pull 	NA
+1333	Ndanda_Ca-a	fɨ̀k 	to pull 	NA
+1334	Ndanda_Meno	fɨ̀k 	to pull 	NA
+1335	Ndanda_Lek	nə̀ fə́ŋ 	to pull 	NA
+1336	Ndanda_Ngwa	fɨ̀k 	to pull 	NA
+1337	Ndanda_Twefap	fɔ̌k 	to pull 	NA
+1338	Ndanda_Denfap	fɨ̀k 	to pull 	NA
+1339	Ndanda_Zua	ndì fə́ŋ 	to pull 	NA
+1340	Goshimjang	nì fə́ŋ	to pull 	NA
+1341	Ndanda_Nyep	ntʃɛ̂ 	to push 	NA
+1342	Ndanda_Shingou	ntǐʔ	to push 	NA
+1343	Ndanda_Ca-a	ntʃɨ̌	to push 	NA
+1344	Ndanda_Meno	tʃɨ̌	to push 	NA
+1345	Ndanda_Lek	nə̀ ntʃú	to push 	NA
+1346	Ndanda_Ngwa	tʃé	to push 	NA
+1347	Ndanda_Twefap	ntsé 	to push 	NA
+1348	Ndanda_Denfap	tʃɨ̌	to push 	NA
+1349	Ndanda_Zua	ndì ntʃú	to push 	NA
+1350	Goshimjang	nì ntʃú	to push 	NA
+1351	Ndanda_Nyep	ŋgwâʔ	to throw 	NA
+1352	Ndanda_Shingou	ŋgwǎʔ	to throw 	NA
+1353	Ndanda_Ca-a	ŋgwǎʔ	to throw 	NA
+1354	Ndanda_Meno	ŋgwǎʔ	to throw 	NA
+1355	Ndanda_Lek	nè wáʔ	to throw 	NA
+1356	Ndanda_Ngwa	wǎʔá	to throw 	NA
+1357	Ndanda_Twefap	ŋgwǎʔ	to throw 	NA
+1358	Ndanda_Denfap	wǎʔ	to throw 	NA
+1359	Ndanda_Zua	ndì wáʔ	to throw 	NA
+1360	Goshimjang	nì wáʔá	to throw 	NA
+1361	Ndanda_Nyep	kpwǐ	to tie 	NA
+1362	Ndanda_Shingou	kpwǐt	to tie 	NA
+1363	Ndanda_Ca-a	phwǐt 	to tie 	NA
+1364	Ndanda_Meno	kpwǐt	to tie 	NA
+1365	Ndanda_Lek	nə̀ dzjɛ̀bə̀	to tie 	NA
+1366	Ndanda_Ngwa	kwǐ	to tie 	NA
+1367	Ndanda_Twefap	ŋkwǐ	to tie 	NA
+1368	Ndanda_Denfap	kwî	to tie 	NA
+1369	Ndanda_Zua	ndì kwɛ́t 	to tie 	NA
+1370	Goshimjang	nì kpɨ́ 	to tie 	NA
+1371	Ndanda_Nyep	tɛ̌p 	to sew	NA
+1372	Ndanda_Shingou	tɛ̌p 	to sew	NA
+1373	Ndanda_Ca-a	tɛ̌p 	to sew	NA
+1374	Ndanda_Meno	tɛ̌p 	to sew	NA
+1375	Ndanda_Lek	nè tə́p	to sew	NA
+1376	Ndanda_Ngwa	tǎp	to sew	NA
+1377	Ndanda_Twefap	ntǎp 	to sew	NA
+1378	Ndanda_Denfap	tǎp  	to sew	NA
+1379	Ndanda_Zua	ndì ntə́b 	to sew	NA
+1380	Goshimjang	nì tɔ́b	to sew	NA
+1381	Ndanda_Nyep	ʃǎkse	to count 	NA
+1382	Ndanda_Shingou	síják 	to count 	NA
+1383	Ndanda_Ca-a	ʃǎk	to count 	NA
+1384	Ndanda_Meno	síják 	to count 	NA
+1385	Ndanda_Lek	nè sáŋ 	to count 	NA
+1386	Ndanda_Ngwa	ʃǎk	to count 	NA
+1387	Ndanda_Twefap	ʃiǎk	to count 	NA
+1388	Ndanda_Denfap	ʃiǎk	to count 	NA
+1389	Ndanda_Zua	ndì ʃáŋ	to count 	NA
+1390	Goshimjang	nì sáŋ	to count 	NA
+1391	Ndanda_Nyep	ŋgɔ̌	to say 	NA
+1392	Ndanda_Shingou	ŋgɔ̌	to say 	NA
+1393	Ndanda_Ca-a	ŋgɔ̌	to say 	NA
+1394	Ndanda_Meno	ŋgɔ̌	to say 	NA
+1395	Ndanda_Lek	nə̀ hɔ̀	to say 	NA
+1396	Ndanda_Ngwa	wɔ̌p	to say 	NA
+1397	Ndanda_Twefap	ŋgǔp	to say 	NA
+1398	Ndanda_Denfap	ɣôp 	to say 	NA
+1399	Ndanda_Zua	ndì hɔ̀	to say 	NA
+1400	Goshimjang	nì hɔ̀	to say 	NA
+1401	Ndanda_Nyep	dʒwɔ̌p	to sing 	NA
+1402	Ndanda_Shingou	dʒɔ̌p	to sing 	NA
+1403	Ndanda_Ca-a	dʒɔ̌p ʃwî	to sing 	NA
+1404	Ndanda_Meno	dʒɔ̌p	to sing 	NA
+1405	Ndanda_Lek	nə̀ jɔ̀bʃì 	to sing 	NA
+1406	Ndanda_Ngwa	jǔp	to sing 	NA
+1407	Ndanda_Twefap	ndʒǔp 	to sing 	NA
+1408	Ndanda_Denfap	dʒwɔ̌p	to sing 	NA
+1409	Ndanda_Zua	ndì ndʒɛ́p 	to sing 	NA
+1410	Goshimjang	nì jɔ̀bʃì 	to sing 	NA
+1411	Ndanda_Nyep	ŋgɨ́ ŋgíjɛ̂	to play 	NA
+1412	Ndanda_Shingou	ŋgɨ́ ŋgxɛ̂ 	to play	NA
+1413	Ndanda_Ca-a	ŋgǎ ŋgxɨ̌	to play	NA
+1414	Ndanda_Meno	ŋgɨ́ ŋgrǎ 	to play	NA
+1415	Ndanda_Lek	nə̀ ŋgxə́ ŋgxá	to play	NA
+1416	Ndanda_Ngwa	tǎp 	to play	NA
+1417	Ndanda_Twefap	ŋgɨ̌ ŋgxɨ̌	to play	NA
+1418	Ndanda_Denfap	ŋgɨ̌ ŋgxɨ̌	to play	NA
+1419	Ndanda_Zua	ndì ŋgxə́ ŋgxá	to play	NA
+1420	Goshimjang	nì ŋgxə́ ʃɔ̀ 	to play	NA
+1421	Ndanda_Nyep	pǎ sé 	to float 	NA
+1422	Ndanda_Shingou	pǎ sé 	to float 	NA
+1423	Ndanda_Ca-a	pǎ sé 	to float 	NA
+1424	Ndanda_Meno	pǎ sé 	to float 	NA
+1425	Ndanda_Lek	nə̀ pásə̀ 	to float 	NA
+1426	Ndanda_Ngwa	pǎ sé 	to float 	NA
+1427	Ndanda_Twefap	pǎ sé 	to float 	NA
+1428	Ndanda_Denfap	pǎ sé 	to float 	NA
+1429	Ndanda_Zua	ndì básə̀	to float 	NA
+1430	Goshimjang	nì básè 	to float 	NA
+1431	Ndanda_Nyep	fîʔ	to flow 	NA
+1432	Ndanda_Shingou	fî	to flow 	NA
+1433	Ndanda_Ca-a	ntɨ̌p 	to flow 	NA
+1434	Ndanda_Meno	fî	to flow 	NA
+1435	Ndanda_Lek	nə̀ fî	to flow 	NA
+1436	Ndanda_Ngwa	ntɨ̌p 	to flow 	NA
+1437	Ndanda_Twefap	fî	to flow 	NA
+1438	Ndanda_Denfap	fî	to flow 	NA
+1439	Ndanda_Zua	ndì fé	to flow 	NA
+1440	Goshimjang	nì fé 	to flow 	NA
+1441	Ndanda_Nyep	ŋɨ̌p 	to freeze 	NA
+1442	Ndanda_Shingou	ŋɨ̌p 	to freeze 	NA
+1443	Ndanda_Ca-a	kpwǐt ntǔgɛ̌ 	to freeze 	NA
+1444	Ndanda_Meno	ŋɨ̌p 	to freeze 	NA
+1445	Ndanda_Lek	siŋ 	to freeze 	NA
+1446	Ndanda_Ngwa	kwid 	to freeze 	NA
+1447	Ndanda_Twefap	ŋêp	to freeze 	NA
+1448	Ndanda_Denfap	ŋêp	to freeze 	NA
+1449	Ndanda_Zua	ndì ɲwɛ̀ 	to freeze 	NA
+1450	Goshimjang	nì ɲwɛ̀ 	to freeze 	NA
+1451	Ndanda_Nyep	kǎʔse	to swell 	NA
+1452	Ndanda_Shingou	ŋgûʔ	to swell 	NA
+1453	Ndanda_Ca-a	kɔ́ʔɔ	to swell 	NA
+1454	Ndanda_Meno	kɔ́ʔɔ	to swell 	NA
+1455	Ndanda_Lek	múhǔ	to swell 	NA
+1456	Ndanda_Ngwa	hú	to swell 	NA
+1457	Ndanda_Twefap	kwɔ̌ʔɔ́	to swell 	NA
+1458	Ndanda_Denfap	ŋwî 	to swell 	NA
+1459	Ndanda_Zua	ndì màʔfɔ́ 	to swell 	NA
+1460	Goshimjang	nì kɔ́ʔɔ́ 	to swell 	NA
+1461	Ndanda_Nyep	nɛ̂p 	Sun 	NA
+1462	Ndanda_Shingou	nɛ̂p 	Sun 	NA
+1463	Ndanda_Ca-a	nɛ̂p 	Sun 	NA
+1464	Ndanda_Meno	nɛ̂p 	Sun 	NA
+1465	Ndanda_Lek	nàm 	Sun 	NA
+1466	Ndanda_Ngwa	něp 	Sun 	NA
+1467	Ndanda_Twefap	nɛ̂p 	Sun 	NA
+1468	Ndanda_Denfap	nɛ̂p 	Sun 	NA
+1469	Ndanda_Zua	ɲèm 	Sun 	NA
+1470	Goshimjang	ɲìm 	Sun 	NA
+1471	Ndanda_Nyep	mɛ̌ŋǔ 	Moon 	NA
+1472	Ndanda_Shingou	mɛ̌ŋǔ 	Moon 	NA
+1473	Ndanda_Ca-a	zɨ̌ mɛ̌ŋǔ 	Moon 	NA
+1474	Ndanda_Meno	mǎmǔ 	Moon 	NA
+1475	Ndanda_Lek	màŋwɔ́	Moon 	NA
+1476	Ndanda_Ngwa	mɨ̌ ŋǔ	Moon 	NA
+1477	Ndanda_Twefap	mǎmɨ̌k 	Moon 	NA
+1478	Ndanda_Denfap	mɛ̌ŋúɔ́ 	Moon 	NA
+1479	Ndanda_Zua	màŋwɔ́	Moon 	NA
+1480	Goshimjang	màŋwɔ́	Moon 	NA
+1481	Ndanda_Nyep	sâk	Star 	NA
+1482	Ndanda_Shingou	sâk	Star 	NA
+1483	Ndanda_Ca-a	sǎn mɛ̌ŋu	Star 	NA
+1484	Ndanda_Meno	sâk	Star 	NA
+1485	Ndanda_Lek	sàmáŋwɔ́ 	Star 	NA
+1486	Ndanda_Ngwa	sâk	Star 	NA
+1487	Ndanda_Twefap	sâk	Star 	NA
+1488	Ndanda_Denfap	sâk	Star 	NA
+1489	Ndanda_Zua	sàmáŋwɔ́ 	Star 	NA
+1490	Goshimjang	sàmáŋwɔ́ 	Star 	NA
+1491	Ndanda_Nyep	ʃê	Water 	NA
+1492	Ndanda_Shingou	nsé	Water 	NA
+1493	Ndanda_Ca-a	nsé	Water 	NA
+1494	Ndanda_Meno	nsé	Water 	NA
+1495	Ndanda_Lek	nsə̀	Water 	NA
+1496	Ndanda_Ngwa	nʃê 	Water 	NA
+1497	Ndanda_Twefap	nʃê 	Water 	NA
+1498	Ndanda_Denfap	nʃê 	Water 	NA
+1499	Ndanda_Zua	ntsə̀	Water 	NA
+1500	Goshimjang	nsə̀ 	Water 	NA
+1501	Ndanda_Nyep	̀̀mbɛ̂k 	Rain 	NA
+1502	Ndanda_Shingou	̀̀mbɛ̂k 	Rain 	NA
+1503	Ndanda_Ca-a	̀̀mbɨ̌k 	Rain 	NA
+1504	Ndanda_Meno	̀̀mbɛ̂k 	Rain 	NA
+1505	Ndanda_Lek	̀̀mbə̀k 	Rain 	NA
+1506	Ndanda_Ngwa	mbɨ̌k 	Rain 	NA
+1507	Ndanda_Twefap	mbɔ̌k 	Rain 	NA
+1508	Ndanda_Denfap	mbɔ̌k 	Rain 	NA
+1509	Ndanda_Zua	̀mbə̀ŋ 	Rain 	NA
+1510	Goshimjang	̀mbə̀ŋ 	Rain 	NA
+1511	Ndanda_Nyep	tâʔʃə̂	River 	NA
+1512	Ndanda_Shingou	kǔ nsé 	River 	NA
+1513	Ndanda_Ca-a	nsé	River 	NA
+1514	Ndanda_Meno	kǔ nsé 	River 	NA
+1515	Ndanda_Lek	nsə̀ 	River 	NA
+1516	Ndanda_Ngwa	kǔp 	River 	NA
+1517	Ndanda_Twefap	kǔp nʃê	River 	NA
+1518	Ndanda_Denfap	kǔm nʃê	River 	NA
+1519	Ndanda_Zua	ntsə̀ŋ ntsə̀	River 	NA
+1520	Goshimjang	nsə̀	River 	NA
+1521	Ndanda_Nyep	mɔ̌ʔ	Lake 	NA
+1522	Ndanda_Shingou	mɔ̌ʔ	Lake	NA
+1523	Ndanda_Ca-a	mɔ̌ʔ	Lake	NA
+1524	Ndanda_Meno	mɔ̌ʔ	Lake	NA
+1525	Ndanda_Lek	nsə̀ŋgɣʉ́ 	Lake	NA
+1526	Ndanda_Ngwa	mɔ̌ʔ	Lake	NA
+1527	Ndanda_Twefap	mɔ̌ʔ	Lake	NA
+1528	Ndanda_Denfap	́mɔ̌ʔɔ́ 	Lake	NA
+1529	Ndanda_Zua	búb ntsə̀ 	Lake	NA
+1530	Goshimjang	búb nsə̀ 	Lake	NA
+1531	Ndanda_Nyep	lípúwé ʃê	Sea 	NA
+1532	Ndanda_Shingou	míjá nsé	Sea 	NA
+1533	Ndanda_Ca-a	lípúwé ʃê	Sea 	NA
+1534	Ndanda_Meno	nsé ŋgɣɨ̌	Sea 	NA
+1535	Ndanda_Lek	nsə̀ ŋgɣí 	Sea 	NA
+1536	Ndanda_Ngwa	nsé ŋgɣɨ̌	Sea 	NA
+1537	Ndanda_Twefap	nʃê 	Sea 	NA
+1538	Ndanda_Denfap	lípúwé ʃê	Sea 	NA
+1539	Ndanda_Zua	ntsə̀ ŋgɣʉ́	Sea 	NA
+1540	Goshimjang	nsə̀ ŋkxìtàŋ 	Sea 	NA
+1541	Ndanda_Nyep	mbwǎk 	Salt 	NA
+1542	Ndanda_Shingou	mbwǎk 	Salt 	NA
+1543	Ndanda_Ca-a	mbwǎk 	Salt 	NA
+1544	Ndanda_Meno	ŋgwǎk 	Salt 	NA
+1545	Ndanda_Lek	ŋgwák 	Salt 	NA
+1546	Ndanda_Ngwa	mbwǎk 	Salt 	NA
+1547	Ndanda_Twefap	mbwǎk 	Salt 	NA
+1548	Ndanda_Denfap	ŋgwǎk 	Salt 	NA
+1549	Ndanda_Zua	ŋgwáŋ	Salt 	NA
+1550	Goshimjang	ŋgwáŋ	Salt 	NA
+1551	Ndanda_Nyep	lǔgû	Stone 	NA
+1552	Ndanda_Shingou	lǔgû	Stone 	NA
+1553	Ndanda_Ca-a	lǔgû	Stone 	NA
+1554	Ndanda_Meno	lǔgû	Stone 	NA
+1555	Ndanda_Lek	lúŋù	Stone 	NA
+1556	Ndanda_Ngwa	lɔ́gɔ̂ 	Stone 	NA
+1557	Ndanda_Twefap	lɔ́gɔ̂ 	Stone 	NA
+1558	Ndanda_Denfap	lɔ́gɔ̂ 	Stone 	NA
+1559	Ndanda_Zua	lùŋù 	Stone 	NA
+1560	Goshimjang	lùŋù 	Sand 	NA
+1561	Ndanda_Nyep	sâgâsâgâ	Sand	NA
+1562	Ndanda_Shingou	tʃǎ nsé 	Sand	NA
+1563	Ndanda_Ca-a	sâgâsâgâ	Sand	NA
+1564	Ndanda_Meno	sǎn sǎn 	Sand	NA
+1565	Ndanda_Lek	sàŋàsàŋà 	Sand	NA
+1566	Ndanda_Ngwa	sǎsǎ	Sand	NA
+1567	Ndanda_Twefap	sǎgǎ sǎgǎ	Sand	NA
+1568	Ndanda_Denfap	sǎgǎ sǎgǎ	Sand	NA
+1569	Ndanda_Zua	sàŋàsàŋà 	Sand	NA
+1570	Goshimjang	sàŋàsàŋà 	Sand	NA
+1571	Ndanda_Nyep	bvɔ̂bɔ̂ 	Dust 	NA
+1572	Ndanda_Shingou	bvɔ̂bɔ̂ 	Dust 	NA
+1573	Ndanda_Ca-a	bvǎbǎ	Dust 	NA
+1574	Ndanda_Meno	bvɔ̂bɔ̂ 	Dust 	NA
+1575	Ndanda_Lek	ɱvɔ́bɔ́ 	Dust 	NA
+1576	Ndanda_Ngwa	bvábâ	Dust 	NA
+1577	Ndanda_Twefap	bvábâ	Dust 	NA
+1578	Ndanda_Denfap	bvábâ	Dust 	NA
+1579	Ndanda_Zua	ɱvə́bə́ 	Dust 	NA
+1580	Goshimjang	ɱvɔ́bí  	Dust 	NA
+1581	Ndanda_Nyep	tʃǎʔá 	Earth 	NA
+1582	Ndanda_Shingou	tʃǎʔá 	Earth 	NA
+1583	Ndanda_Ca-a	tʃǎʔá 	Earth 	NA
+1584	Ndanda_Meno	tʃǎʔá 	Earth 	NA
+1585	Ndanda_Lek	tʃáʔá 	Earth 	NA
+1586	Ndanda_Ngwa	tʃǎʔá 	Earth 	NA
+1587	Ndanda_Twefap	tʃǎʔá 	Earth 	NA
+1588	Ndanda_Denfap	tʃǎʔá 	Earth 	NA
+1589	Ndanda_Zua	tʃáʔá 	Earth 	NA
+1590	Goshimjang	tʃáʔá 	Earth 	NA
+1591	Ndanda_Nyep	dî	Cloud 	NA
+1592	Ndanda_Shingou	díɛ̂	Cloud 	NA
+1593	Ndanda_Ca-a	díɛ̂	Cloud 	NA
+1594	Ndanda_Meno	díɛ̂	Cloud 	NA
+1595	Ndanda_Lek	ʒwɛ̀ 	Cloud 	NA
+1596	Ndanda_Ngwa	díɛ̂	Cloud 	NA
+1597	Ndanda_Twefap	lúwì 	Cloud 	NA
+1598	Ndanda_Denfap	lúwì 	Cloud 	NA
+1599	Ndanda_Zua	ʒwɛ̀ 	Cloud 	NA
+1600	Goshimjang	ʒwɛ̀ 	Cloud 	NA
+1601	Ndanda_Nyep	dî	fog 	NA
+1602	Ndanda_Shingou	míjá díɛ́ 	fog 	NA
+1603	Ndanda_Ca-a	diɛ́ diɛ́ 	fog 	NA
+1604	Ndanda_Meno	díɛ́ 	fog 	NA
+1605	Ndanda_Lek	díɛ́ 	fog 	NA
+1606	Ndanda_Ngwa	ɣúɣú	fog 	NA
+1607	Ndanda_Twefap	lúwì 	fog 	NA
+1608	Ndanda_Denfap	lúwì 	fog 	NA
+1609	Ndanda_Zua	dʒwɛ̀ 	fog 	NA
+1610	Goshimjang	ʒwɛ̀ 	fog 	NA
+1611	Ndanda_Nyep	kàɣáménɛ̌p 	Sky 	NA
+1612	Ndanda_Shingou	kàɣáménɛ̌p 	Sky 	NA
+1613	Ndanda_Ca-a	kàɣáménɛ̌p 	Sky 	NA
+1614	Ndanda_Meno	kàɣáménɛ̌p 	Sky 	NA
+1615	Ndanda_Lek	ŋkǎmə̀nàm	Sky 	NA
+1616	Ndanda_Ngwa	kàɣáménɛ̌p 	Sky 	NA
+1617	Ndanda_Twefap	kàɣáménɛ̌p 	Sky 	NA
+1618	Ndanda_Denfap	kàɣáménɛ̌m	Sky 	NA
+1619	Ndanda_Zua	ŋkǎmə̀ɲə̀m 	Sky 	NA
+1620	Goshimjang	ŋkǎmə̀ɲì̀m 	Sky 	NA
+1621	Ndanda_Nyep	féfɛ̂	Wind 	NA
+1622	Ndanda_Shingou	fɔ̌	Wind 	NA
+1623	Ndanda_Ca-a	fɔ̌	Wind 	NA
+1624	Ndanda_Meno	féfɛ̂	Wind 	NA
+1625	Ndanda_Lek	fɔ́h 	Wind 	NA
+1626	Ndanda_Ngwa	fíjɔ̌	Wind 	NA
+1627	Ndanda_Twefap	féfɛ̂	Wind 	NA
+1628	Ndanda_Denfap	féfɛ̂	Wind 	NA
+1629	Ndanda_Zua	fɔ́h 	Wind 	NA
+1630	Goshimjang	fɔ́h 	Wind 	NA
+1631	Ndanda_Nyep	ŋɨ̂p 	snow 	NA
+1632	Ndanda_Shingou	díɛ́ kwǐt 	snow 	NA
+1633	Ndanda_Ca-a	díɛ́ kwǐt 	snow 	NA
+1634	Ndanda_Meno	díɛ́ kwǐt 	snow 	NA
+1635	Ndanda_Lek	dzwɛ̀	snow 	NA
+1636	Ndanda_Ngwa	ŋúwɔ́ mbɨ̀ŋ 	snow 	NA
+1637	Ndanda_Twefap	ŋúwɔ́ mbɨ̀ŋ 	snow 	NA
+1638	Ndanda_Denfap	ŋúwɔ́ mbɨ̀ŋ 	snow 	NA
+1639	Ndanda_Zua	fùfùmbə̀ŋ	snow 	NA
+1640	Goshimjang	ntɔ́ɲɛ̀ 	snow 	NA
+1641	Ndanda_Nyep	ŋɨ̂p 	Ice 	NA
+1642	Ndanda_Shingou	ntɔ̌ŋíɛ́ 	Ice	NA
+1643	Ndanda_Ca-a	ɲíɛ́ mbɨn 	Ice	NA
+1644	Ndanda_Meno	ɲíɛ́ mbɨn 	Ice	NA
+1645	Ndanda_Lek	ɲɛ̀ 	Ice	NA
+1646	Ndanda_Ngwa	ŋúwɔ́ mbɨ̀ŋ 	Ice	NA
+1647	Ndanda_Twefap	ŋúwɔ́ mbɨ̀ŋ 	Ice	NA
+1648	Ndanda_Denfap	ŋúwɔ́ mbɨ̀ŋ 	Ice	NA
+1649	Ndanda_Zua	ɲɛ̀ 	Ice	NA
+1650	Goshimjang	ɲɛ̀ 	Ice	NA
+1651	Ndanda_Nyep	nzɨ̌mǔ	Smoke 	NA
+1652	Ndanda_Shingou	nzɨ̌mǔ	Smoke 	NA
+1653	Ndanda_Ca-a	nzɨ̌mǔ	Smoke 	NA
+1654	Ndanda_Meno	nzɨ̌mǔ	Smoke 	NA
+1655	Ndanda_Lek	nzə́mú 	Smoke 	NA
+1656	Ndanda_Ngwa	nzɨ mǒ	Smoke 	NA
+1657	Ndanda_Twefap	nzə́mǔ	Smoke 	NA
+1658	Ndanda_Denfap	nzɨ mǒ	Smoke 	NA
+1659	Ndanda_Zua	ndzə́mú 	Smoke 	NA
+1660	Goshimjang	nzə́mú 	Smoke 	NA
+1661	Ndanda_Nyep	mǔ 	Fire 	NA
+1662	Ndanda_Shingou	mǔ 	Fire	NA
+1663	Ndanda_Ca-a	mǔ 	Fire	NA
+1664	Ndanda_Meno	mǔ 	Fire	NA
+1665	Ndanda_Lek	múh 	Fire	NA
+1666	Ndanda_Ngwa	mǔ 	Fire	NA
+1667	Ndanda_Twefap	mǔ 	Fire	NA
+1668	Ndanda_Denfap	mǒ	Fire	NA
+1669	Ndanda_Zua	múh 	Fire	NA
+1670	Goshimjang	múh 	Fire	NA
+1671	Ndanda_Nyep	bvɔ́mǔ	Ash 	NA
+1672	Ndanda_Shingou	bvɨ̌mǔ	Ash 	NA
+1673	Ndanda_Ca-a	bvɔ́mǔ	Ash 	NA
+1674	Ndanda_Meno	bvɨ̌mǔ	Ash 	NA
+1675	Ndanda_Lek	ɱvúmúh 	Ash 	NA
+1676	Ndanda_Ngwa	bvɨ̌mǒ	Ash 	NA
+1677	Ndanda_Twefap	bvɨ̌mǔ	Ash 	NA
+1678	Ndanda_Denfap	bvɨ̌mǒ	Ash 	NA
+1679	Ndanda_Zua	ɱvúmúh	Ash 	NA
+1680	Goshimjang	ɱvúmúh	Ash 	NA
+1681	Ndanda_Nyep	ntǔ	to burn 	NA
+1682	Ndanda_Shingou	túwɔ̌	to burn 	NA
+1683	Ndanda_Ca-a	ntʃǔ	to burn 	NA
+1684	Ndanda_Meno	tíjɨ̌ 	to burn 	NA
+1685	Ndanda_Lek	nə̀ tùɣə̀	to burn 	NA
+1686	Ndanda_Ngwa	túwǒ	to burn 	NA
+1687	Ndanda_Twefap	ntǔgé 	to burn 	NA
+1688	Ndanda_Denfap	túwǒ	to burn 	NA
+1689	Ndanda_Zua	ndì tùɣə̀	to burn 	NA
+1690	Goshimjang	nì tùɣə̀	to burn 	NA
+1691	Ndanda_Nyep	mɛ̌ʒé 	Road 	NA
+1692	Ndanda_Shingou	mɛ̌zî	Road 	NA
+1693	Ndanda_Ca-a	mɛ̌zé 	Road 	NA
+1694	Ndanda_Meno	mǎzé 	Road 	NA
+1695	Ndanda_Lek	mâzə̀	Road 	NA
+1696	Ndanda_Ngwa	mɨ̌nʒé	Road 	NA
+1697	Ndanda_Twefap	mɨ̌nʒé	Road 	NA
+1698	Ndanda_Denfap	mɨ̌nʒé	Road 	NA
+1699	Ndanda_Zua	mâzə̀	Road 	NA
+1700	Goshimjang	mâzə̀	Road 	NA
+1701	Ndanda_Nyep	nkɔ̌	Mountain 	NA
+1702	Ndanda_Shingou	nkɔ̌	Mountain 	NA
+1703	Ndanda_Ca-a	nkɔ̌	Mountain 	NA
+1704	Ndanda_Meno	twîdî	Mountain 	NA
+1705	Ndanda_Lek	kɔ́ŋ	Mountain 	NA
+1706	Ndanda_Ngwa	kúwǒ	Mountain 	NA
+1707	Ndanda_Twefap	kɨ̂kɔ̂k 	Mountain 	NA
+1708	Ndanda_Denfap	kxɔ̂	Mountain 	NA
+1709	Ndanda_Zua	kɔ́ŋ	Mountain 	NA
+1710	Goshimjang	mbɛ̀lɛ̀ 	Mountain 	NA
+1711	Ndanda_Nyep	mbǎk 	Red	NA
+1712	Ndanda_Shingou	pâkpâk 	Red	NA
+1713	Ndanda_Ca-a	pâk 	Red	NA
+1714	Ndanda_Meno	pâk 	Red	NA
+1715	Ndanda_Lek	pàŋ	Red	NA
+1716	Ndanda_Ngwa	pâk 	Red	NA
+1717	Ndanda_Twefap	pâk 	Red	NA
+1718	Ndanda_Denfap	pâk 	Red	NA
+1719	Ndanda_Zua	bàŋ	Red	NA
+1720	Goshimjang	bàŋ	Red	NA
+1721	Ndanda_Nyep	lɨ́gɨ̌ lɨ́gɨ̌ 	Green 	NA
+1722	Ndanda_Shingou	lɨ́gɨ̌ lɨ́gɨ̌ 	Green 	NA
+1723	Ndanda_Ca-a	níɲɛ̀p fǐ	Green 	NA
+1724	Ndanda_Meno	nûjɛ̌nûjɛ̌	Green 	NA
+1725	Ndanda_Lek	ŋwaʔwaʔ	Green 	NA
+1726	Ndanda_Ngwa	niɲɛkɣǔ	Green 	NA
+1727	Ndanda_Twefap	niɲɛkɣǔ	Green 	NA
+1728	Ndanda_Denfap	niɲɛkɣǔ	Green 	NA
+1729	Ndanda_Zua	ɲìɲàfí	Green 	NA
+1730	Goshimjang	ɲwɛ̀ʔɲwɛ̀ʔ	Green 	NA
+1731	Ndanda_Nyep	ŋwaʔŋwaʔ	Yellow 	NA
+1732	Ndanda_Shingou	ŋwaʔŋwaʔ	Yellow 	NA
+1733	Ndanda_Ca-a	ŋwaʔŋwaʔ	Yellow 	NA
+1734	Ndanda_Meno	ŋwaʔŋwaʔ	Yellow 	NA
+1735	Ndanda_Lek	ŋwaʔŋwaʔ	Yellow 	NA
+1736	Ndanda_Ngwa	ŋwaʔŋwaʔ	Yellow 	NA
+1737	Ndanda_Twefap	ŋwaʔŋwaʔ	Yellow 	NA
+1738	Ndanda_Denfap	ŋwaʔŋwaʔ	Yellow 	NA
+1739	Ndanda_Zua	ŋwaʔwaʔ	Yellow 	NA
+1740	Goshimjang	ɲwɛ̀ʔɲwɛ̀ʔ	Yellow 	NA
+1741	Ndanda_Nyep	fɨ̌tɛ̌p 	White 	NA
+1742	Ndanda_Shingou	fíjɨ́ tɛ̌p 	White 	NA
+1743	Ndanda_Ca-a	fɨ̌tɛ̌p 	White 	NA
+1744	Ndanda_Meno	fɨ̌tɛ̌p 	White 	NA
+1745	Ndanda_Lek	fə́tə́p 	White 	NA
+1746	Ndanda_Ngwa	fɨ̌tǎp	White 	NA
+1747	Ndanda_Twefap	fɨ̌tǎp	White 	NA
+1748	Ndanda_Denfap	fɨ́ 	White 	NA
+1749	Ndanda_Zua	fʉ́tə́p 	White 	NA
+1750	Goshimjang	fə́tə́p 	White 	NA
+1751	Ndanda_Nyep	sísɨ́	Black 	NA
+1752	Ndanda_Shingou	sǐsɨ̌	Black 	NA
+1753	Ndanda_Ca-a	sísɨ̌	Black 	NA
+1754	Ndanda_Meno	sǐsɨ̌	Black 	NA
+1755	Ndanda_Lek	sɨsə́ 	Black 	NA
+1756	Ndanda_Ngwa	tse tse 	Black 	NA
+1757	Ndanda_Twefap	sísɨ̌	Black 	NA
+1758	Ndanda_Denfap	ʃíʃé	Black 	NA
+1759	Ndanda_Zua	sɨsə́ 	Black 	NA
+1760	Goshimjang	sɨsə́ 	Black 	NA
+1761	Ndanda_Nyep	tsû	Night 	NA
+1762	Ndanda_Shingou	tsǔ	Night 	NA
+1763	Ndanda_Ca-a	tsǔ	Night 	NA
+1764	Ndanda_Meno	tsǔ	Night 	NA
+1765	Ndanda_Lek	súʔ	Night 	NA
+1766	Ndanda_Ngwa	tsǔ	Night 	NA
+1767	Ndanda_Twefap	tsǔ	Night 	NA
+1768	Ndanda_Denfap	ntʃítsé 	Night 	NA
+1769	Ndanda_Zua	súʔ	Night 	NA
+1770	Goshimjang	súʔ	Night 	NA
+1771	Ndanda_Nyep	mǔtʃúwɔ̌	Day 	NA
+1772	Ndanda_Shingou	mǔtʃúwɔ̌	Day 	NA
+1773	Ndanda_Ca-a	mǔtʃúwɔ̌	Day 	NA
+1774	Ndanda_Meno	mǔtʃúwɔ̌	Day 	NA
+1775	Ndanda_Lek	mùʃɔ̀	Day 	NA
+1776	Ndanda_Ngwa	mǔtʃúwɔ̌	Day 	NA
+1777	Ndanda_Twefap	mǔtîp 	Day 	NA
+1778	Ndanda_Denfap	môtʃɨ̌	Day 	NA
+1779	Ndanda_Zua	mùtʃɔ̀	Day 	NA
+1780	Goshimjang	múʃɔ̀	Day 	NA
+1781	Ndanda_Nyep	ŋgûʔú nzɔ̌	Year 	NA
+1782	Ndanda_Shingou	ŋgûʔú nzɔ̌	Year 	NA
+1783	Ndanda_Ca-a	ŋgûʔú nzɔ̌	Year 	NA
+1784	Ndanda_Meno	ŋgûʔú nzɔ̌	Year 	NA
+1785	Ndanda_Lek	ŋgùʔù nzɔ́ 	Year 	NA
+1786	Ndanda_Ngwa	ŋgǔʔ	Year 	NA
+1787	Ndanda_Twefap	ŋgǔ dɨ̌k	Year 	NA
+1788	Ndanda_Denfap	ŋgǔ dzɨ̌	Year 	NA
+1789	Ndanda_Zua	ŋgùʔù nzɔ́ 	Year 	NA
+1790	Goshimjang	ŋgùʔù nzɔ́ 	Year 	NA
+1791	Ndanda_Nyep	nděp 	Warm 	NA
+1792	Ndanda_Shingou	nděp 	Warm 	NA
+1793	Ndanda_Ca-a	nděp 	Warm 	NA
+1794	Ndanda_Meno	ndɨ̌p 	Warm 	NA
+1795	Ndanda_Lek	ndèp 	Warm 	NA
+1796	Ndanda_Ngwa	nděp 	Warm 	NA
+1797	Ndanda_Twefap	ntǔgé 	Warm 	NA
+1798	Ndanda_Denfap	ndɨ̌p 	Warm 	NA
+1799	Ndanda_Zua	ndzìp	Warm 	NA
+1800	Goshimjang	ndìp 	Warm 	NA
+1801	Ndanda_Nyep	fɔ̌	Cold 	NA
+1802	Ndanda_Shingou	fɔ̌	Cold 	NA
+1803	Ndanda_Ca-a	fí	Cold 	NA
+1804	Ndanda_Meno	fɔ̌	Cold 	NA
+1805	Ndanda_Lek	fɔ́h 	Cold 	NA
+1806	Ndanda_Ngwa	ɣú	Cold 	NA
+1807	Ndanda_Twefap	ɣú	Cold 	NA
+1808	Ndanda_Denfap	ɣú	Cold 	NA
+1809	Ndanda_Zua	fɔ́h 	Cold 	NA
+1810	Goshimjang	fɔ́h 	Cold 	NA
+1811	Ndanda_Nyep	ndúhǔ	Full 	NA
+1812	Ndanda_Shingou	lúhǔ	Full 	NA
+1813	Ndanda_Ca-a	lúhǔ	Full 	NA
+1814	Ndanda_Meno	ndúhǔ	Full 	NA
+1815	Ndanda_Lek	lúhú	Full 	NA
+1816	Ndanda_Ngwa	lǒ	Full 	NA
+1817	Ndanda_Twefap	ndúhǔ	Full 	NA
+1818	Ndanda_Denfap	lúhǔ	Full 	NA
+1819	Ndanda_Zua	lúhú	Full 	NA
+1820	Goshimjang	lúhú 	Full 	NA
+1821	Ndanda_Nyep	jǐ súwɨ̌	New 	NA
+1822	Ndanda_Shingou	jǐ súwɨ̌	New 	NA
+1823	Ndanda_Ca-a	jǐ súwɨ̌	New 	NA
+1824	Ndanda_Meno	jǐ súwɨ̌	New 	NA
+1825	Ndanda_Lek	sú	New 	NA
+1826	Ndanda_Ngwa	swɔ̌	New 	NA
+1827	Ndanda_Twefap	súwɨ̌	New 	NA
+1828	Ndanda_Denfap	súwɨ̌	New 	NA
+1829	Ndanda_Zua	swə́	New 	NA
+1830	Goshimjang	sú 	New 	NA
+1831	Ndanda_Nyep	zû	Old 	NA
+1832	Ndanda_Shingou	zû	Old 	NA
+1833	Ndanda_Ca-a	nzǔ	Old 	NA
+1834	Ndanda_Meno	zû	Old 	NA
+1835	Ndanda_Lek	nzɔ̀	Old 	NA
+1836	Ndanda_Ngwa	nzwɛ̌	Old 	NA
+1837	Ndanda_Twefap	bvɨ̌gé	Old 	NA
+1838	Ndanda_Denfap	dzúmé	Old 	NA
+1839	Ndanda_Zua	ndzùŋgí	Old 	NA
+1840	Goshimjang	mbámbìhì 	Old 	NA
+1841	Ndanda_Nyep	ŋgɛ́ pɔ̂k 	Good 	NA
+1842	Ndanda_Shingou	ŋgɛ́ pɔ̂k	Good 	NA
+1843	Ndanda_Ca-a	ŋgɛ́ pɔ̂k	Good 	NA
+1844	Ndanda_Meno	mbɔ̌k 	Good 	NA
+1845	Ndanda_Lek	pɔ̀ŋ	Good 	NA
+1846	Ndanda_Ngwa	pwô	Good 	NA
+1847	Ndanda_Twefap	bvɔ̌k 	Good 	NA
+1848	Ndanda_Denfap	púwɔ̂k 	Good 	NA
+1849	Ndanda_Zua	 bɔ̀ŋ	Good	NA
+1850	Goshimjang	bɔ̀ŋ	Good	NA
+1851	Ndanda_Nyep	ŋgɛ́ piijɨ̌	Bad	NA
+1852	Ndanda_Shingou	ŋgɛ́ piijɨ̌	Bad	NA
+1853	Ndanda_Ca-a	ŋgɛ́ pɨ̌	Bad	NA
+1854	Ndanda_Meno	mbǒ	Bad	NA
+1855	Ndanda_Lek	kə̀ pɔ̀ŋ	Bad	NA
+1856	Ndanda_Ngwa	pɨ̌	Bad	NA
+1857	Ndanda_Twefap	mbɔ̌	Bad	NA
+1858	Ndanda_Denfap	pɨ̌	Bad	NA
+1859	Ndanda_Zua	kə̀ bɔ̀ŋ	Bad	NA
+1860	Goshimjang	kì bɔ̀ŋ 	Bad	NA
+1861	Ndanda_Nyep	mbǐ	Rotten 	NA
+1862	Ndanda_Shingou	pî	Rotten 	NA
+1863	Ndanda_Ca-a	ŋgɛ́ pí 	Rotten 	NA
+1864	Ndanda_Meno	mbǐ	Rotten 	NA
+1865	Ndanda_Lek	ŋgə́ pì	Rotten 	NA
+1866	Ndanda_Ngwa	pfó	Rotten 	NA
+1867	Ndanda_Twefap	mbvǔ 	Rotten 	NA
+1868	Ndanda_Denfap	pfú	Rotten 	NA
+1869	Ndanda_Zua	bí	Rotten 	NA
+1870	Goshimjang	sɔ́	Rotten 	NA
+1871	Ndanda_Nyep	dôtî	Dirty 	NA
+1872	Ndanda_Shingou	dôtî	Dirty 	NA
+1873	Ndanda_Ca-a	dôtî	Dirty 	NA
+1874	Ndanda_Meno	dôtî	Dirty 	NA
+1875	Ndanda_Lek	lòtsì 	Dirty 	NA
+1876	Ndanda_Ngwa	dôtî	Dirty 	NA
+1877	Ndanda_Twefap	ʃǐp	Dirty 	NA
+1878	Ndanda_Denfap	fɨ̀p	Dirty 	NA
+1879	Ndanda_Zua	lòtsì 	Dirty	NA
+1880	Goshimjang	lòtsì 	Dirty	NA
+1881	Ndanda_Nyep	ndɨ́ŋ ndék 	Straight 	NA
+1882	Ndanda_Shingou	ndɨ́ŋ ndék 	Straight 	NA
+1883	Ndanda_Ca-a	ndɨ́ŋ ndék 	Straight 	NA
+1884	Ndanda_Meno	ndɨ́ŋ ndék 	Straight 	NA
+1885	Ndanda_Lek	ndə̀ŋ ndə̀ŋ 	Straight 	NA
+1886	Ndanda_Ngwa	nděk 	Straight 	NA
+1887	Ndanda_Twefap	ndɔ̌ ndɔ̌k 	Straight 	NA
+1888	Ndanda_Denfap	ndɔ̌ ndɔ̌k 	Straight 	NA
+1889	Ndanda_Zua	ndə̀ŋ ndə̀ŋ 	Straight 	NA
+1890	Goshimjang	ndə̀ŋ ndə̀ŋ 	Straight 	NA
+1891	Ndanda_Nyep	ŋgɛ́ zíbé 	Round 	NA
+1892	Ndanda_Shingou	ŋgɛ́ zíbé 	Round 	NA
+1893	Ndanda_Ca-a	zíjɛ́bɛ̌ 	Round 	NA
+1894	Ndanda_Meno	ŋɛ̌rɛ̌	Round 	NA
+1895	Ndanda_Lek	ŋgə́ zìŋə̀	Round 	NA
+1896	Ndanda_Ngwa	ndzǐbé 	Round 	NA
+1897	Ndanda_Twefap	ndzǐbé 	Round 	NA
+1898	Ndanda_Denfap	tsébé 	Round 	NA
+1899	Ndanda_Zua	túʔŋgí 	Round 	NA
+1900	Goshimjang	tǔŋgɛ́ 	Round 	NA
+1901	Ndanda_Nyep	ʃúwɔ́ 	Sharp 	NA
+1902	Ndanda_Shingou	ʃúwɔ́ 	Sharp 	NA
+1903	Ndanda_Ca-a	ʃɔ̌	Sharp 	NA
+1904	Ndanda_Meno	ʃɔ̌	Sharp 	NA
+1905	Ndanda_Lek	ʃɔ́ʔɔ́	Sharp 	NA
+1906	Ndanda_Ngwa	tʃíjé	Sharp 	NA
+1907	Ndanda_Twefap	ntʃê 	Sharp 	NA
+1908	Ndanda_Denfap	ntʃíwɔ̌	Sharp 	NA
+1909	Ndanda_Zua	tʃɔ́ʔɔ́	Sharp 	NA
+1910	Goshimjang	ʃɔ́ʔɔ́	Sharp 	NA
+1911	Ndanda_Nyep	ŋgɛ́ mɨ̌sé	Dull 	NA
+1912	Ndanda_Shingou	dɔ̌ŋ ʒɛ̌p 	Dull 	NA
+1913	Ndanda_Ca-a	dɔ̌ŋ ʒɛ̌p 	Dull 	NA
+1914	Ndanda_Meno	nǔʔ	Dull 	NA
+1915	Ndanda_Lek	ŋgə́pɲí	Dull 	NA
+1916	Ndanda_Ngwa	mǎʔɲije	Dull 	NA
+1917	Ndanda_Twefap	mǎʔɲijǎ	Dull 	NA
+1918	Ndanda_Denfap	fíp 	Dull 	NA
+1919	Ndanda_Zua	ŋgə́tní	Dull 	NA
+1920	Goshimjang	ŋgə́pɲí	Dull 	NA
+1921	Ndanda_Nyep	sɨ̂k	Smooth 	NA
+1922	Ndanda_Shingou	díɛ̂	Smooth 	NA
+1923	Ndanda_Ca-a	sɨ̂k	Smooth 	NA
+1924	Ndanda_Meno	lǎ	Smooth 	NA
+1925	Ndanda_Lek	tsírí 	Smooth 	NA
+1926	Ndanda_Ngwa	tíjɛ̌	Smooth 	NA
+1927	Ndanda_Twefap	tíjɛ̌	Smooth 	NA
+1928	Ndanda_Denfap	tíjɛ̀	Smooth 	NA
+1929	Ndanda_Zua	tʃòhò	Smooth 	NA
+1930	Goshimjang	sɨ̀ŋ 	Smooth 	NA
+1931	Ndanda_Nyep	mǐʔʃə̂ ŋǐm	Wet 	NA
+1932	Ndanda_Shingou	nsé ní 	Wet 	NA
+1933	Ndanda_Ca-a	lǐk 	Wet 	NA
+1934	Ndanda_Meno	nɔ̌k 	Wet 	NA
+1935	Ndanda_Lek	ŋgə́ fì	Wet 	NA
+1936	Ndanda_Ngwa	ŋû	Wet 	NA
+1937	Ndanda_Twefap	ɣǔ	Wet 	NA
+1938	Ndanda_Denfap	ɲǔd	Wet 	NA
+1939	Ndanda_Zua	ŋgí fí	Wet 	NA
+1940	Goshimjang	ɲwɛ̀	Wet 	NA
+1941	Ndanda_Nyep	jɨ̌p 	Dry 	NA
+1942	Ndanda_Shingou	jɨ̌p 	Dry 	NA
+1943	Ndanda_Ca-a	jɨ̌p 	Dry 	NA
+1944	Ndanda_Meno	ndʒǎhǎ	Dry 	NA
+1945	Ndanda_Lek	ŋgə́ jíp	Dry 	NA
+1946	Ndanda_Ngwa	ʒǐp	Dry 	NA
+1947	Ndanda_Twefap	ndʒǐp	Dry 	NA
+1948	Ndanda_Denfap	ʒǐp	Dry 	NA
+1949	Ndanda_Zua	ʒíp	Dry 	NA
+1950	Goshimjang	ʒíp	Dry 	NA
+1951	Ndanda_Nyep	nínáhǎ 	Right 	NA
+1952	Ndanda_Shingou	nínáhǎ 	Right 	NA
+1953	Ndanda_Ca-a	nénáhǎ 	Right 	NA
+1954	Ndanda_Meno	nénáhá 	Right 	NA
+1955	Ndanda_Lek	fùtʃɔ̀p	Right 	NA
+1956	Ndanda_Ngwa	néně	Right 	NA
+1957	Ndanda_Twefap	nénɨ̌k 	Right 	NA
+1958	Ndanda_Denfap	néní 	Right 	NA
+1959	Ndanda_Zua	búndzìp	Right 	NA
+1960	Goshimjang	búndíp 	Right 	NA
+1961	Ndanda_Nyep	mbɨ́gɨ́	Near 	NA
+1962	Ndanda_Shingou	mbɨ́gɨ́	Near 	NA
+1963	Ndanda_Ca-a	mbɨ́gɨ́	Near 	NA
+1964	Ndanda_Meno	nia	Near 	NA
+1965	Ndanda_Lek	mbə̀ŋə̀ ŋgɛ́	Near 	NA
+1966	Ndanda_Ngwa	mbɨ̌k 	Near 	NA
+1967	Ndanda_Twefap	mbɔ̌k 	Near 	NA
+1968	Ndanda_Denfap	mbɨ̌k 	Near 	NA
+1969	Ndanda_Zua	mbə̀ŋə̀	Near 	NA
+1970	Goshimjang	mbə̀ŋə̀ 	Near 	NA
+1971	Ndanda_Nyep	sísíjɔ̂ 	Far 	NA
+1972	Ndanda_Shingou	sâ	Far 	NA
+1973	Ndanda_Ca-a	sísɨ́ jɔ̂	Far 	NA
+1974	Ndanda_Meno	sâ	Far 	NA
+1975	Ndanda_Lek	sísɨ́ jɔ̂	Far 	NA
+1976	Ndanda_Ngwa	sǎ	Far 	NA
+1977	Ndanda_Twefap	bvɔ̌tsé 	Far 	NA
+1978	Ndanda_Denfap	sísɨ́ jɔ̂	Far 	NA
+1979	Ndanda_Zua	ʃìʃà	Far 	NA
+1980	Goshimjang	ʃìʃà	Far 	NA
+1981	Ndanda_Nyep	lɨ̂p bé 	Right 	NA
+1982	Ndanda_Shingou	lɨ̂p bé 	Right 	NA
+1983	Ndanda_Ca-a	lɨ̂p bé 	Right 	NA
+1984	Ndanda_Meno	lɨ̂p bé 	Right 	NA
+1985	Ndanda_Lek	púndə̀tàŋ 	Right 	NA
+1986	Ndanda_Ngwa	ték 	Right 	NA
+1987	Ndanda_Twefap	̀wɔ̌k lɨ̂p 	Right 	NA
+1988	Ndanda_Denfap	̀wɔ̌k lɨ̂p	Right 	NA
+1989	Ndanda_Zua	ndíp	Right 	NA
+1990	Goshimjang	ndíp	Right 	NA
+1991	Ndanda_Nyep	tʃúwɔ̌bé	Left 	NA
+1992	Ndanda_Shingou	tʃɔ̌bɔ̌	Left 	NA
+1993	Ndanda_Ca-a	tʃɔ̌bɔ̌	Left 	NA
+1994	Ndanda_Meno	tʃɔ̌bɔ̌	Left 	NA
+1995	Ndanda_Lek	púkwìp	Left 	NA
+1996	Ndanda_Ngwa	kxé	Left 	NA
+1997	Ndanda_Twefap	wɔ̌kyûp	Left 	NA
+1998	Ndanda_Denfap	wɔ̌kyûp	Left 	NA
+1999	Ndanda_Zua	bútʃòbə̀ 	Left 	NA
+2000	Goshimjang	ʃɛ̀bì 	Left 	NA

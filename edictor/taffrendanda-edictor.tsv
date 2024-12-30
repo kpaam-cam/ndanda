@@ -1,0 +1,2001 @@
+ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGIDS	ALIGNMENT
+161	NdandaNyep	All	nzùŋgí áwágá	nzùŋgí_áwágá	ⁿz ù/u ⁿg í/i + á/a w á/a g á/a		4 2	ⁿz ù/u ⁿg í/i + - á/a w á/a g - - á/a -
+162	NdandaShingou	All	nzùŋgí áwágá	nzùŋgí_áwágá	ⁿz ù/u ⁿg í/i + á/a w á/a g á/a		4 2	ⁿz ù/u ⁿg í/i + - á/a w á/a g - - á/a -
+163	NdandaCaa	All	wǎgálâk	wǎgálâk	w ǎ/a g á/a l â/a k		2	- - w ǎ/a g á/a l â/a k
+164	NdandaMeno	All	wǎgálâk	wǎgálâk	w ǎ/a g á/a l â/a k		2	- - w ǎ/a g á/a l â/a k
+165	NdandaLek	All	wáŋ	wáŋ	w á/a ŋ		1	w á/a ŋ
+166	NdandaNgwa	All	lâ wághá	lâ_wághá	l â/a + w á/a g h á/a		3 2	l â/a + - - w á/a g - h á/a -
+167	NdandaTwefap	All	láwǎk	láwǎk	l á/a w ǎ/a k		2	l á/a w ǎ/a k - - - -
+168	NdandaDenfap	All	léwɔ̌k	léwɔ̌k	l é/e w ɔ̌/ɔ k		2	l é/e w ɔ̌/ɔ k - - - -
+169	NdandaZua	All	ɣáŋ	ɣáŋ	ɣ á/a ŋ		1	ɣ á/a ŋ
+170	Goshimjang	All	ɣáŋ	ɣáŋ	ɣ á/a ŋ		1	ɣ á/a ŋ
+431	NdandaNyep	Animal	nɔ̂	nɔ̂	n ɔ̂/ɔ		15	n ɔ̂/ɔ -
+432	NdandaShingou	Animal	nɔ̂	nɔ̂	n ɔ̂/ɔ		15	n ɔ̂/ɔ -
+433	NdandaCaa	Animal	nɔ̂	nɔ̂	n ɔ̂/ɔ		15	n ɔ̂/ɔ -
+434	NdandaMeno	Animal	nɔ̂	nɔ̂	n ɔ̂/ɔ		15	n ɔ̂/ɔ -
+435	NdandaLek	Animal	nɔ̂	nɔ̂	n ɔ̂/ɔ		15	n ɔ̂/ɔ -
+436	NdandaNgwa	Animal	nɔ̂	nɔ̂	n ɔ̂/ɔ		15	n ɔ̂/ɔ -
+437	NdandaTwefap	Animal	nǔp	nǔp	n ǔ/u p		15	n ǔ/u p
+438	NdandaDenfap	Animal	nôp	nôp	n ô/o p		15	n ô/o p
+439	NdandaZua	Animal	ɲɔ̀	ɲɔ̀	ɲ ɔ̀/ɔ		15	ɲ ɔ̀/ɔ -
+440	Goshimjang	Animal	ɲɔ̀	ɲɔ̀	ɲ ɔ̀/ɔ		15	ɲ ɔ̀/ɔ -
+1671	NdandaNyep	Ash	bvɔ́mǔ	bvɔ́mǔ	bv ɔ́/ɔ m ǔ/u		26	bv ɔ́/ɔ m ǔ/u -
+1672	NdandaShingou	Ash	bvɨ̌mǔ	bvɨ̌mǔ	bv ɨ̌/ɨ m ǔ/u		26	bv ɨ̌/ɨ m ǔ/u -
+1673	NdandaCaa	Ash	bvɔ́mǔ	bvɔ́mǔ	bv ɔ́/ɔ m ǔ/u		26	bv ɔ́/ɔ m ǔ/u -
+1674	NdandaMeno	Ash	bvɨ̌mǔ	bvɨ̌mǔ	bv ɨ̌/ɨ m ǔ/u		26	bv ɨ̌/ɨ m ǔ/u -
+1675	NdandaLek	Ash	ɱvúmúh	ɱvúmúh	ⁿv ú/u m ú/u h		26	ⁿv ú/u m ú/u h
+1676	NdandaNgwa	Ash	bvɨ̌mǒ	bvɨ̌mǒ	bv ɨ̌/ɨ m ǒ/o		26	bv ɨ̌/ɨ m ǒ/o -
+1677	NdandaTwefap	Ash	bvɨ̌mǔ	bvɨ̌mǔ	bv ɨ̌/ɨ m ǔ/u		26	bv ɨ̌/ɨ m ǔ/u -
+1678	NdandaDenfap	Ash	bvɨ̌mǒ	bvɨ̌mǒ	bv ɨ̌/ɨ m ǒ/o		26	bv ɨ̌/ɨ m ǒ/o -
+1679	NdandaZua	Ash	ɱvúmúh	ɱvúmúh	ⁿv ú/u m ú/u h		26	ⁿv ú/u m ú/u h
+1680	Goshimjang	Ash	ɱvúmúh	ɱvúmúh	ⁿv ú/u m ú/u h		26	ⁿv ú/u m ú/u h
+871	NdandaNyep	Back	ŋkpə̀	ŋkpə̀	ⁿk p ə̀/ə		37	ⁿk p ə̀/ə
+872	NdandaShingou	Back	ŋkpə̀	ŋkpə̀	ⁿk p ə̀/ə		37	ⁿk p ə̀/ə
+873	NdandaCaa	Back	ŋkpə̀	ŋkpə̀	ⁿk p ə̀/ə		37	ⁿk p ə̀/ə
+874	NdandaMeno	Back	ŋkpə̀	ŋkpə̀	ⁿk p ə̀/ə		37	ⁿk p ə̀/ə
+875	NdandaLek	Back	ŋkpə̀	ŋkpə̀	ⁿk p ə̀/ə		37	ⁿk p ə̀/ə
+876	NdandaNgwa	Back	ŋkpə̀	ŋkpə̀	ⁿk p ə̀/ə		37	ⁿk p ə̀/ə
+877	NdandaTwefap	Back	ŋkpə̀	ŋkpə̀	ⁿk p ə̀/ə		37	ⁿk p ə̀/ə
+878	NdandaDenfap	Back	ŋkpə̀	ŋkpə̀	ⁿk p ə̀/ə		37	ⁿk p ə̀/ə
+879	NdandaZua	Back	ŋkpə̀	ŋkpə̀	ⁿk p ə̀/ə		37	ⁿk p ə̀/ə
+880	Goshimjang	Back	ŋkpə̀	ŋkpə̀	ⁿk p ə̀/ə		37	ⁿk p ə̀/ə
+1851	NdandaNyep	Bad	ŋgɛ́ piijɨ̌	ŋgɛ́_piijɨ̌	ⁿg ɛ́/ɛ + p iː j ɨ̌/ɨ		48 49	ⁿg ɛ́/ɛ + p iː j ɨ̌/ɨ
+1852	NdandaShingou	Bad	ŋgɛ́ piijɨ̌	ŋgɛ́_piijɨ̌	ⁿg ɛ́/ɛ + p iː j ɨ̌/ɨ		48 49	ⁿg ɛ́/ɛ + p iː j ɨ̌/ɨ
+1853	NdandaCaa	Bad	ŋgɛ́ pɨ̌	ŋgɛ́_pɨ̌	ⁿg ɛ́/ɛ + p ɨ̌/ɨ		48 49	ⁿg ɛ́/ɛ + p ɨ̌/ɨ - -
+1854	NdandaMeno	Bad	mbǒ	mbǒ	ⁿb ǒ/o		49	ⁿb ǒ/o - -
+1855	NdandaLek	Bad	kə̀ pɔ̀ŋ	kə̀_pɔ̀ŋ	k ə̀/ə + p ɔ̀/ɔ ŋ		48 49	k ə̀/ə + p ɔ̀/ɔ ŋ -
+1856	NdandaNgwa	Bad	pɨ̌	pɨ̌	p ɨ̌/ɨ		49	p ɨ̌/ɨ - -
+1857	NdandaTwefap	Bad	mbɔ̌	mbɔ̌	ⁿb ɔ̌/ɔ		49	ⁿb ɔ̌/ɔ - -
+1858	NdandaDenfap	Bad	pɨ̌	pɨ̌	p ɨ̌/ɨ		49	p ɨ̌/ɨ - -
+1859	NdandaZua	Bad	kə̀ bɔ̀ŋ	kə̀_bɔ̀ŋ	k ə̀/ə + b ɔ̀/ɔ ŋ		48 49	k ə̀/ə + b ɔ̀/ɔ ŋ -
+1860	Goshimjang	Bad	kì bɔ̀ŋ	kì_bɔ̀ŋ	k ì/i + b ɔ̀/ɔ ŋ		48 49	k ì/i + b ɔ̀/ɔ ŋ -
+571	NdandaNyep	Bark	ŋkəbə	ŋkəbə	ⁿk ə/ə b ə/ə		65	ⁿk ə/ə b ə/ə
+572	NdandaShingou	Bark	ŋkəbə	ŋkəbə	ⁿk ə/ə b ə/ə		65	ⁿk ə/ə b ə/ə
+573	NdandaCaa	Bark	ŋkəbə	ŋkəbə	ⁿk ə/ə b ə/ə		65	ⁿk ə/ə b ə/ə
+574	NdandaMeno	Bark	ŋkəbə	ŋkəbə	ⁿk ə/ə b ə/ə		65	ⁿk ə/ə b ə/ə
+575	NdandaLek	Bark	ŋkə̀bə̀	ŋkə̀bə̀	ⁿk ə̀/ə b ə̀/ə		65	ⁿk ə̀/ə b ə̀/ə
+576	NdandaNgwa	Bark	ŋkébé	ŋkébé	ⁿk é/e b é/e		65	ⁿk é/e b é/e
+577	NdandaTwefap	Bark	ŋgɨ̂bé tsé	ŋgɨ̂bé_tsé	ⁿg ɨ̂/ɨ b é/e + ts é/e		65 66	ⁿg ɨ̂/ɨ b é/e + ts é/e
+578	NdandaDenfap	Bark	ŋkêp	ŋkêp	ⁿk ê/e p		65	ⁿk ê/e p -
+579	NdandaZua	Bark	ŋkùbè	ŋkùbè	ⁿk ù/u b è/e		65	ⁿk ù/u b è/e
+580	Goshimjang	Bark	ŋkùbì	ŋkùbì	ⁿk ù/u b ì/i		65	ⁿk ù/u b ì/i
+841	NdandaNyep	Belly	ɱvɔ̌p	ɱvɔ̌p	ⁿv ɔ̌/ɔ p		77	ⁿv ɔ̌/ɔ p
+842	NdandaShingou	Belly	ɱvɔ̌p zú	ɱvɔ̌p_zú	ⁿv ɔ̌/ɔ p + z ú/u		77 78	ⁿv ɔ̌/ɔ p + z ú/u
+843	NdandaCaa	Belly	ɱvɔ̌p zí	ɱvɔ̌p_zí	ⁿv ɔ̌/ɔ p + z í/i		77 78	ⁿv ɔ̌/ɔ p + z í/i
+844	NdandaMeno	Belly	vɔ̌p	vɔ̌p	v ɔ̌/ɔ p		77	v ɔ̌/ɔ p
+845	NdandaLek	Belly	vòp	vòp	v ò/o p		77	v ò/o p
+846	NdandaNgwa	Belly	bvǎp	bvǎp	bv ǎ/a p		77	bv ǎ/a p
+847	NdandaTwefap	Belly	bvǎp	bvǎp	bv ǎ/a p		77	bv ǎ/a p
+848	NdandaDenfap	Belly	bvǎp	bvǎp	bv ǎ/a p		77	bv ǎ/a p
+849	NdandaZua	Belly	vòp	vòp	v ò/o p		77	v ò/o p
+850	Goshimjang	Belly	vɔ̀p	vɔ̀p	v ɔ̀/ɔ p		77	v ɔ̀/ɔ p
+261	NdandaNyep	Big	ŋgǔʔ	ŋgǔʔ	ⁿg ǔ/u ʔ		90	ⁿg ǔ/u ʔ -
+262	NdandaShingou	Big	míjǎn ŋgɛ́	míjǎn_ŋgɛ́	m í/i j ǎ/a n + ⁿg ɛ́/ɛ		92 90	m í/i j ǎ/a n + ⁿg ɛ́/ɛ - -
+263	NdandaCaa	Big	bûʔu ŋgɛ̌	bûʔu_ŋgɛ̌	b û/u ʔ u + ⁿg ɛ̌/ɛ		91 90	b û/u ʔ - u + ⁿg ɛ̌/ɛ - -
+264	NdandaMeno	Big	míjǎn ŋgɛ́	míjǎn_ŋgɛ́	m í/i j ǎ/a n + ⁿg ɛ́/ɛ		92 90	m í/i j ǎ/a n + ⁿg ɛ́/ɛ - -
+265	NdandaLek	Big	ŋkɔ̀ŋgɛ̀	ŋkɔ̀ŋgɛ̀	ⁿk ɔ̀/ɔ ⁿg ɛ̀/ɛ		90	ⁿk ɔ̀/ɔ ⁿg ɛ̀/ɛ
+266	NdandaNgwa	Big	hǔ	hǔ	h ǔ/u		91	h ǔ/u - - -
+267	NdandaTwefap	Big	mbǔʔhí	mbǔʔhí	ⁿb ǔ/u ʔ h í/i		91	ⁿb ǔ/u ʔ h í/i
+268	NdandaDenfap	Big	hǔ	hǔ	h ǔ/u		91	h ǔ/u - - -
+269	NdandaZua	Big	húʔ	húʔ	h ú/u ʔ		91	h ú/u ʔ - -
+270	Goshimjang	Big	ŋkɔ̀ŋgì	ŋkɔ̀ŋgì	ⁿk ɔ̀/ɔ ⁿg ì/i		90	ⁿk ɔ̀/ɔ ⁿg ì/i
+451	NdandaNyep	Bird	sɨ̂k	sɨ̂k	s ɨ̂/ɨ k		104	s ɨ̂/ɨ k
+452	NdandaShingou	Bird	sɨ̂k	sɨ̂k	s ɨ̂/ɨ k		104	s ɨ̂/ɨ k
+453	NdandaCaa	Bird	sɨ̂k	sɨ̂k	s ɨ̂/ɨ k		104	s ɨ̂/ɨ k
+454	NdandaMeno	Bird	sɨ̂k	sɨ̂k	s ɨ̂/ɨ k		104	s ɨ̂/ɨ k
+455	NdandaLek	Bird	sɨ́ŋ	sɨ́ŋ	s ɨ́/ɨ ŋ		104	s ɨ́/ɨ ŋ
+456	NdandaNgwa	Bird	sɨ̂k	sɨ̂k	s ɨ̂/ɨ k		104	s ɨ̂/ɨ k
+457	NdandaTwefap	Bird	sɔ̌k	sɔ̌k	s ɔ̌/ɔ k		104	s ɔ̌/ɔ k
+458	NdandaDenfap	Bird	sɔ̌k	sɔ̌k	s ɔ̌/ɔ k		104	s ɔ̌/ɔ k
+459	NdandaZua	Bird	sɨ́ŋ	sɨ́ŋ	s ɨ́/ɨ ŋ		104	s ɨ́/ɨ ŋ
+460	Goshimjang	Bird	sɨ́ŋ	sɨ́ŋ	s ɨ́/ɨ ŋ		104	s ɨ́/ɨ ŋ
+1751	NdandaNyep	Black	sísɨ́	sísɨ́	s í/i s ɨ́/ɨ		115	s í/i s ɨ́/ɨ
+1752	NdandaShingou	Black	sǐsɨ̌	sǐsɨ̌	s ǐ/i s ɨ̌/ɨ		115	s ǐ/i s ɨ̌/ɨ
+1753	NdandaCaa	Black	sísɨ̌	sísɨ̌	s í/i s ɨ̌/ɨ		115	s í/i s ɨ̌/ɨ
+1754	NdandaMeno	Black	sǐsɨ̌	sǐsɨ̌	s ǐ/i s ɨ̌/ɨ		115	s ǐ/i s ɨ̌/ɨ
+1755	NdandaLek	Black	sɨsə́	sɨsə́	s ɨ s ə́/ə		115	s ɨ s ə́/ə
+1756	NdandaNgwa	Black	tse tse	tse_tse	ts e + ts e		116 117	ts e + ts e
+1757	NdandaTwefap	Black	sísɨ̌	sísɨ̌	s í/i s ɨ̌/ɨ		115	s í/i s ɨ̌/ɨ
+1758	NdandaDenfap	Black	ʃíʃé	ʃíʃé	ʃ í/i ʃ é/e		115	ʃ í/i ʃ é/e
+1759	NdandaZua	Black	sɨsə́	sɨsə́	s ɨ s ə́/ə		115	s ɨ s ə́/ə
+1760	Goshimjang	Black	sɨsə́	sɨsə́	s ɨ s ə́/ə		115	s ɨ s ə́/ə
+631	NdandaNyep	Blood	ʃè mbǎk	ʃè_mbǎk	ʃ è/e + ⁿb ǎ/a k		128 129	ʃ è/e + ⁿb ǎ/a k
+632	NdandaShingou	Blood	sé mbǎk	sé_mbǎk	s é/e + ⁿb ǎ/a k		128 129	s é/e + ⁿb ǎ/a k
+633	NdandaCaa	Blood	sé mbǎk	sé_mbǎk	s é/e + ⁿb ǎ/a k		128 129	s é/e + ⁿb ǎ/a k
+634	NdandaMeno	Blood	nse mbǎk	nse_mbǎk	ⁿs e + ⁿb ǎ/a k		128 129	ⁿs e + ⁿb ǎ/a k
+635	NdandaLek	Blood	ndzjɛ́p	ndzjɛ́p	ⁿdz j ɛ́/ɛ p		130	ⁿdz j ɛ́/ɛ p
+636	NdandaNgwa	Blood	dǐp	dǐp	d ǐ/i p		130	d - ǐ/i p
+637	NdandaTwefap	Blood	ʃé pǎk	ʃé_pǎk	ʃ é/e + p ǎ/a k		128 129	ʃ é/e + p ǎ/a k
+638	NdandaDenfap	Blood	tʃé pǎk	tʃé_pǎk	tʃ é/e + p ǎ/a k		130 129	tʃ - é/e - + p ǎ/a k
+639	NdandaZua	Blood	lɨ́gə́	lɨ́gə́	l ɨ́/ɨ g ə́/ə		127	l ɨ́/ɨ g ə́/ə
+640	Goshimjang	Blood	lɨ́gə́	lɨ́gə́	l ɨ́/ɨ g ə́/ə		127	l ɨ́/ɨ g ə́/ə
+641	NdandaNyep	Bone	bvɨ̌	bvɨ̌	bv ɨ̌/ɨ		144	bv ɨ̌/ɨ - -
+642	NdandaShingou	Bone	bvíjí	bvíjí	bv í/i j í/i		144	bv í/i j í/i
+643	NdandaCaa	Bone	bvɨ̌	bvɨ̌	bv ɨ̌/ɨ		144	bv ɨ̌/ɨ - -
+644	NdandaMeno	Bone	bvɨ̌	bvɨ̌	bv ɨ̌/ɨ		144	bv ɨ̌/ɨ - -
+645	NdandaLek	Bone	və́h	və́h	v ə́/ə h		144	v ə́/ə h -
+646	NdandaNgwa	Bone	bvɨ̌	bvɨ̌	bv ɨ̌/ɨ		144	bv ɨ̌/ɨ - -
+647	NdandaTwefap	Bone	bvɔ̌	bvɔ̌	bv ɔ̌/ɔ		144	bv ɔ̌/ɔ - -
+648	NdandaDenfap	Bone	bvɨ̌	bvɨ̌	bv ɨ̌/ɨ		144	bv ɨ̌/ɨ - -
+649	NdandaZua	Bone	vʉ́h	vʉ́h	v ʉ́/ʉ h		144	v ʉ́/ʉ h -
+881	NdandaNyep	Breast	pǐ	pǐ	p ǐ/i		154	p ǐ/i -
+882	NdandaShingou	Breast	mbǐ	mbǐ	ⁿb ǐ/i		154	ⁿb ǐ/i -
+883	NdandaCaa	Breast	pǐ	pǐ	p ǐ/i		154	p ǐ/i -
+884	NdandaMeno	Breast	pǐ	pǐ	p ǐ/i		154	p ǐ/i -
+885	NdandaLek	Breast	mbə́h	mbə́h	ⁿb ə́/ə h		154	ⁿb ə́/ə h
+886	NdandaNgwa	Breast	pǐ	pǐ	p ǐ/i		154	p ǐ/i -
+887	NdandaTwefap	Breast	mbɨ̌k	mbɨ̌k	ⁿb ɨ̌/ɨ k		154	ⁿb ɨ̌/ɨ k
+888	NdandaDenfap	Breast	mbǐ	mbǐ	ⁿb ǐ/i		154	ⁿb ǐ/i -
+889	NdandaZua	Breast	mbʉ́h	mbʉ́h	ⁿb ʉ́/ʉ h		154	ⁿb ʉ́/ʉ h
+890	Goshimjang	Breast	mbə́h	mbə́h	ⁿb ə́/ə h		154	ⁿb ə́/ə h
+381	NdandaNyep	Child	ŋǔ	ŋǔ	ŋ ǔ/u		165	ŋ ǔ/u - -
+382	NdandaShingou	Child	ŋǔ	ŋǔ	ŋ ǔ/u		165	ŋ ǔ/u - -
+383	NdandaCaa	Child	ŋǔ	ŋǔ	ŋ ǔ/u		165	ŋ ǔ/u - -
+384	NdandaMeno	Child	mǔ ǎ	mǔ_ǎ	m ǔ/u + ǎ/a		166 167	m ǔ/u + ǎ/a
+385	NdandaLek	Child	ŋwɔ́	ŋwɔ́	ŋʷ ɔ́/ɔ		165	ŋʷ ɔ́/ɔ - -
+386	NdandaNgwa	Child	ŋúwɔ̌	ŋúwɔ̌	ŋ ú/u w ɔ̌/ɔ		165	ŋ ú/u w ɔ̌/ɔ
+387	NdandaTwefap	Child	ŋǔwɔ̌	ŋǔwɔ̌	ŋ ǔ/u w ɔ̌/ɔ		165	ŋ ǔ/u w ɔ̌/ɔ
+388	NdandaDenfap	Child	ŋúwɔ̌	ŋúwɔ̌	ŋ ú/u w ɔ̌/ɔ		165	ŋ ú/u w ɔ̌/ɔ
+389	NdandaZua	Child	ŋwɔ́	ŋwɔ́	ŋʷ ɔ́/ɔ		165	ŋʷ ɔ́/ɔ - -
+390	Goshimjang	Child	ŋwɔ́	ŋwɔ́	ŋʷ ɔ́/ɔ		165	ŋʷ ɔ́/ɔ - -
+1591	NdandaNyep	Cloud	dî	dî	d î/i		178	d î/i -
+1592	NdandaShingou	Cloud	díɛ̂	díɛ̂	d í/i ɛ̂/ɛ		178	d í/i ɛ̂/ɛ
+1593	NdandaCaa	Cloud	díɛ̂	díɛ̂	d í/i ɛ̂/ɛ		178	d í/i ɛ̂/ɛ
+1594	NdandaMeno	Cloud	díɛ̂	díɛ̂	d í/i ɛ̂/ɛ		178	d í/i ɛ̂/ɛ
+1595	NdandaLek	Cloud	ʒwɛ̀	ʒwɛ̀	ʒʷ ɛ̀/ɛ		177	ʒʷ ɛ̀/ɛ
+1596	NdandaNgwa	Cloud	díɛ̂	díɛ̂	d í/i ɛ̂/ɛ		178	d í/i ɛ̂/ɛ
+1597	NdandaTwefap	Cloud	lúwì	lúwì	l ú/u w ì/i		179	l ú/u w ì/i
+1598	NdandaDenfap	Cloud	lúwì	lúwì	l ú/u w ì/i		179	l ú/u w ì/i
+1599	NdandaZua	Cloud	ʒwɛ̀	ʒwɛ̀	ʒʷ ɛ̀/ɛ		177	ʒʷ ɛ̀/ɛ
+1600	Goshimjang	Cloud	ʒwɛ̀	ʒwɛ̀	ʒʷ ɛ̀/ɛ		177	ʒʷ ɛ̀/ɛ
+1801	NdandaNyep	Cold	fɔ̌	fɔ̌	f ɔ̌/ɔ		188	f ɔ̌/ɔ -
+1802	NdandaShingou	Cold	fɔ̌	fɔ̌	f ɔ̌/ɔ		188	f ɔ̌/ɔ -
+1803	NdandaCaa	Cold	fí	fí	f í/i		188	f í/i -
+1804	NdandaMeno	Cold	fɔ̌	fɔ̌	f ɔ̌/ɔ		188	f ɔ̌/ɔ -
+1805	NdandaLek	Cold	fɔ́h	fɔ́h	f ɔ́/ɔ h		188	f ɔ́/ɔ h
+1806	NdandaNgwa	Cold	ɣú	ɣú	ɣ ú/u		189	ɣ ú/u
+1807	NdandaTwefap	Cold	ɣú	ɣú	ɣ ú/u		189	ɣ ú/u
+1808	NdandaDenfap	Cold	ɣú	ɣú	ɣ ú/u		189	ɣ ú/u
+1809	NdandaZua	Cold	fɔ́h	fɔ́h	f ɔ́/ɔ h		188	f ɔ́/ɔ h
+1810	Goshimjang	Cold	fɔ́h	fɔ́h	f ɔ́/ɔ h		188	f ɔ́/ɔ h
+1771	NdandaNyep	Day	mǔtʃúwɔ̌	mǔtʃúwɔ̌	m ǔ/u tʃ ú/u w ɔ̌/ɔ		199	m ǔ/u tʃ ú/u w ɔ̌/ɔ
+1772	NdandaShingou	Day	mǔtʃúwɔ̌	mǔtʃúwɔ̌	m ǔ/u tʃ ú/u w ɔ̌/ɔ		199	m ǔ/u tʃ ú/u w ɔ̌/ɔ
+1773	NdandaCaa	Day	mǔtʃúwɔ̌	mǔtʃúwɔ̌	m ǔ/u tʃ ú/u w ɔ̌/ɔ		199	m ǔ/u tʃ ú/u w ɔ̌/ɔ
+1774	NdandaMeno	Day	mǔtʃúwɔ̌	mǔtʃúwɔ̌	m ǔ/u tʃ ú/u w ɔ̌/ɔ		199	m ǔ/u tʃ ú/u w ɔ̌/ɔ
+1775	NdandaLek	Day	mùʃɔ̀	mùʃɔ̀	m ù/u ʃ ɔ̀/ɔ		199	m ù/u ʃ - - ɔ̀/ɔ
+1776	NdandaNgwa	Day	mǔtʃúwɔ̌	mǔtʃúwɔ̌	m ǔ/u tʃ ú/u w ɔ̌/ɔ		199	m ǔ/u tʃ ú/u w ɔ̌/ɔ
+1777	NdandaTwefap	Day	mǔtîp	mǔtîp	m ǔ/u t î/i p		199	m ǔ/u t î/i p -
+1778	NdandaDenfap	Day	môtʃɨ̌	môtʃɨ̌	m ô/o tʃ ɨ̌/ɨ		199	m ô/o tʃ - - ɨ̌/ɨ
+1779	NdandaZua	Day	mùtʃɔ̀	mùtʃɔ̀	m ù/u tʃ ɔ̀/ɔ		199	m ù/u tʃ - - ɔ̀/ɔ
+1780	Goshimjang	Day	múʃɔ̀	múʃɔ̀	m ú/u ʃ ɔ̀/ɔ		199	m ú/u ʃ - - ɔ̀/ɔ
+1871	NdandaNyep	Dirty	dôtî	dôtî	d ô/o t î/i		211	d ô/o t î/i
+1872	NdandaShingou	Dirty	dôtî	dôtî	d ô/o t î/i		211	d ô/o t î/i
+1873	NdandaCaa	Dirty	dôtî	dôtî	d ô/o t î/i		211	d ô/o t î/i
+1874	NdandaMeno	Dirty	dôtî	dôtî	d ô/o t î/i		211	d ô/o t î/i
+1875	NdandaLek	Dirty	lòtsì	lòtsì	l ò/o ts ì/i		210	l ò/o ts ì/i
+1876	NdandaNgwa	Dirty	dôtî	dôtî	d ô/o t î/i		211	d ô/o t î/i
+1877	NdandaTwefap	Dirty	ʃǐp	ʃǐp	ʃ ǐ/i p		212	ʃ ǐ/i p
+1878	NdandaDenfap	Dirty	fɨ̀p	fɨ̀p	f ɨ̀/ɨ p		212	f ɨ̀/ɨ p
+1879	NdandaZua	Dirty	lòtsì	lòtsì	l ò/o ts ì/i		210	l ò/o ts ì/i
+1880	Goshimjang	Dirty	lòtsì	lòtsì	l ò/o ts ì/i		210	l ò/o ts ì/i
+461	NdandaNyep	Dog	̀mbvɔ́	mbvɔ́	ⁿb v ɔ́/ɔ		221	ⁿb v ɔ́/ɔ -
+462	NdandaShingou	Dog	mbvɔ́	mbvɔ́	ⁿb v ɔ́/ɔ		221	ⁿb v ɔ́/ɔ -
+463	NdandaCaa	Dog	mbvɔ́	mbvɔ́	ⁿb v ɔ́/ɔ		221	ⁿb v ɔ́/ɔ -
+464	NdandaMeno	Dog	mbvɔ́	mbvɔ́	ⁿb v ɔ́/ɔ		221	ⁿb v ɔ́/ɔ -
+465	NdandaLek	Dog	ɱvɔ́	ɱvɔ́	ⁿv ɔ́/ɔ		221	- ⁿv ɔ́/ɔ -
+466	NdandaNgwa	Dog	mbʉ̌	mbʉ̌	ⁿb ʉ̌/ʉ		221	ⁿb - ʉ̌/ʉ -
+467	NdandaTwefap	Dog	bvʉ́k	bvʉ́k	bv ʉ́/ʉ k		221	- bv ʉ́/ʉ k
+468	NdandaDenfap	Dog	mbʉ̌	mbʉ̌	ⁿb ʉ̌/ʉ		221	ⁿb - ʉ̌/ʉ -
+469	NdandaZua	Dog	ɱvó	ɱvó	ⁿv ó/o		221	- ⁿv ó/o -
+470	Goshimjang	Dog	ɱvɔ́	ɱvɔ́	ⁿv ɔ́/ɔ		221	- ⁿv ɔ́/ɔ -
+1941	NdandaNyep	Dry	jɨ̌p	jɨ̌p	j ɨ̌/ɨ p		232	j ɨ̌/ɨ p
+1942	NdandaShingou	Dry	jɨ̌p	jɨ̌p	j ɨ̌/ɨ p		232	j ɨ̌/ɨ p
+1943	NdandaCaa	Dry	jɨ̌p	jɨ̌p	j ɨ̌/ɨ p		232	j ɨ̌/ɨ p
+1944	NdandaMeno	Dry	ndʒǎhǎ	ndʒǎhǎ	ⁿdʒ ǎ/a h ǎ/a		234	ⁿdʒ ǎ/a h ǎ/a
+1945	NdandaLek	Dry	ŋgə́ jíp	ŋgə́_jíp	ⁿg ə́/ə + j í/i p		233 232	ⁿg ə́/ə + j í/i p
+1946	NdandaNgwa	Dry	ʒǐp	ʒǐp	ʒ ǐ/i p		232	ʒ ǐ/i p
+1947	NdandaTwefap	Dry	ndʒǐp	ndʒǐp	ⁿdʒ ǐ/i p		232	ⁿdʒ ǐ/i p
+1948	NdandaDenfap	Dry	ʒǐp	ʒǐp	ʒ ǐ/i p		232	ʒ ǐ/i p
+1949	NdandaZua	Dry	ʒíp	ʒíp	ʒ í/i p		232	ʒ í/i p
+1950	Goshimjang	Dry	ʒíp	ʒíp	ʒ í/i p		232	ʒ í/i p
+1911	NdandaNyep	Dull	ŋgɛ́ mɨ̌sé	ŋgɛ́_mɨ̌sé	ⁿg ɛ́/ɛ + m ɨ̌/ɨ s é/e		249 250	ⁿg ɛ́/ɛ + m ɨ̌/ɨ s é/e
+1912	NdandaShingou	Dull	dɔ̌ŋ ʒɛ̌p	dɔ̌ŋ_ʒɛ̌p	d ɔ̌/ɔ ŋ + ʒ ɛ̌/ɛ p		245 246	d ɔ̌/ɔ ŋ + ʒ ɛ̌/ɛ p
+1913	NdandaCaa	Dull	dɔ̌ŋ ʒɛ̌p	dɔ̌ŋ_ʒɛ̌p	d ɔ̌/ɔ ŋ + ʒ ɛ̌/ɛ p		245 246	d ɔ̌/ɔ ŋ + ʒ ɛ̌/ɛ p
+1914	NdandaMeno	Dull	nǔʔ	nǔʔ	n ǔ/u ʔ		247	n ǔ/u ʔ
+1915	NdandaLek	Dull	ŋgə́pɲí	ŋgə́pɲí	ⁿg ə́/ə p ɲ í/i		244	ⁿg ə́/ə p ɲ í/i
+1916	NdandaNgwa	Dull	mǎʔɲije	mǎʔɲije	m ǎ/a ʔ ɲ i j e		248	m ǎ/a ʔ ɲ i j e
+1917	NdandaTwefap	Dull	mǎʔɲijǎ	mǎʔɲijǎ	m ǎ/a ʔ ɲ i j ǎ/a		248	m ǎ/a ʔ ɲ i j ǎ/a
+1918	NdandaDenfap	Dull	fíp	fíp	f í/i p		246	f í/i p
+1919	NdandaZua	Dull	ŋgə́tní	ŋgə́tní	ⁿg ə́/ə t n í/i		244	ⁿg ə́/ə t n í/i
+1920	Goshimjang	Dull	ŋgə́pɲí	ŋgə́pɲí	ⁿg ə́/ə p ɲ í/i		244	ⁿg ə́/ə p ɲ í/i
+1571	NdandaNyep	Dust	bvɔ̂bɔ̂	bvɔ̂bɔ̂	bv ɔ̂/ɔ b ɔ̂/ɔ		258	bv ɔ̂/ɔ b ɔ̂/ɔ
+1572	NdandaShingou	Dust	bvɔ̂bɔ̂	bvɔ̂bɔ̂	bv ɔ̂/ɔ b ɔ̂/ɔ		258	bv ɔ̂/ɔ b ɔ̂/ɔ
+1573	NdandaCaa	Dust	bvǎbǎ	bvǎbǎ	bv ǎ/a b ǎ/a		258	bv ǎ/a b ǎ/a
+1574	NdandaMeno	Dust	bvɔ̂bɔ̂	bvɔ̂bɔ̂	bv ɔ̂/ɔ b ɔ̂/ɔ		258	bv ɔ̂/ɔ b ɔ̂/ɔ
+1575	NdandaLek	Dust	ɱvɔ́bɔ́	ɱvɔ́bɔ́	ⁿv ɔ́/ɔ b ɔ́/ɔ		258	ⁿv ɔ́/ɔ b ɔ́/ɔ
+1576	NdandaNgwa	Dust	bvábâ	bvábâ	bv á/a b â/a		258	bv á/a b â/a
+1577	NdandaTwefap	Dust	bvábâ	bvábâ	bv á/a b â/a		258	bv á/a b â/a
+1578	NdandaDenfap	Dust	bvábâ	bvábâ	bv á/a b â/a		258	bv á/a b â/a
+1579	NdandaZua	Dust	ɱvə́bə́	ɱvə́bə́	ⁿv ə́/ə b ə́/ə		258	ⁿv ə́/ə b ə́/ə
+1580	Goshimjang	Dust	ɱvɔ́bí	ɱvɔ́bí	ⁿv ɔ́/ɔ b í/i		258	ⁿv ɔ́/ɔ b í/i
+721	NdandaNyep	Ear	ntúgú	ntúgú	ⁿt ú/u g ú/u		269	ⁿt ú/u g ú/u
+722	NdandaShingou	Ear	ntúgú	ntúgú	ⁿt ú/u g ú/u		269	ⁿt ú/u g ú/u
+723	NdandaCaa	Ear	ntǔgǔ	ntǔgǔ	ⁿt ǔ/u g ǔ/u		269	ⁿt ǔ/u g ǔ/u
+724	NdandaMeno	Ear	ntúgú	ntúgú	ⁿt ú/u g ú/u		269	ⁿt ú/u g ú/u
+725	NdandaLek	Ear	tùŋù	tùŋù	t ù/u ŋ ù/u		269	t ù/u ŋ ù/u
+726	NdandaNgwa	Ear	ntɔ̌g	ntɔ̌g	ⁿt ɔ̌/ɔ g		269	ⁿt ɔ̌/ɔ g -
+727	NdandaTwefap	Ear	ntɔ̌k	ntɔ̌k	ⁿt ɔ̌/ɔ k		269	ⁿt ɔ̌/ɔ k -
+728	NdandaDenfap	Ear	ntɔ̌k	ntɔ̌k	ⁿt ɔ̌/ɔ k		269	ⁿt ɔ̌/ɔ k -
+729	NdandaZua	Ear	tùŋù	tùŋù	t ù/u ŋ ù/u		269	t ù/u ŋ ù/u
+730	Goshimjang	Ear	tùŋù	tùŋù	t ù/u ŋ ù/u		269	t ù/u ŋ ù/u
+1581	NdandaNyep	Earth	tʃǎʔá	tʃǎʔá	tʃ ǎ/a ʔ á/a		280	tʃ ǎ/a ʔ á/a
+1582	NdandaShingou	Earth	tʃǎʔá	tʃǎʔá	tʃ ǎ/a ʔ á/a		280	tʃ ǎ/a ʔ á/a
+1583	NdandaCaa	Earth	tʃǎʔá	tʃǎʔá	tʃ ǎ/a ʔ á/a		280	tʃ ǎ/a ʔ á/a
+1584	NdandaMeno	Earth	tʃǎʔá	tʃǎʔá	tʃ ǎ/a ʔ á/a		280	tʃ ǎ/a ʔ á/a
+1585	NdandaLek	Earth	tʃáʔá	tʃáʔá	tʃ á/a ʔ á/a		280	tʃ á/a ʔ á/a
+1586	NdandaNgwa	Earth	tʃǎʔá	tʃǎʔá	tʃ ǎ/a ʔ á/a		280	tʃ ǎ/a ʔ á/a
+1587	NdandaTwefap	Earth	tʃǎʔá	tʃǎʔá	tʃ ǎ/a ʔ á/a		280	tʃ ǎ/a ʔ á/a
+1588	NdandaDenfap	Earth	tʃǎʔá	tʃǎʔá	tʃ ǎ/a ʔ á/a		280	tʃ ǎ/a ʔ á/a
+1589	NdandaZua	Earth	tʃáʔá	tʃáʔá	tʃ á/a ʔ á/a		280	tʃ á/a ʔ á/a
+1590	Goshimjang	Earth	tʃáʔá	tʃáʔá	tʃ á/a ʔ á/a		280	tʃ á/a ʔ á/a
+661	NdandaNyep	Egg	mbǐp	mbǐp	ⁿb ǐ/i p		291	ⁿb ǐ/i - - p
+662	NdandaShingou	Egg	mbǐp	mbǐp	ⁿb ǐ/i p		291	ⁿb ǐ/i - - p
+663	NdandaCaa	Egg	mbǐp	mbǐp	ⁿb ǐ/i p		291	ⁿb ǐ/i - - p
+664	NdandaMeno	Egg	mbǐp	mbǐp	ⁿb ǐ/i p		291	ⁿb ǐ/i - - p
+665	NdandaLek	Egg	búŋgə́p	búŋgə́p	b ú/u ⁿg ə́/ə p		291	b ú/u ⁿg ə́/ə p
+666	NdandaNgwa	Egg	mbǐp	mbǐp	ⁿb ǐ/i p		291	ⁿb ǐ/i - - p
+667	NdandaTwefap	Egg	mbǐp	mbǐp	ⁿb ǐ/i p		291	ⁿb ǐ/i - - p
+668	NdandaDenfap	Egg	mbǐp	mbǐp	ⁿb ǐ/i p		291	ⁿb ǐ/i - - p
+669	NdandaZua	Egg	búŋgúp	búŋgúp	b ú/u ⁿg ú/u p		291	b ú/u ⁿg ú/u p
+670	Goshimjang	Egg	búŋgúp	búŋgúp	b ú/u ⁿg ú/u p		291	b ú/u ⁿg ú/u p
+731	NdandaNyep	Eye	víjé	víjé	v í/i j é/e		304	v í/i j é/e
+732	NdandaShingou	Eye	víjé mú	víjé_mú	v í/i j é/e + m ú/u		304 305	v í/i j é/e + m ú/u
+733	NdandaCaa	Eye	né	né	n é/e		303	n é/e
+734	NdandaMeno	Eye	né	né	n é/e		303	n é/e
+735	NdandaLek	Eye	zə́h	zə́h	z ə́/ə h		302	z ə́/ə h
+736	NdandaNgwa	Eye	né	né	n é/e		303	n é/e
+737	NdandaTwefap	Eye	nɔ̌	nɔ̌	n ɔ̌/ɔ		303	n ɔ̌/ɔ
+738	NdandaDenfap	Eye	zɨ̌	zɨ̌	z ɨ̌/ɨ		302	z ɨ̌/ɨ -
+739	NdandaZua	Eye	zʉ́h	zʉ́h	z ʉ́/ʉ h		302	z ʉ́/ʉ h
+740	Goshimjang	Eye	zə́h	zə́h	z ə́/ə h		302	z ə́/ə h
+1971	NdandaNyep	Far	sísíjɔ̂	sísíjɔ̂	s í/i s í/i j ɔ̂/ɔ		314	s í/i s í/i j ɔ̂/ɔ
+1972	NdandaShingou	Far	sâ	sâ	s â/a		314	s â/a - - - -
+1973	NdandaCaa	Far	sísɨ́ jɔ̂	sísɨ́_jɔ̂	s í/i s ɨ́/ɨ + j ɔ̂/ɔ		314 315	s í/i s ɨ́/ɨ - - + j ɔ̂/ɔ
+1974	NdandaMeno	Far	sâ	sâ	s â/a		314	s â/a - - - -
+1975	NdandaLek	Far	sísɨ́ jɔ̂	sísɨ́_jɔ̂	s í/i s ɨ́/ɨ + j ɔ̂/ɔ		314 315	s í/i s ɨ́/ɨ - - + j ɔ̂/ɔ
+1976	NdandaNgwa	Far	sǎ	sǎ	s ǎ/a		314	s ǎ/a - - - -
+1977	NdandaTwefap	Far	bvɔ̌tsé	bvɔ̌tsé	bv ɔ̌/ɔ ts é/e		316	bv ɔ̌/ɔ ts é/e
+1978	NdandaDenfap	Far	sísɨ́ jɔ̂	sísɨ́_jɔ̂	s í/i s ɨ́/ɨ + j ɔ̂/ɔ		314 315	s í/i s ɨ́/ɨ - - + j ɔ̂/ɔ
+1979	NdandaZua	Far	ʃìʃà	ʃìʃà	ʃ ì/i ʃ à/a		314	ʃ ì/i ʃ à/a - -
+1980	Goshimjang	Far	ʃìʃà	ʃìʃà	ʃ ì/i ʃ à/a		314	ʃ ì/i ʃ à/a - -
+650	Goshimjang	Fat	və́h	və́h	v ə́/ə h		328	v ə́/ə h -
+651	NdandaNyep	Fat	ŋgǔʔ	ŋgǔʔ	ⁿg ǔ/u ʔ		328	ⁿg ǔ/u ʔ -
+652	NdandaShingou	Fat	míján ŋgɛ́	míján_ŋgɛ́	m í/i j á/a n + ⁿg ɛ́/ɛ		331 328	m í/i j á/a n + ⁿg ɛ́/ɛ - -
+653	NdandaCaa	Fat	bǔʔû ŋgɛ̌	bǔʔû_ŋgɛ̌	b ǔ/u ʔ û/u + ⁿg ɛ̌/ɛ		329 328	b ǔ/u ʔ û/u + ⁿg ɛ̌/ɛ - -
+654	NdandaMeno	Fat	ghâ	ghâ	g h â/a		328	g - h â/a
+655	NdandaLek	Fat	ndɔ́ŋ	ndɔ́ŋ	ⁿd ɔ́/ɔ ŋ		330	ⁿd ɔ́/ɔ ŋ
+656	NdandaNgwa	Fat	hú	hú	h ú/u		328	- - h ú/u
+657	NdandaTwefap	Fat	ŋgǔ	ŋgǔ	ⁿg ǔ/u		328	ⁿg ǔ/u - -
+658	NdandaDenfap	Fat	hǔ	hǔ	h ǔ/u		328	- - h ǔ/u
+659	NdandaZua	Fat	ndɔ́ŋ	ndɔ́ŋ	ⁿd ɔ́/ɔ ŋ		330	ⁿd ɔ́/ɔ ŋ
+660	Goshimjang	Fat	ndɔ́ŋ	ndɔ́ŋ	ⁿd ɔ́/ɔ ŋ		330	ⁿd ɔ́/ɔ ŋ
+421	NdandaNyep	Father	tǎ jí	tǎ_jí	t ǎ/a + j í/i		342 344	t ǎ/a + - - j í/i
+422	NdandaShingou	Father	̀mbâjé	mbâjé	ⁿb â/a j é/e		344	ⁿb â/a j é/e
+423	NdandaCaa	Father	mǎ pá	mǎ_pá	m ǎ/a + p á/a		343 344	m ǎ/a + p á/a - -
+424	NdandaMeno	Father	mbâ	mbâ	ⁿb â/a		344	ⁿb â/a - -
+425	NdandaLek	Father	tá	tá	t á/a		342	t á/a
+426	NdandaNgwa	Father	tɛ̌	tɛ̌	t ɛ̌/ɛ		342	t ɛ̌/ɛ
+427	NdandaTwefap	Father	tɛ̌	tɛ̌	t ɛ̌/ɛ		342	t ɛ̌/ɛ
+428	NdandaDenfap	Father	tɛ̌	tɛ̌	t ɛ̌/ɛ		342	t ɛ̌/ɛ
+429	NdandaZua	Father	tá	tá	t á/a		342	t á/a
+430	Goshimjang	Father	tá	tá	t á/a		342	t á/a
+691	NdandaNyep	Feather	fə̀	fə̀	f ə̀/ə		355	f ə̀/ə -
+692	NdandaShingou	Feather	fə̀	fə̀	f ə̀/ə		355	f ə̀/ə -
+693	NdandaCaa	Feather	mbâbâlǐ	mbâbâlǐ	ⁿb â/a b â/a l ǐ/i		356	ⁿb â/a b â/a l ǐ/i
+694	NdandaMeno	Feather	nʃû	nʃû	ⁿʃ û/u		357	ⁿʃ û/u
+695	NdandaLek	Feather	fúh	fúh	f ú/u h		355	f ú/u h
+696	NdandaNgwa	Feather	fə̀	fə̀	f ə̀/ə		355	f ə̀/ə -
+697	NdandaTwefap	Feather	fə̀	fə̀	f ə̀/ə		355	f ə̀/ə -
+698	NdandaDenfap	Feather	fə̀	fə̀	f ə̀/ə		355	f ə̀/ə -
+699	NdandaZua	Feather	fúh	fúh	f ú/u h		355	f ú/u h
+700	Goshimjang	Feather	fúh	fúh	f ú/u h		355	f ú/u h
+191	NdandaNyep	Few	kwɔ̌	kwɔ̌	kʷ ɔ̌/ɔ		366	- - - - - - kʷ ɔ̌/ɔ
+192	NdandaShingou	Few	̀mî tɔ̂gɛ̂	mî_tɔ̂gɛ̂	m î/i + t ɔ̂/ɔ g ɛ̂/ɛ		367 366	m î/i + - - - - t ɔ̂/ɔ g ɛ̂/ɛ
+193	NdandaCaa	Few	̀mî tɔ̂gɛ̂	mî_tɔ̂gɛ̂	m î/i + t ɔ̂/ɔ g ɛ̂/ɛ		367 366	m î/i + - - - - t ɔ̂/ɔ g ɛ̂/ɛ
+194	NdandaMeno	Few	mé tʃɔ̌gɔ̌	mé_tʃɔ̌gɔ̌	m é/e + tʃ ɔ̌/ɔ g ɔ̌/ɔ		367 366	m é/e + - - - - tʃ ɔ̌/ɔ g ɔ̌/ɔ
+195	NdandaLek	Few	mə̀tʃǔŋgɛ́	mə̀tʃǔŋgɛ́	m ə̀/ə tʃ ǔ/u ⁿg ɛ́/ɛ		366	- - m ə̀/ə tʃ ǔ/u ⁿg ɛ́/ɛ
+196	NdandaNgwa	Few	mé dzwé	mé_dzwé	m é/e + d zʷ é/e		367 368	m é/e + d zʷ é/e
+197	NdandaTwefap	Few	mɨ̌ ʒé	mɨ̌_ʒé	m ɨ̌/ɨ + ʒ é/e		367 368	m ɨ̌/ɨ + - ʒ é/e
+198	NdandaDenfap	Few	mɨ̌ ʒé	mɨ̌_ʒé	m ɨ̌/ɨ + ʒ é/e		367 368	m ɨ̌/ɨ + - ʒ é/e
+199	NdandaZua	Few	ntʃʉ̀ʔntʃʉ̀ʔ	ntʃʉ̀ʔntʃʉ̀ʔ	ⁿt ʃ ʉ̀/ʉ ʔ ⁿt ʃ ʉ̀/ʉ ʔ		369	ⁿt ʃ ʉ̀/ʉ ʔ ⁿt ʃ ʉ̀/ʉ ʔ
+200	Goshimjang	Few	búhɔ́ndɔ̀ŋgí	búhɔ́ndɔ̀ŋgí	b ú/u h ɔ́/ɔ ⁿd ɔ̀/ɔ ⁿg í/i		366	b ú/u h ɔ́/ɔ ⁿd ɔ̀/ɔ ⁿg í/i
+781	NdandaNyep	Finger nail	ŋkábá	ŋkábá	ⁿk á/a b á/a		383	ⁿk á/a b - - - - á/a
+782	NdandaShingou	Finger nail	ŋkábá pú	ŋkábá_pú	ⁿk á/a b á/a + p ú/u		383 384	ⁿk á/a b - - - - á/a + p ú/u
+783	NdandaCaa	Finger nail	ŋkábá	ŋkábá	ⁿk á/a b á/a		383	ⁿk á/a b - - - - á/a
+784	NdandaMeno	Finger nail	ŋkábá	ŋkábá	ⁿk á/a b á/a		383	ⁿk á/a b - - - - á/a
+785	NdandaLek	Finger nail	kàbàtʃwípú	kàbàtʃwípú	k à/a b à/a tʃʷ í/i p ú/u		383	k à/a b à/a tʃʷ í/i p ú/u
+786	NdandaNgwa	Finger nail	ŋkɨ́bé	ŋkɨ́bé	ⁿk ɨ́/ɨ b é/e		383	ⁿk ɨ́/ɨ b - - - - é/e
+787	NdandaTwefap	Finger nail	ŋkǐp	ŋkǐp	ⁿk ǐ/i p		383	ⁿk ǐ/i p - - - - -
+788	NdandaDenfap	Finger nail	ŋkǐp	ŋkǐp	ⁿk ǐ/i p		383	ⁿk ǐ/i p - - - - -
+789	NdandaZua	Finger nail	kàbàtʃwíbú	kàbàtʃwíbú	k à/a b à/a tʃʷ í/i b ú/u		383	k à/a b à/a tʃʷ í/i b ú/u
+790	Goshimjang	Finger nail	kàbàtʃwíbú	kàbàtʃwíbú	k à/a b à/a tʃʷ í/i b ú/u		383	k à/a b à/a tʃʷ í/i b ú/u
+1661	NdandaNyep	Fire	mǔ	mǔ	m ǔ/u		395	m ǔ/u -
+1662	NdandaShingou	Fire	mǔ	mǔ	m ǔ/u		395	m ǔ/u -
+1663	NdandaCaa	Fire	mǔ	mǔ	m ǔ/u		395	m ǔ/u -
+1664	NdandaMeno	Fire	mǔ	mǔ	m ǔ/u		395	m ǔ/u -
+1665	NdandaLek	Fire	múh	múh	m ú/u h		395	m ú/u h
+1666	NdandaNgwa	Fire	mǔ	mǔ	m ǔ/u		395	m ǔ/u -
+1667	NdandaTwefap	Fire	mǔ	mǔ	m ǔ/u		395	m ǔ/u -
+1668	NdandaDenfap	Fire	mǒ	mǒ	m ǒ/o		395	m ǒ/o -
+1669	NdandaZua	Fire	múh	múh	m ú/u h		395	m ú/u h
+1670	Goshimjang	Fire	múh	múh	m ú/u h		395	m ú/u h
+441	NdandaNyep	Fish	̀̀mbâpʃɛ̀	̀mbâpʃɛ̀	ⁿb â/a p ʃ ɛ̀/ɛ		406	ⁿb â/a p ʃ ɛ̀/ɛ
+442	NdandaShingou	Fish	̀̀mbâpsé	̀mbâpsé	ⁿb â/a p s é/e		406	ⁿb â/a p s é/e
+443	NdandaCaa	Fish	fíʃì	fíʃì	f í/i ʃ ì/i		406	f í/i - ʃ ì/i
+444	NdandaMeno	Fish	físí	físí	f í/i s í/i		406	f í/i - s í/i
+445	NdandaLek	Fish	mbàpsə̀	mbàpsə̀	ⁿb à/a p s ə̀/ə		406	ⁿb à/a p s ə̀/ə
+446	NdandaNgwa	Fish	fíʃì	fíʃì	f í/i ʃ ì/i		406	f í/i - ʃ ì/i
+447	NdandaTwefap	Fish	mbɛ̂ʃé	mbɛ̂ʃé	ⁿb ɛ̂/ɛ ʃ é/e		406	ⁿb ɛ̂/ɛ - ʃ é/e
+448	NdandaDenfap	Fish	mbɛ̂ʃé	mbɛ̂ʃé	ⁿb ɛ̂/ɛ ʃ é/e		406	ⁿb ɛ̂/ɛ - ʃ é/e
+449	NdandaZua	Fish	mbàpsə̀	mbàpsə̀	ⁿb à/a p s ə̀/ə		406	ⁿb à/a p s ə̀/ə
+450	Goshimjang	Fish	mbàpsə̀	mbàpsə̀	ⁿb à/a p s ə̀/ə		406	ⁿb à/a p s ə̀/ə
+251	NdandaNyep	Five	tǎ	tǎ	t ǎ/a		417	t ǎ/a
+252	NdandaShingou	Five	tǎ	tǎ	t ǎ/a		417	t ǎ/a
+253	NdandaCaa	Five	tǎ	tǎ	t ǎ/a		417	t ǎ/a
+254	NdandaMeno	Five	tǎ	tǎ	t ǎ/a		417	t ǎ/a
+255	NdandaLek	Five	tà	tà	t à/a		417	t à/a
+256	NdandaNgwa	Five	tɔ̌	tɔ̌	t ɔ̌/ɔ		417	t ɔ̌/ɔ
+257	NdandaTwefap	Five	tɔ̌	tɔ̌	t ɔ̌/ɔ		417	t ɔ̌/ɔ
+258	NdandaDenfap	Five	tɔ̌	tɔ̌	t ɔ̌/ɔ		417	t ɔ̌/ɔ
+259	NdandaZua	Five	tà	tà	t à/a		417	t à/a
+260	Goshimjang	Five	tà	tà	t à/a		417	t à/a
+581	NdandaNyep	Flower	sɔ̌nìɲɛ̀	sɔ̌nìɲɛ̀	s ɔ̌/ɔ n ì/i ɲ ɛ̀/ɛ		428	s ɔ̌/ɔ n ì/i ɲ ɛ̀/ɛ
+582	NdandaShingou	Flower	sɔ̌tíjɨ́	sɔ̌tíjɨ́	s ɔ̌/ɔ t í/i j ɨ́/ɨ		431	s ɔ̌/ɔ t í/i j ɨ́/ɨ
+583	NdandaCaa	Flower	sǎŋ ŋgɛ̌	sǎŋ_ŋgɛ̌	s ǎ/a ŋ + ⁿg ɛ̌/ɛ		428 429	s ǎ/a ŋ - - - + ⁿg ɛ̌/ɛ
+584	NdandaMeno	Flower	sɔ̌nìɲà	sɔ̌nìɲà	s ɔ̌/ɔ n ì/i ɲ à/a		428	s ɔ̌/ɔ n ì/i ɲ à/a
+585	NdandaLek	Flower	sɔ̌ɲìɲà	sɔ̌ɲìɲà	s ɔ̌/ɔ ɲ ì/i ɲ à/a		428	s ɔ̌/ɔ ɲ ì/i ɲ à/a
+586	NdandaNgwa	Flower	flôwà	flôwà	f l ô/o w à/a		430	f l ô/o w à/a
+587	NdandaTwefap	Flower	flôwà	flôwà	f l ô/o w à/a		430	f l ô/o w à/a
+588	NdandaDenfap	Flower	sôp	sôp	s ô/o p		428	s ô/o p - - -
+589	NdandaZua	Flower	sǒɲìɲà	sǒɲìɲà	s ǒ/o ɲ ì/i ɲ à/a		428	s ǒ/o ɲ ì/i ɲ à/a
+590	Goshimjang	Flower	sɔ̌ɲìɲà	sɔ̌ɲìɲà	s ɔ̌/ɔ ɲ ì/i ɲ à/a		428	s ɔ̌/ɔ ɲ ì/i ɲ à/a
+791	NdandaNyep	Foot	zízɔ̌	zízɔ̌	z í/i z ɔ̌/ɔ		440	z í/i z ɔ̌/ɔ -
+792	NdandaShingou	Foot	zízɔ̌	zízɔ̌	z í/i z ɔ̌/ɔ		440	z í/i z ɔ̌/ɔ -
+793	NdandaCaa	Foot	zízɔ̌	zízɔ̌	z í/i z ɔ̌/ɔ		440	z í/i z ɔ̌/ɔ -
+794	NdandaMeno	Foot	zízwɔ̌	zízwɔ̌	z í/i zʷ ɔ̌/ɔ		440	z í/i zʷ ɔ̌/ɔ -
+795	NdandaLek	Foot	zízɔ̌	zízɔ̌	z í/i z ɔ̌/ɔ		440	z í/i z ɔ̌/ɔ -
+796	NdandaNgwa	Foot	zízɨ̌	zízɨ̌	z í/i z ɨ̌/ɨ		440	z í/i z ɨ̌/ɨ -
+797	NdandaTwefap	Foot	ʒɨ̌tǐk	ʒɨ̌tǐk	ʒ ɨ̌/ɨ t ǐ/i k		440	ʒ ɨ̌/ɨ t ǐ/i k
+798	NdandaDenfap	Foot	ʒwɨ̌tɨ́	ʒwɨ̌tɨ́	ʒʷ ɨ̌/ɨ t ɨ́/ɨ		440	ʒʷ ɨ̌/ɨ t ɨ́/ɨ -
+799	NdandaZua	Foot	ʒwízɔ̌	ʒwízɔ̌	ʒʷ í/i z ɔ̌/ɔ		440	ʒʷ í/i z ɔ̌/ɔ -
+800	Goshimjang	Foot	ʒwízɔ̌	ʒwízɔ̌	ʒʷ í/i z ɔ̌/ɔ		440	ʒʷ í/i z ɔ̌/ɔ -
+511	NdandaNyep	Forest	mpû	mpû	ⁿp û/u		451	ⁿp û/u -
+512	NdandaShingou	Forest	mpû	mpû	ⁿp û/u		451	ⁿp û/u -
+513	NdandaCaa	Forest	pǔʔ	pǔʔ	p ǔ/u ʔ		451	p ǔ/u ʔ
+514	NdandaMeno	Forest	pǔʔ	pǔʔ	p ǔ/u ʔ		451	p ǔ/u ʔ
+515	NdandaLek	Forest	ɱvə̀ʔ	ɱvə̀ʔ	ⁿv ə̀/ə ʔ		451	ⁿv ə̀/ə ʔ
+516	NdandaNgwa	Forest	pǔʔ	pǔʔ	p ǔ/u ʔ		451	p ǔ/u ʔ
+517	NdandaTwefap	Forest	bvè	bvè	bv è/e		451	bv è/e -
+518	NdandaDenfap	Forest	bvè	bvè	bv è/e		451	bv è/e -
+519	NdandaZua	Forest	ɱvʉ̀ʔ	ɱvʉ̀ʔ	ⁿv ʉ̀/ʉ ʔ		451	ⁿv ʉ̀/ʉ ʔ
+520	Goshimjang	Forest	ɱvə̀ʔ	ɱvə̀ʔ	ⁿv ə̀/ə ʔ		451	ⁿv ə̀/ə ʔ
+241	NdandaNyep	Four	kwɔ̂	kwɔ̂	kʷ ɔ̂/ɔ		462	kʷ ɔ̂/ɔ
+242	NdandaShingou	Four	kwǎ	kwǎ	kʷ ǎ/a		462	kʷ ǎ/a
+243	NdandaCaa	Four	kwǎ	kwǎ	kʷ ǎ/a		462	kʷ ǎ/a
+244	NdandaMeno	Four	kwǎ	kwǎ	kʷ ǎ/a		462	kʷ ǎ/a
+245	NdandaLek	Four	kwà	kwà	kʷ à/a		462	kʷ à/a
+246	NdandaNgwa	Four	kwô	kwô	kʷ ô/o		462	kʷ ô/o
+247	NdandaTwefap	Four	kwɔ̂	kwɔ̂	kʷ ɔ̂/ɔ		462	kʷ ɔ̂/ɔ
+248	NdandaDenfap	Four	kwɔ̂	kwɔ̂	kʷ ɔ̂/ɔ		462	kʷ ɔ̂/ɔ
+249	NdandaZua	Four	kwà	kwà	kʷ à/a		462	kʷ à/a
+250	Goshimjang	Four	kwà	kwà	kʷ à/a		462	kʷ à/a
+531	NdandaNyep	Fruit	ntɔ̌ tɨ̌	ntɔ̌_tɨ̌	ⁿt ɔ̌/ɔ + t ɨ̌/ɨ		474 475	ⁿt ɔ̌/ɔ - + t ɨ̌/ɨ
+532	NdandaShingou	Fruit	ntɔ̌tíjǐ	ntɔ̌tíjǐ	ⁿt ɔ̌/ɔ t í/i j ǐ/i		476	ⁿt ɔ̌/ɔ t í/i j ǐ/i
+533	NdandaCaa	Fruit	ntɔ̌ tɨ̌	ntɔ̌_tɨ̌	ⁿt ɔ̌/ɔ + t ɨ̌/ɨ		474 475	ⁿt ɔ̌/ɔ - + t ɨ̌/ɨ
+534	NdandaMeno	Fruit	ntɔ̌ tɨ̌	ntɔ̌_tɨ̌	ⁿt ɔ̌/ɔ + t ɨ̌/ɨ		474 475	ⁿt ɔ̌/ɔ - + t ɨ̌/ɨ
+535	NdandaLek	Fruit	tɔ́	tɔ́	t ɔ́/ɔ		474	t ɔ́/ɔ -
+536	NdandaNgwa	Fruit	ntǔm tsé	ntǔm_tsé	ⁿt ǔ/u m + ts é/e		474 475	ⁿt ǔ/u m + ts é/e
+537	NdandaTwefap	Fruit	ntǔm tsé	ntǔm_tsé	ⁿt ǔ/u m + ts é/e		474 475	ⁿt ǔ/u m + ts é/e
+538	NdandaDenfap	Fruit	ntǔm tsé	ntǔm_tsé	ⁿt ǔ/u m + ts é/e		474 475	ⁿt ǔ/u m + ts é/e
+539	NdandaZua	Fruit	ʒwíndìlə̀sə̀	ʒwíndìlə̀sə̀	ʒʷ í/i ⁿd ì/i l ə̀/ə s ə̀/ə		473	ʒʷ í/i ⁿd ì/i l ə̀/ə s ə̀/ə
+540	Goshimjang	Fruit	ʒwínìlə̀sə̀	ʒwínìlə̀sə̀	ʒʷ í/i n ì/i l ə̀/ə s ə̀/ə		473	ʒʷ í/i n ì/i l ə̀/ə s ə̀/ə
+1811	NdandaNyep	Full	ndúhǔ	ndúhǔ	ⁿd ú/u h ǔ/u		490	ⁿd ú/u h ǔ/u
+1812	NdandaShingou	Full	lúhǔ	lúhǔ	l ú/u h ǔ/u		490	l ú/u h ǔ/u
+1813	NdandaCaa	Full	lúhǔ	lúhǔ	l ú/u h ǔ/u		490	l ú/u h ǔ/u
+1814	NdandaMeno	Full	ndúhǔ	ndúhǔ	ⁿd ú/u h ǔ/u		490	ⁿd ú/u h ǔ/u
+1815	NdandaLek	Full	lúhú	lúhú	l ú/u h ú/u		490	l ú/u h ú/u
+1816	NdandaNgwa	Full	lǒ	lǒ	l ǒ/o		490	l ǒ/o - -
+1817	NdandaTwefap	Full	ndúhǔ	ndúhǔ	ⁿd ú/u h ǔ/u		490	ⁿd ú/u h ǔ/u
+1818	NdandaDenfap	Full	lúhǔ	lúhǔ	l ú/u h ǔ/u		490	l ú/u h ǔ/u
+1819	NdandaZua	Full	lúhú	lúhú	l ú/u h ú/u		490	l ú/u h ú/u
+1820	Goshimjang	Full	lúhú	lúhú	l ú/u h ú/u		490	l ú/u h ú/u
+1841	NdandaNyep	Good	ŋgɛ́ pɔ̂k	ŋgɛ́_pɔ̂k	ⁿg ɛ́/ɛ + p ɔ̂/ɔ k		502 501	ⁿg ɛ́/ɛ + p ɔ̂/ɔ - - k
+1842	NdandaShingou	Good	ŋgɛ́ pɔ̂k	ŋgɛ́_pɔ̂k	ⁿg ɛ́/ɛ + p ɔ̂/ɔ k		502 501	ⁿg ɛ́/ɛ + p ɔ̂/ɔ - - k
+1843	NdandaCaa	Good	ŋgɛ́ pɔ̂k	ŋgɛ́_pɔ̂k	ⁿg ɛ́/ɛ + p ɔ̂/ɔ k		502 501	ⁿg ɛ́/ɛ + p ɔ̂/ɔ - - k
+1844	NdandaMeno	Good	mbɔ̌k	mbɔ̌k	ⁿb ɔ̌/ɔ k		501	ⁿb ɔ̌/ɔ - - k
+1845	NdandaLek	Good	pɔ̀ŋ	pɔ̀ŋ	p ɔ̀/ɔ ŋ		501	p ɔ̀/ɔ ŋ - -
+1846	NdandaNgwa	Good	pwô	pwô	pʷ ô/o		501	pʷ ô/o - - -
+1847	NdandaTwefap	Good	bvɔ̌k	bvɔ̌k	bv ɔ̌/ɔ k		501	bv ɔ̌/ɔ - - k
+1848	NdandaDenfap	Good	púwɔ̂k	púwɔ̂k	p ú/u w ɔ̂/ɔ k		501	p ú/u w ɔ̂/ɔ k
+1849	NdandaZua	Good	bɔ̀ŋ	bɔ̀ŋ	b ɔ̀/ɔ ŋ		501	b ɔ̀/ɔ ŋ - -
+1850	Goshimjang	Good	bɔ̀ŋ	bɔ̀ŋ	b ɔ̀/ɔ ŋ		501	b ɔ̀/ɔ ŋ - -
+591	NdandaNyep	Grass	níɲɛ́	níɲɛ́	n í/i ɲ ɛ́/ɛ		515	n í/i ɲ ɛ́/ɛ
+592	NdandaShingou	Grass	níɲá	níɲá	n í/i ɲ á/a		515	n í/i ɲ á/a
+593	NdandaCaa	Grass	níɲɛ́	níɲɛ́	n í/i ɲ ɛ́/ɛ		515	n í/i ɲ ɛ́/ɛ
+594	NdandaMeno	Grass	níɲɛ́	níɲɛ́	n í/i ɲ ɛ́/ɛ		515	n í/i ɲ ɛ́/ɛ
+595	NdandaLek	Grass	ɲìɲà	ɲìɲà	ɲ ì/i ɲ à/a		515	ɲ ì/i ɲ à/a
+596	NdandaNgwa	Grass	níɲá	níɲá	n í/i ɲ á/a		515	n í/i ɲ á/a
+597	NdandaTwefap	Grass	ɲɛ̌	ɲɛ̌	ɲ ɛ̌/ɛ		515	ɲ ɛ̌/ɛ - -
+598	NdandaDenfap	Grass	ɲɛ̌	ɲɛ̌	ɲ ɛ̌/ɛ		515	ɲ ɛ̌/ɛ - -
+599	NdandaZua	Grass	ɲìɲà	ɲìɲà	ɲ ì/i ɲ à/a		515	ɲ ì/i ɲ à/a
+600	Goshimjang	Grass	ɲìɲà	ɲìɲà	ɲ ì/i ɲ à/a		515	ɲ ì/i ɲ à/a
+1721	NdandaNyep	Green	lɨ́gɨ̌ lɨ́gɨ̌	lɨ́gɨ̌_lɨ́gɨ̌	l ɨ́/ɨ g ɨ̌/ɨ + l ɨ́/ɨ g ɨ̌/ɨ		529 530	l ɨ́/ɨ g ɨ̌/ɨ + l ɨ́/ɨ g ɨ̌/ɨ
+1722	NdandaShingou	Green	lɨ́gɨ̌ lɨ́gɨ̌	lɨ́gɨ̌_lɨ́gɨ̌	l ɨ́/ɨ g ɨ̌/ɨ + l ɨ́/ɨ g ɨ̌/ɨ		529 530	l ɨ́/ɨ g ɨ̌/ɨ + l ɨ́/ɨ g ɨ̌/ɨ
+1723	NdandaCaa	Green	níɲɛ̀p fǐ	níɲɛ̀p_fǐ	n í/i ɲ ɛ̀/ɛ p + f ǐ/i		527 528	n í/i - - ɲ ɛ̀/ɛ - p - + f ǐ/i
+1724	NdandaMeno	Green	nûjɛ̌nûjɛ̌	nûjɛ̌nûjɛ̌	n û/u j ɛ̌/ɛ n û/u j ɛ̌/ɛ		527	n û/u j ɛ̌/ɛ n û/u j - ɛ̌/ɛ
+1725	NdandaLek	Green	ŋwaʔwaʔ	ŋwaʔwaʔ	ŋʷ a ʔʷ a ʔ		526	ŋʷ a ʔʷ - a ʔ
+1726	NdandaNgwa	Green	niɲɛkɣǔ	niɲɛkɣǔ	n i ɲ ɛ k ɣ ǔ/u		527	n i - - ɲ ɛ k ɣ ǔ/u
+1727	NdandaTwefap	Green	niɲɛkɣǔ	niɲɛkɣǔ	n i ɲ ɛ k ɣ ǔ/u		527	n i - - ɲ ɛ k ɣ ǔ/u
+1728	NdandaDenfap	Green	niɲɛkɣǔ	niɲɛkɣǔ	n i ɲ ɛ k ɣ ǔ/u		527	n i - - ɲ ɛ k ɣ ǔ/u
+1729	NdandaZua	Green	ɲìɲàfí	ɲìɲàfí	ɲ ì/i ɲ à/a f í/i		527	ɲ ì/i - - ɲ à/a - f í/i
+1730	Goshimjang	Green	ɲwɛ̀ʔɲwɛ̀ʔ	ɲwɛ̀ʔɲwɛ̀ʔ	ɲʷ ɛ̀/ɛ ʔ ɲʷ ɛ̀/ɛ ʔ		526	ɲʷ ɛ̀/ɛ ʔ ɲʷ ɛ̀/ɛ ʔ
+851	NdandaNyep	Guts	tʃǎ	tʃǎ	tʃ ǎ/a		540	tʃ - ǎ/a
+852	NdandaShingou	Guts	zú vɔ̌p	zú_vɔ̌p	z ú/u + v ɔ̌/ɔ p		540 541	- z ú/u + v ɔ̌/ɔ p
+853	NdandaCaa	Guts	tʃǎ	tʃǎ	tʃ ǎ/a		540	tʃ - ǎ/a
+854	NdandaMeno	Guts	tʃǎ	tʃǎ	tʃ ǎ/a		540	tʃ - ǎ/a
+855	NdandaLek	Guts	ntú	ntú	ⁿt ú/u		540	ⁿt - ú/u
+856	NdandaNgwa	Guts	tʃǎ	tʃǎ	tʃ ǎ/a		540	tʃ - ǎ/a
+857	NdandaTwefap	Guts	ntʃǔ	ntʃǔ	ⁿt ʃ ǔ/u		540	ⁿt ʃ ǔ/u
+858	NdandaDenfap	Guts	ntʃǔ	ntʃǔ	ⁿt ʃ ǔ/u		540	ⁿt ʃ ǔ/u
+859	NdandaZua	Guts	ntú	ntú	ⁿt ú/u		540	ⁿt - ú/u
+860	Goshimjang	Guts	ntú	ntú	ⁿt ú/u		540	ⁿt - ú/u
+701	NdandaNyep	Hair	nɨ̌gé	nɨ̌gé	n ɨ̌/ɨ g é/e		553	n ɨ̌/ɨ g é/e
+702	NdandaShingou	Hair	nɨ̌gé	nɨ̌gé	n ɨ̌/ɨ g é/e		553	n ɨ̌/ɨ g é/e
+703	NdandaCaa	Hair	nɨ̌gé	nɨ̌gé	n ɨ̌/ɨ g é/e		553	n ɨ̌/ɨ g é/e
+704	NdandaMeno	Hair	nɨ̌gé	nɨ̌gé	n ɨ̌/ɨ g é/e		553	n ɨ̌/ɨ g é/e
+705	NdandaLek	Hair	ɲìŋtʃwí	ɲìŋtʃwí	ɲ ì/i ŋ tʃʷ í/i		552	ɲ ì/i ŋ tʃʷ í/i
+706	NdandaNgwa	Hair	nɔ̂k	nɔ̂k	n ɔ̂/ɔ k		553	n ɔ̂/ɔ k -
+707	NdandaTwefap	Hair	nɔ̂k	nɔ̂k	n ɔ̂/ɔ k		553	n ɔ̂/ɔ k -
+708	NdandaDenfap	Hair	nɔ̂k	nɔ̂k	n ɔ̂/ɔ k		553	n ɔ̂/ɔ k -
+709	NdandaZua	Hair	ɲìŋtʃwí	ɲìŋtʃwí	ɲ ì/i ŋ tʃʷ í/i		552	ɲ ì/i ŋ tʃʷ í/i
+710	Goshimjang	Hair	ɲìŋtʃwí	ɲìŋtʃwí	ɲ ì/i ŋ tʃʷ í/i		552	ɲ ì/i ŋ tʃʷ í/i
+821	NdandaNyep	Hand	pú	pú	p ú/u		563	p ú/u
+822	NdandaShingou	Hand	mbú mú	mbú_mú	ⁿb ú/u + m ú/u		563 564	ⁿb ú/u + m ú/u
+823	NdandaCaa	Hand	mbǔ	mbǔ	ⁿb ǔ/u		563	ⁿb ǔ/u
+824	NdandaMeno	Hand	mbǔ	mbǔ	ⁿb ǔ/u		563	ⁿb ǔ/u
+825	NdandaLek	Hand	pú	pú	p ú/u		563	p ú/u
+826	NdandaNgwa	Hand	mbǔ	mbǔ	ⁿb ǔ/u		563	ⁿb ǔ/u
+827	NdandaTwefap	Hand	pǔ	pǔ	p ǔ/u		563	p ǔ/u
+828	NdandaDenfap	Hand	pǔ	pǔ	p ǔ/u		563	p ǔ/u
+829	NdandaZua	Hand	bú	bú	b ú/u		563	b ú/u
+830	Goshimjang	Hand	bú	bú	b ú/u		563	b ú/u
+21	NdandaNyep	He	jɔ̌	jɔ̌	j ɔ̌/ɔ		575	j ɔ̌/ɔ
+22	NdandaShingou	He	jɔ̌	jɔ̌	j ɔ̌/ɔ		575	j ɔ̌/ɔ
+23	NdandaCaa	He	jɔ̌	jɔ̌	j ɔ̌/ɔ		575	j ɔ̌/ɔ
+24	NdandaMeno	He	jɔ̌	jɔ̌	j ɔ̌/ɔ		575	j ɔ̌/ɔ
+25	NdandaLek	He	jɔ́	jɔ́	j ɔ́/ɔ		575	j ɔ́/ɔ
+26	NdandaNgwa	He	ʒǔ	ʒǔ	ʒ ǔ/u		576	ʒ ǔ/u -
+27	NdandaTwefap	He	ʒîp	ʒîp	ʒ î/i p		576	ʒ î/i p
+28	NdandaDenfap	He	ʒɨ̌	ʒɨ̌	ʒ ɨ̌/ɨ		576	ʒ ɨ̌/ɨ -
+29	NdandaZua	He	jó	jó	j ó/o		575	j ó/o
+30	Goshimjang	He	jɔ́	jɔ́	j ɔ́/ɔ		575	j ɔ́/ɔ
+711	NdandaNyep	Head	twɨ̌	twɨ̌	tʷ ɨ̌/ɨ		586	tʷ - ɨ̌/ɨ
+712	NdandaShingou	Head	tʃǔ	tʃǔ	tʃ ǔ/u		586	tʃ - ǔ/u
+713	NdandaCaa	Head	tʃǔ	tʃǔ	tʃ ǔ/u		586	tʃ - ǔ/u
+714	NdandaMeno	Head	twɨ̌	twɨ̌	tʷ ɨ̌/ɨ		586	tʷ - ɨ̌/ɨ
+715	NdandaLek	Head	tʃwí	tʃwí	tʃ w í/i		586	tʃ w í/i
+716	NdandaNgwa	Head	twɨ̌	twɨ̌	tʷ ɨ̌/ɨ		586	tʷ - ɨ̌/ɨ
+717	NdandaTwefap	Head	twɨ̌	twɨ̌	tʷ ɨ̌/ɨ		586	tʷ - ɨ̌/ɨ
+718	NdandaDenfap	Head	twɨ̌	twɨ̌	tʷ ɨ̌/ɨ		586	tʷ - ɨ̌/ɨ
+719	NdandaZua	Head	tʃwí	tʃwí	tʃ w í/i		586	tʃ w í/i
+720	Goshimjang	Head	tʃwí	tʃwí	tʃ w í/i		586	tʃ w í/i
+891	NdandaNyep	Heart	ntíɛ́p	ntíɛ́p	ⁿt í/i ɛ́/ɛ p		597	ⁿt í/i ɛ́/ɛ p -
+892	NdandaShingou	Heart	ntíɛ́p	ntíɛ́p	ⁿt í/i ɛ́/ɛ p		597	ⁿt í/i ɛ́/ɛ p -
+893	NdandaCaa	Heart	ntíjǎ	ntíjǎ	ⁿt í/i j ǎ/a		597	ⁿt í/i - j ǎ/a
+894	NdandaMeno	Heart	tɨ́p	tɨ́p	t ɨ́/ɨ p		597	t ɨ́/ɨ - p -
+895	NdandaLek	Heart	ntsí	ntsí	ⁿt s í/i		597	ⁿt - - s í/i
+896	NdandaNgwa	Heart	tɨ̌p	tɨ̌p	t ɨ̌/ɨ p		597	t ɨ̌/ɨ - p -
+897	NdandaTwefap	Heart	tɨ̌p	tɨ̌p	t ɨ̌/ɨ p		597	t ɨ̌/ɨ - p -
+898	NdandaDenfap	Heart	tɨ̌p	tɨ̌p	t ɨ̌/ɨ p		597	t ɨ̌/ɨ - p -
+899	NdandaZua	Heart	ntsí	ntsí	ⁿt s í/i		597	ⁿt - - s í/i
+900	Goshimjang	Heart	ntsí	ntsí	ⁿt s í/i		597	ⁿt - - s í/i
+301	NdandaNyep	Heavy	nzǐ	nzǐ	ⁿz ǐ/i		608	ⁿz ǐ/i
+302	NdandaShingou	Heavy	nzǐ	nzǐ	ⁿz ǐ/i		608	ⁿz ǐ/i
+303	NdandaCaa	Heavy	zɛ̂	zɛ̂	z ɛ̂/ɛ		608	z ɛ̂/ɛ
+304	NdandaMeno	Heavy	zɛ̂	zɛ̂	z ɛ̂/ɛ		608	z ɛ̂/ɛ
+305	NdandaLek	Heavy	ŋgɛ́ zɛ̀	ŋgɛ́_zɛ̀	ⁿg ɛ́/ɛ + z ɛ̀/ɛ		609 608	ⁿg ɛ́/ɛ + z ɛ̀/ɛ
+306	NdandaNgwa	Heavy	zé	zé	z é/e		608	z é/e
+307	NdandaTwefap	Heavy	ndzǐ	ndzǐ	ⁿdz ǐ/i		608	ⁿdz ǐ/i
+308	NdandaDenfap	Heavy	tsé	tsé	ts é/e		608	ts é/e
+309	NdandaZua	Heavy	zì	zì	z ì/i		608	z ì/i
+310	Goshimjang	Heavy	zɛ̀	zɛ̀	z ɛ̀/ɛ		608	z ɛ̀/ɛ
+81	NdandaNyep	Here	sɛ̌	sɛ̌	s ɛ̌/ɛ		620	- - s ɛ̌/ɛ
+82	NdandaShingou	Here	sɛ̌	sɛ̌	s ɛ̌/ɛ		620	- - s ɛ̌/ɛ
+83	NdandaCaa	Here	ʃɛ̌	ʃɛ̌	ʃ ɛ̌/ɛ		620	- - ʃ ɛ̌/ɛ
+84	NdandaMeno	Here	sâ	sâ	s â/a		620	- - s â/a
+85	NdandaLek	Here	síndìʔì	síndìʔì	s í/i ⁿd ì/i ʔ ì/i		621	s í/i ⁿd ì/i ʔ ì/i
+86	NdandaNgwa	Here	ʃɛ̌	ʃɛ̌	ʃ ɛ̌/ɛ		620	- - ʃ ɛ̌/ɛ
+87	NdandaTwefap	Here	ʃɛ̌	ʃɛ̌	ʃ ɛ̌/ɛ		620	- - ʃ ɛ̌/ɛ
+88	NdandaDenfap	Here	ʃɛ̌	ʃɛ̌	ʃ ɛ̌/ɛ		620	- - ʃ ɛ̌/ɛ
+89	NdandaZua	Here	sílì	sílì	s í/i l ì/i		620	s í/i l ì/i
+90	Goshimjang	Here	jísì	jísì	j í/i s ì/i		620	j í/i s ì/i
+671	NdandaNyep	Horn	ndɔ̌k	ndɔ̌k	ⁿd ɔ̌/ɔ k		631	ⁿd ɔ̌/ɔ k
+672	NdandaShingou	Horn	ndɔ̌k	ndɔ̌k	ⁿd ɔ̌/ɔ k		631	ⁿd ɔ̌/ɔ k
+673	NdandaCaa	Horn	ndɔ̌k	ndɔ̌k	ⁿd ɔ̌/ɔ k		631	ⁿd ɔ̌/ɔ k
+674	NdandaMeno	Horn	ndɔ̌k	ndɔ̌k	ⁿd ɔ̌/ɔ k		631	ⁿd ɔ̌/ɔ k
+675	NdandaLek	Horn	ndɔ́ŋ	ndɔ́ŋ	ⁿd ɔ́/ɔ ŋ		631	ⁿd ɔ́/ɔ ŋ
+676	NdandaNgwa	Horn	ndɔ̌k	ndɔ̌k	ⁿd ɔ̌/ɔ k		631	ⁿd ɔ̌/ɔ k
+677	NdandaTwefap	Horn	ndɔ̌k	ndɔ̌k	ⁿd ɔ̌/ɔ k		631	ⁿd ɔ̌/ɔ k
+678	NdandaDenfap	Horn	ndɔ̌k	ndɔ̌k	ⁿd ɔ̌/ɔ k		631	ⁿd ɔ̌/ɔ k
+679	NdandaZua	Horn	ndɔ́ŋ	ndɔ́ŋ	ⁿd ɔ́/ɔ ŋ		631	ⁿd ɔ́/ɔ ŋ
+680	Goshimjang	Horn	ndɔ́ŋ	ndɔ́ŋ	ⁿd ɔ́/ɔ ŋ		631	ⁿd ɔ́/ɔ ŋ
+141	NdandaNyep	How	nděʔé	nděʔé	ⁿd ě/e ʔ é/e		642	ⁿd ě/e ʔ é/e
+142	NdandaShingou	How	̀̀mɨ̂ ndí-ɛ́	̀mɨ̂_ndí-ɛ́	m ɨ̂/ɨ + ⁿd í/i + ɛ́/ɛ		646 642 643	m ɨ̂/ɨ + ⁿd í/i - - + ɛ́/ɛ
+143	NdandaCaa	How	ndí-ɛ́	ndí-ɛ́	ⁿd í/i + ɛ́/ɛ		642 643	ⁿd í/i - - + ɛ́/ɛ
+144	NdandaMeno	How	ndɛ̌ʔɛ̌	ndɛ̌ʔɛ̌	ⁿd ɛ̌/ɛ ʔ ɛ̌/ɛ		642	ⁿd ɛ̌/ɛ ʔ ɛ̌/ɛ
+145	NdandaLek	How	ndɛ́ʔɛ́	ndɛ́ʔɛ́	ⁿd ɛ́/ɛ ʔ ɛ́/ɛ		642	ⁿd ɛ́/ɛ ʔ ɛ́/ɛ
+146	NdandaNgwa	How	mébíʔhî	mébíʔhî	m é/e b í/i ʔ h î/i		645	m é/e b í/i ʔ h î/i
+147	NdandaTwefap	How	pálíjɛ̌	pálíjɛ̌	p á/a l í/i j ɛ̌/ɛ		644	p á/a l í/i j ɛ̌/ɛ
+148	NdandaDenfap	How	pálíjé	pálíjé	p á/a l í/i j é/e		644	p á/a l í/i j é/e
+149	NdandaZua	How	ndàkɔ́	ndàkɔ́	ⁿd à/a k ɔ́/ɔ		642	ⁿd à/a k ɔ́/ɔ
+150	Goshimjang	How	ndàkɔ́	ndàkɔ́	ⁿd à/a k ɔ́/ɔ		642	ⁿd à/a k ɔ́/ɔ
+371	NdandaNyep	Human	mɨ̂ntè	mɨ̂ntè	m ɨ̂/ɨ ⁿt è/e		656	m ɨ̂/ɨ ⁿt è/e -
+372	NdandaShingou	Human	mɨ̂ntè	mɨ̂ntè	m ɨ̂/ɨ ⁿt è/e		656	m ɨ̂/ɨ ⁿt è/e -
+373	NdandaCaa	Human	mɨ̂ntè	mɨ̂ntè	m ɨ̂/ɨ ⁿt è/e		656	m ɨ̂/ɨ ⁿt è/e -
+374	NdandaMeno	Human	mɨ̂ntè	mɨ̂ntè	m ɨ̂/ɨ ⁿt è/e		656	m ɨ̂/ɨ ⁿt è/e -
+375	NdandaLek	Human	̀mə̀ntə̀	mə̀ntə̀	m ə̀/ə ⁿt ə̀/ə		656	m ə̀/ə ⁿt ə̀/ə -
+376	NdandaNgwa	Human	mɨ̂ntè	mɨ̂ntè	m ɨ̂/ɨ ⁿt è/e		656	m ɨ̂/ɨ ⁿt è/e -
+377	NdandaTwefap	Human	mîntɨ̀k	mîntɨ̀k	m î/i ⁿt ɨ̀/ɨ k		656	m î/i ⁿt ɨ̀/ɨ k
+378	NdandaDenfap	Human	mìntè	mìntè	m ì/i ⁿt è/e		656	m ì/i ⁿt è/e -
+379	NdandaZua	Human	̀mə̀ntə̀	mə̀ntə̀	m ə̀/ə ⁿt ə̀/ə		656	m ə̀/ə ⁿt ə̀/ə -
+380	Goshimjang	Human	̀mə̀ntə̀	mə̀ntə̀	m ə̀/ə ⁿt ə̀/ə		656	m ə̀/ə ⁿt ə̀/ə -
+401	NdandaNyep	Husband	ndzúwì	ndzúwì	ⁿdz ú/u w ì/i		667	ⁿdz ú/u w ì/i
+402	NdandaShingou	Husband	ndzǔ	ndzǔ	ⁿdz ǔ/u		667	ⁿdz ǔ/u - -
+403	NdandaCaa	Husband	ndzǔ	ndzǔ	ⁿdz ǔ/u		667	ⁿdz ǔ/u - -
+404	NdandaMeno	Husband	ndúwî	ndúwî	ⁿd ú/u w î/i		667	ⁿd ú/u w î/i
+405	NdandaLek	Husband	ndúwi	ndúwi	ⁿd ú/u w i		667	ⁿd ú/u w i
+406	NdandaNgwa	Husband	ndúwi	ndúwi	ⁿd ú/u w i		667	ⁿd ú/u w i
+407	NdandaTwefap	Husband	dzwɨ̌	dzwɨ̌	d zʷ ɨ̌/ɨ		668	d zʷ ɨ̌/ɨ
+408	NdandaDenfap	Husband	dzwɨ̌	dzwɨ̌	d zʷ ɨ̌/ɨ		668	d zʷ ɨ̌/ɨ
+409	NdandaZua	Husband	ndúwî	ndúwî	ⁿd ú/u w î/i		667	ⁿd ú/u w î/i
+410	Goshimjang	Husband	ndzúwì	ndzúwì	ⁿdz ú/u w ì/i		667	ⁿdz ú/u w ì/i
+1	NdandaNyep	I	wɛ́	wɛ́	w ɛ́/ɛ		679	w ɛ́/ɛ
+2	NdandaShingou	I	wɛ́	wɛ́	w ɛ́/ɛ		679	w ɛ́/ɛ
+3	NdandaCaa	I	wɛ́	wɛ́	w ɛ́/ɛ		679	w ɛ́/ɛ
+4	NdandaMeno	I	mé	mé	m é/e		678	m é/e
+5	NdandaLek	I	mà	mà	m à/a		678	m à/a
+6	NdandaNgwa	I	mǎ	mǎ	m ǎ/a		678	m ǎ/a
+7	NdandaTwefap	I	mɔ̂	mɔ̂	m ɔ̂/ɔ		678	m ɔ̂/ɔ
+8	NdandaDenfap	I	mé	mé	m é/e		678	m é/e
+9	NdandaZua	I	̀mà	mà	m à/a		678	m à/a
+10	Goshimjang	I	mà	mà	m à/a		678	m à/a
+1641	NdandaNyep	Ice	ŋɨ̂p	ŋɨ̂p	ŋ ɨ̂/ɨ p		689	- - ŋ ɨ̂/ɨ p -
+1642	NdandaShingou	Ice	ntɔ̌ŋíɛ́	ntɔ̌ŋíɛ́	ⁿt ɔ̌/ɔ ŋ í/i ɛ́/ɛ		689	ⁿt ɔ̌/ɔ ŋ í/i - ɛ́/ɛ
+1643	NdandaCaa	Ice	ɲíɛ́ mbɨn	ɲíɛ́_mbɨn	ɲ í/i ɛ́/ɛ + ⁿb ɨ n		689 690	- - ɲ í/i - ɛ́/ɛ + ⁿb ɨ n
+1644	NdandaMeno	Ice	ɲíɛ́ mbɨn	ɲíɛ́_mbɨn	ɲ í/i ɛ́/ɛ + ⁿb ɨ n		689 690	- - ɲ í/i - ɛ́/ɛ + ⁿb ɨ n
+1645	NdandaLek	Ice	ɲɛ̀	ɲɛ̀	ɲ ɛ̀/ɛ		689	- - ɲ ɛ̀/ɛ - -
+1646	NdandaNgwa	Ice	ŋúwɔ́ mbɨ̀ŋ	ŋúwɔ́_mbɨ̀ŋ	ŋ ú/u w ɔ́/ɔ + ⁿb ɨ̀/ɨ ŋ		689 690	- - ŋ ú/u w ɔ́/ɔ + ⁿb ɨ̀/ɨ ŋ
+1647	NdandaTwefap	Ice	ŋúwɔ́ mbɨ̀ŋ	ŋúwɔ́_mbɨ̀ŋ	ŋ ú/u w ɔ́/ɔ + ⁿb ɨ̀/ɨ ŋ		689 690	- - ŋ ú/u w ɔ́/ɔ + ⁿb ɨ̀/ɨ ŋ
+1648	NdandaDenfap	Ice	ŋúwɔ́ mbɨ̀ŋ	ŋúwɔ́_mbɨ̀ŋ	ŋ ú/u w ɔ́/ɔ + ⁿb ɨ̀/ɨ ŋ		689 690	- - ŋ ú/u w ɔ́/ɔ + ⁿb ɨ̀/ɨ ŋ
+1649	NdandaZua	Ice	ɲɛ̀	ɲɛ̀	ɲ ɛ̀/ɛ		689	- - ɲ ɛ̀/ɛ - -
+1650	Goshimjang	Ice	ɲɛ̀	ɲɛ̀	ɲ ɛ̀/ɛ		689	- - ɲ ɛ̀/ɛ - -
+811	NdandaNyep	Knee	zûk	zûk	z û/u k		705	- - z û/u k
+812	NdandaShingou	Knee	zúk	zúk	z ú/u k		705	- - z ú/u k
+813	NdandaCaa	Knee	túzǔk	túzǔk	t ú/u z ǔ/u k		705	t ú/u z ǔ/u k
+814	NdandaMeno	Knee	zúk	zúk	z ú/u k		705	- - z ú/u k
+815	NdandaLek	Knee	zùk	zùk	z ù/u k		705	- - z ù/u k
+816	NdandaNgwa	Knee	tútû	tútû	t ú/u t û/u		705	t ú/u t û/u -
+817	NdandaTwefap	Knee	tétû	tétû	t é/e t û/u		705	t é/e t û/u -
+818	NdandaDenfap	Knee	tétû	tétû	t é/e t û/u		705	t é/e t û/u -
+819	NdandaZua	Knee	zúŋ	zúŋ	z ú/u ŋ		705	- - z ú/u ŋ
+820	Goshimjang	Knee	zúŋ	zúŋ	z ú/u ŋ		705	- - z ú/u ŋ
+1521	NdandaNyep	Lake	mɔ̌ʔ	mɔ̌ʔ	m ɔ̌/ɔ ʔ		718	m ɔ̌/ɔ ʔ -
+1522	NdandaShingou	Lake	mɔ̌ʔ	mɔ̌ʔ	m ɔ̌/ɔ ʔ		718	m ɔ̌/ɔ ʔ -
+1523	NdandaCaa	Lake	mɔ̌ʔ	mɔ̌ʔ	m ɔ̌/ɔ ʔ		718	m ɔ̌/ɔ ʔ -
+1524	NdandaMeno	Lake	mɔ̌ʔ	mɔ̌ʔ	m ɔ̌/ɔ ʔ		718	m ɔ̌/ɔ ʔ -
+1525	NdandaLek	Lake	nsə̀ŋgɣʉ́	nsə̀ŋgɣʉ́	ⁿs ə̀/ə ⁿg ɣ ʉ́/ʉ		719	ⁿs ə̀/ə ⁿg ɣ ʉ́/ʉ
+1526	NdandaNgwa	Lake	mɔ̌ʔ	mɔ̌ʔ	m ɔ̌/ɔ ʔ		718	m ɔ̌/ɔ ʔ -
+1527	NdandaTwefap	Lake	mɔ̌ʔ	mɔ̌ʔ	m ɔ̌/ɔ ʔ		718	m ɔ̌/ɔ ʔ -
+1528	NdandaDenfap	Lake	́mɔ̌ʔɔ́	́mɔ̌ʔɔ́	m ɔ̌/ɔ ʔ ɔ́/ɔ		718	m ɔ̌/ɔ ʔ ɔ́/ɔ
+1529	NdandaZua	Lake	búb ntsə̀	búb_ntsə̀	b ú/u b + ⁿt s ə̀/ə		716 717	b ú/u b + ⁿt s ə̀/ə
+1530	Goshimjang	Lake	búb nsə̀	búb_nsə̀	b ú/u b + ⁿs ə̀/ə		716 717	b ú/u b + - ⁿs ə̀/ə
+551	NdandaNyep	Leaf	nxê	nxê	n x ê/e		729	n x ê/e -
+552	NdandaShingou	Leaf	nxê	nxê	n x ê/e		729	n x ê/e -
+553	NdandaCaa	Leaf	nxê	nxê	n x ê/e		729	n x ê/e -
+554	NdandaMeno	Leaf	nxê ntɨ̌	nxê_ntɨ̌	n x ê/e + ⁿt ɨ̌/ɨ		729 730	n x ê/e - + ⁿt ɨ̌/ɨ
+555	NdandaLek	Leaf	ŋkxə̀	ŋkxə̀	ⁿk x ə̀/ə		729	ⁿk x ə̀/ə -
+556	NdandaNgwa	Leaf	nxê	nxê	n x ê/e		729	n x ê/e -
+557	NdandaTwefap	Leaf	kwěnt tsé	kwěnt_tsé	kʷ ě/e ⁿt + ts é/e		729 730	kʷ - ě/e ⁿt + ts é/e
+558	NdandaDenfap	Leaf	kxə tsé	kxə_tsé	k x ə/ə + ts é/e		729 730	k x ə/ə - + ts é/e
+559	NdandaZua	Leaf	ŋkxə̀	ŋkxə̀	ⁿk x ə̀/ə		729	ⁿk x ə̀/ə -
+560	Goshimjang	Leaf	ŋkxə̀	ŋkxə̀	ⁿk x ə̀/ə		729	ⁿk x ə̀/ə -
+1991	NdandaNyep	Left	tʃúwɔ̌bé	tʃúwɔ̌bé	tʃ ú/u w ɔ̌/ɔ b é/e		743	tʃ ú/u w ɔ̌/ɔ b é/e
+1992	NdandaShingou	Left	tʃɔ̌bɔ̌	tʃɔ̌bɔ̌	tʃ ɔ̌/ɔ b ɔ̌/ɔ		743	tʃ ɔ̌/ɔ - - b ɔ̌/ɔ
+1993	NdandaCaa	Left	tʃɔ̌bɔ̌	tʃɔ̌bɔ̌	tʃ ɔ̌/ɔ b ɔ̌/ɔ		743	tʃ ɔ̌/ɔ - - b ɔ̌/ɔ
+1994	NdandaMeno	Left	tʃɔ̌bɔ̌	tʃɔ̌bɔ̌	tʃ ɔ̌/ɔ b ɔ̌/ɔ		743	tʃ ɔ̌/ɔ - - b ɔ̌/ɔ
+1995	NdandaLek	Left	púkwìp	púkwìp	p ú/u kʷ ì/i p		744	p ú/u kʷ - ì/i p
+1996	NdandaNgwa	Left	kxé	kxé	k x é/e		745	k x é/e
+1997	NdandaTwefap	Left	wɔ̌kyûp	wɔ̌kyûp	w ɔ̌/ɔ k j û/u p		744	w ɔ̌/ɔ k j û/u p
+1998	NdandaDenfap	Left	wɔ̌kyûp	wɔ̌kyûp	w ɔ̌/ɔ k j û/u p		744	w ɔ̌/ɔ k j û/u p
+1999	NdandaZua	Left	bútʃòbə̀	bútʃòbə̀	b ú/u tʃ ò/o b ə̀/ə		743	b ú/u tʃ ò/o b ə̀/ə
+2000	Goshimjang	Left	ʃɛ̀bì	ʃɛ̀bì	ʃ ɛ̀/ɛ b ì/i		743	ʃ ɛ̀/ɛ - - b ì/i
+801	NdandaNyep	Leg	ŋkxé	ŋkxé	ⁿk x é/e		754	ⁿk x é/e
+802	NdandaShingou	Leg	ŋkxé mú	ŋkxé_mú	ⁿk x é/e + m ú/u		754 755	ⁿk x é/e + m ú/u
+803	NdandaCaa	Leg	ŋkxé mú	ŋkxé_mú	ⁿk x é/e + m ú/u		754 755	ⁿk x é/e + m ú/u
+804	NdandaMeno	Leg	ŋkxé	ŋkxé	ⁿk x é/e		754	ⁿk x é/e
+805	NdandaLek	Leg	kxə̀	kxə̀	k x ə̀/ə		754	k x ə̀/ə
+806	NdandaNgwa	Leg	ŋkxé	ŋkxé	ⁿk x é/e		754	ⁿk x é/e
+807	NdandaTwefap	Leg	ŋkxé	ŋkxé	ⁿk x é/e		754	ⁿk x é/e
+808	NdandaDenfap	Leg	ŋkxwɔ̂	ŋkxwɔ̂	ⁿk xʷ ɔ̂/ɔ		754	ⁿk xʷ ɔ̂/ɔ
+809	NdandaZua	Leg	kxə̀	kxə̀	k x ə̀/ə		754	k x ə̀/ə
+810	Goshimjang	Leg	kxə̀	kxə̀	k x ə̀/ə		754	k x ə̀/ə
+901	NdandaNyep	Liver	mbímí	mbímí	ⁿb í/i m í/i		769	ⁿb í/i m í/i
+902	NdandaShingou	Liver	mbímǔ	mbímǔ	ⁿb í/i m ǔ/u		769	ⁿb í/i m ǔ/u
+903	NdandaCaa	Liver	tʃɛ̌p zú	tʃɛ̌p_zú	tʃ ɛ̌/ɛ p + z ú/u		768 767	tʃ ɛ̌/ɛ p + - z ú/u
+904	NdandaMeno	Liver	mbí	mbí	ⁿb í/i		769	ⁿb í/i - -
+905	NdandaLek	Liver	mbímí	mbímí	ⁿb í/i m í/i		769	ⁿb í/i m í/i
+906	NdandaNgwa	Liver	mbîmí	mbîmí	ⁿb î/i m í/i		769	ⁿb î/i m í/i
+907	NdandaTwefap	Liver	mbîmí	mbîmí	ⁿb î/i m í/i		769	ⁿb î/i m í/i
+908	NdandaDenfap	Liver	bví	bví	bv í/i		769	bv í/i - -
+909	NdandaZua	Liver	ntsí	ntsí	ⁿt s í/i		767	ⁿt s í/i
+910	Goshimjang	Liver	ntsí	ntsí	ⁿt s í/i		767	ⁿt s í/i
+271	NdandaNyep	Long	sǎ	sǎ	s ǎ/a		779	s ǎ/a -
+272	NdandaShingou	Long	sísíjá ŋgɛ́	sísíjá_ŋgɛ́	s í/i s í/i j á/a + ⁿg ɛ́/ɛ		780 781	s í/i s í/i j á/a + - - ⁿg ɛ́/ɛ
+273	NdandaCaa	Long	sâ	sâ	s â/a		779	s â/a -
+274	NdandaMeno	Long	sísíjá ŋgɛ́	sísíjá_ŋgɛ́	s í/i s í/i j á/a + ⁿg ɛ́/ɛ		780 781	s í/i s í/i j á/a + - - ⁿg ɛ́/ɛ
+275	NdandaLek	Long	sàh	sàh	s à/a h		779	s à/a h
+276	NdandaNgwa	Long	sâ	sâ	s â/a		779	s â/a -
+277	NdandaTwefap	Long	sêgé ʒê	sêgé_ʒê	s ê/e g é/e + ʒ ê/e		781 779	s ê/e g é/e + ʒ ê/e -
+278	NdandaDenfap	Long	sâ	sâ	s â/a		779	s â/a -
+279	NdandaZua	Long	sàh	sàh	s à/a h		779	s à/a h
+280	Goshimjang	Long	sàh	sàh	s à/a h		779	s à/a h
+471	NdandaNyep	Louse	ntʃî	ntʃî	ⁿt ʃ î/i		793	ⁿt ʃ - î/i
+472	NdandaShingou	Louse	ntʃîɛ́	ntʃîɛ́	ⁿt ʃ î/i ɛ́/ɛ		793	ⁿt ʃ î/i ɛ́/ɛ
+473	NdandaCaa	Louse	nʃî-ɛ̌	nʃî-ɛ̌	ⁿʃ î/i + ɛ̌/ɛ		793 794	- ⁿʃ - î/i + ɛ̌/ɛ
+474	NdandaMeno	Louse	ntʃî ɛ́	ntʃî_ɛ́	ⁿt ʃ î/i + ɛ́/ɛ		793 794	ⁿt ʃ - î/i + ɛ́/ɛ
+475	NdandaLek	Louse	nʃî-ɛ̌	nʃî-ɛ̌	ⁿʃ î/i + ɛ̌/ɛ		793 794	- ⁿʃ - î/i + ɛ̌/ɛ
+476	NdandaNgwa	Louse	nʃé	nʃé	ⁿʃ é/e		793	- ⁿʃ - é/e
+477	NdandaTwefap	Louse	ntʃé	ntʃé	ⁿt ʃ é/e		793	ⁿt ʃ - é/e
+478	NdandaDenfap	Louse	ntʃé	ntʃé	ⁿt ʃ é/e		793	ⁿt ʃ - é/e
+479	NdandaZua	Louse	ntʃjɛ́	ntʃjɛ́	ⁿt ʃ j ɛ́/ɛ		793	ⁿt ʃ j ɛ́/ɛ
+480	Goshimjang	Louse	nʃjɛ́	nʃjɛ́	ⁿʃ j ɛ́/ɛ		793	- ⁿʃ j ɛ́/ɛ
+361	NdandaNyep	Man	mbǎgâ	mbǎgâ	ⁿb ǎ/a g â/a		807	ⁿb ǎ/a g â/a
+362	NdandaShingou	Man	mbǎgâ	mbǎgâ	ⁿb ǎ/a g â/a		807	ⁿb ǎ/a g â/a
+363	NdandaCaa	Man	mbǎgâ	mbǎgâ	ⁿb ǎ/a g â/a		807	ⁿb ǎ/a g â/a
+364	NdandaMeno	Man	mbǎgâ	mbǎgâ	ⁿb ǎ/a g â/a		807	ⁿb ǎ/a g â/a
+365	NdandaLek	Man	mbǎgâ	mbǎgâ	ⁿb ǎ/a g â/a		807	ⁿb ǎ/a g â/a
+366	NdandaNgwa	Man	mbǎgâ	mbǎgâ	ⁿb ǎ/a g â/a		807	ⁿb ǎ/a g â/a
+367	NdandaTwefap	Man	mbǎgâ	mbǎgâ	ⁿb ǎ/a g â/a		807	ⁿb ǎ/a g â/a
+368	NdandaDenfap	Man	mbǎgâ	mbǎgâ	ⁿb ǎ/a g â/a		807	ⁿb ǎ/a g â/a
+369	NdandaZua	Man	mbǎgâ	mbǎgâ	ⁿb ǎ/a g â/a		807	ⁿb ǎ/a g â/a
+370	Goshimjang	Man	mbǎgâ	mbǎgâ	ⁿb ǎ/a g â/a		807	ⁿb ǎ/a g â/a
+171	NdandaNyep	Many	tɛ̌ɲɔ́	tɛ̌ɲɔ́	t ɛ̌/ɛ ɲ ɔ́/ɔ		822	t ɛ̌/ɛ ɲ ɔ́/ɔ
+172	NdandaShingou	Many	bǔwɔ̂ jɔ́	bǔwɔ̂_jɔ́	b ǔ/u w ɔ̂/ɔ + j ɔ́/ɔ		823 818	b ǔ/u w ɔ̂/ɔ + j ɔ́/ɔ - - -
+173	NdandaCaa	Many	ŋgɛ́ jɔ̌	ŋgɛ́_jɔ̌	ⁿg ɛ́/ɛ + j ɔ̌/ɔ		819 818	ⁿg ɛ́/ɛ + j ɔ̌/ɔ - - -
+174	NdandaMeno	Many	jɔ̌	jɔ̌	j ɔ̌/ɔ		818	j ɔ̌/ɔ - - -
+175	NdandaLek	Many	fə̀ʔjɔ́	fə̀ʔjɔ́	f ə̀/ə ʔ j ɔ́/ɔ		820	f ə̀/ə ʔ j ɔ́/ɔ
+176	NdandaNgwa	Many	ì jɔ̌p	ì_jɔ̌p	ì/i + j ɔ̌/ɔ p		821 818	ì/i + j ɔ̌/ɔ p - -
+177	NdandaTwefap	Many	ɣábé	ɣábé	ɣ á/a b é/e		824	ɣ á/a b é/e
+178	NdandaDenfap	Many	jûjûk	jûjûk	j û/u j û/u k		818	j û/u j û/u k
+179	NdandaZua	Many	jìjɔ̀	jìjɔ̀	j ì/i j ɔ̀/ɔ		818	j ì/i j ɔ̀/ɔ -
+180	Goshimjang	Many	jɔ̀jɔ̀	jɔ̀jɔ̀	j ɔ̀/ɔ j ɔ̀/ɔ		818	j ɔ̀/ɔ j ɔ̀/ɔ -
+621	NdandaNyep	Meat	mbâp	mbâp	ⁿb â/a p		832	ⁿb â/a p
+622	NdandaShingou	Meat	mbâp	mbâp	ⁿb â/a p		832	ⁿb â/a p
+623	NdandaCaa	Meat	mbâp	mbâp	ⁿb â/a p		832	ⁿb â/a p
+624	NdandaMeno	Meat	mbâp	mbâp	ⁿb â/a p		832	ⁿb â/a p
+625	NdandaLek	Meat	mbàp	mbàp	ⁿb à/a p		832	ⁿb à/a p
+626	NdandaNgwa	Meat	̀mbɛ̂	mbɛ̂	ⁿb ɛ̂/ɛ		832	ⁿb ɛ̂/ɛ -
+627	NdandaTwefap	Meat	̀mbɛ̂	mbɛ̂	ⁿb ɛ̂/ɛ		832	ⁿb ɛ̂/ɛ -
+628	NdandaDenfap	Meat	̀mbɛ̂	mbɛ̂	ⁿb ɛ̂/ɛ		832	ⁿb ɛ̂/ɛ -
+629	NdandaZua	Meat	mbàp	mbàp	ⁿb à/a p		832	ⁿb à/a p
+630	Goshimjang	Meat	mbàp	mbàp	ⁿb à/a p		832	ⁿb à/a p
+1471	NdandaNyep	Moon	mɛ̌ŋǔ	mɛ̌ŋǔ	m ɛ̌/ɛ ŋ ǔ/u		843	m ɛ̌/ɛ ŋ ǔ/u - -
+1472	NdandaShingou	Moon	mɛ̌ŋǔ	mɛ̌ŋǔ	m ɛ̌/ɛ ŋ ǔ/u		843	m ɛ̌/ɛ ŋ ǔ/u - -
+1473	NdandaCaa	Moon	zɨ̌ mɛ̌ŋǔ	zɨ̌_mɛ̌ŋǔ	z ɨ̌/ɨ + m ɛ̌/ɛ ŋ ǔ/u		844 843	z ɨ̌/ɨ + m ɛ̌/ɛ ŋ ǔ/u - -
+1474	NdandaMeno	Moon	mǎmǔ	mǎmǔ	m ǎ/a m ǔ/u		843	m ǎ/a m ǔ/u - -
+1475	NdandaLek	Moon	màŋwɔ́	màŋwɔ́	m à/a ŋʷ ɔ́/ɔ		843	m à/a ŋʷ ɔ́/ɔ - -
+1476	NdandaNgwa	Moon	mɨ̌ ŋǔ	mɨ̌_ŋǔ	m ɨ̌/ɨ + ŋ ǔ/u		843 845	m ɨ̌/ɨ - - - - + ŋ ǔ/u
+1477	NdandaTwefap	Moon	mǎmɨ̌k	mǎmɨ̌k	m ǎ/a m ɨ̌/ɨ k		843	m ǎ/a m ɨ̌/ɨ k -
+1478	NdandaDenfap	Moon	mɛ̌ŋúɔ́	mɛ̌ŋúɔ́	m ɛ̌/ɛ ŋ ú/u ɔ́/ɔ		843	m ɛ̌/ɛ ŋ ú/u - ɔ́/ɔ
+1479	NdandaZua	Moon	màŋwɔ́	màŋwɔ́	m à/a ŋʷ ɔ́/ɔ		843	m à/a ŋʷ ɔ́/ɔ - -
+1480	Goshimjang	Moon	màŋwɔ́	màŋwɔ́	m à/a ŋʷ ɔ́/ɔ		843	m à/a ŋʷ ɔ́/ɔ - -
+411	NdandaNyep	Mother	mǎ jí	mǎ_jí	m ǎ/a + j í/i		856 857	m ǎ/a - - + j í/i
+412	NdandaShingou	Mother	mû	mû	m û/u		856	m û/u - -
+413	NdandaCaa	Mother	mǎmá	mǎmá	m ǎ/a m á/a		856	m ǎ/a m á/a
+414	NdandaMeno	Mother	mǎmá	mǎmá	m ǎ/a m á/a		856	m ǎ/a m á/a
+415	NdandaLek	Mother	má	má	m á/a		856	m á/a - -
+416	NdandaNgwa	Mother	mɛ̌	mɛ̌	m ɛ̌/ɛ		856	m ɛ̌/ɛ - -
+417	NdandaTwefap	Mother	mɛ̌	mɛ̌	m ɛ̌/ɛ		856	m ɛ̌/ɛ - -
+418	NdandaDenfap	Mother	mɛ̌	mɛ̌	m ɛ̌/ɛ		856	m ɛ̌/ɛ - -
+419	NdandaZua	Mother	má	má	m á/a		856	m á/a - -
+420	Goshimjang	Mother	má	má	m á/a		856	m á/a - -
+1701	NdandaNyep	Mountain	nkɔ̌	nkɔ̌	n k ɔ̌/ɔ		869	n k ɔ̌/ɔ
+1702	NdandaShingou	Mountain	nkɔ̌	nkɔ̌	n k ɔ̌/ɔ		869	n k ɔ̌/ɔ
+1703	NdandaCaa	Mountain	nkɔ̌	nkɔ̌	n k ɔ̌/ɔ		869	n k ɔ̌/ɔ
+1704	NdandaMeno	Mountain	twîdî	twîdî	tʷ î/i d î/i		871	tʷ î/i d î/i
+1705	NdandaLek	Mountain	kɔ́ŋ	kɔ́ŋ	k ɔ́/ɔ ŋ		870	k - - ɔ́/ɔ ŋ
+1706	NdandaNgwa	Mountain	kúwǒ	kúwǒ	k ú/u w ǒ/o		872	k ú/u w ǒ/o
+1707	NdandaTwefap	Mountain	kɨ̂kɔ̂k	kɨ̂kɔ̂k	k ɨ̂/ɨ k ɔ̂/ɔ k		870	k ɨ̂/ɨ k ɔ̂/ɔ k
+1708	NdandaDenfap	Mountain	kxɔ̂	kxɔ̂	k x ɔ̂/ɔ		870	k - x ɔ̂/ɔ -
+1709	NdandaZua	Mountain	kɔ́ŋ	kɔ́ŋ	k ɔ́/ɔ ŋ		870	k - - ɔ́/ɔ ŋ
+1710	Goshimjang	Mountain	mbɛ̀lɛ̀	mbɛ̀lɛ̀	ⁿb ɛ̀/ɛ l ɛ̀/ɛ		868	ⁿb ɛ̀/ɛ l ɛ̀/ɛ
+751	NdandaNyep	Mouth	ʃwǐ	ʃwǐ	ʃʷ ǐ/i		879	- ʃʷ ǐ/i - -
+752	NdandaShingou	Mouth	nʃǔ	nʃǔ	ⁿʃ ǔ/u		879	- ⁿʃ ǔ/u - -
+753	NdandaCaa	Mouth	nʃǔ	nʃǔ	ⁿʃ ǔ/u		879	- ⁿʃ ǔ/u - -
+754	NdandaMeno	Mouth	nʃǔwí	nʃǔwí	ⁿʃ ǔ/u w í/i		879	- ⁿʃ ǔ/u w í/i
+755	NdandaLek	Mouth	nʃǔ	nʃǔ	ⁿʃ ǔ/u		879	- ⁿʃ ǔ/u - -
+756	NdandaNgwa	Mouth	nʃúwɔ̂	nʃúwɔ̂	ⁿʃ ú/u w ɔ̂/ɔ		879	- ⁿʃ ú/u w ɔ̂/ɔ
+757	NdandaTwefap	Mouth	nʃwé	nʃwé	ⁿʃ w é/e		879	- ⁿʃ - w é/e
+758	NdandaDenfap	Mouth	ntʃwǐ	ntʃwǐ	ⁿt ʃʷ ǐ/i		879	ⁿt ʃʷ ǐ/i - -
+759	NdandaZua	Mouth	ntʃǔ	ntʃǔ	ⁿt ʃ ǔ/u		879	ⁿt ʃ ǔ/u - -
+760	Goshimjang	Mouth	nʃǔ	nʃǔ	ⁿʃ ǔ/u		879	- ⁿʃ ǔ/u - -
+331	NdandaNyep	Narrow	zɨ́	zɨ́	z ɨ́/ɨ		891	z ɨ́/ɨ
+332	NdandaShingou	Narrow	sɨ́	sɨ́	s ɨ́/ɨ		891	s ɨ́/ɨ
+333	NdandaCaa	Narrow	sɨ́	sɨ́	s ɨ́/ɨ		891	s ɨ́/ɨ
+334	NdandaMeno	Narrow	nwɔ̌ sé	nwɔ̌_sé	nʷ ɔ̌/ɔ + s é/e		892 891	nʷ - - ɔ̌/ɔ + s é/e
+335	NdandaLek	Narrow	kə̀ɣéndə̀táŋ	kə̀ɣéndə̀táŋ	k ə̀/ə ɣ é/e ⁿd ə̀/ə t á/a ŋ		893	k ə̀/ə ɣ é/e ⁿd ə̀/ə t á/a ŋ
+336	NdandaNgwa	Narrow	kxɨ̌	kxɨ̌	k x ɨ̌/ɨ		894	k x ɨ̌/ɨ
+337	NdandaTwefap	Narrow	ŋkxɨ̌	ŋkxɨ̌	ⁿk x ɨ̌/ɨ		894	ⁿk x ɨ̌/ɨ
+338	NdandaDenfap	Narrow	ŋúwɔ̀ tsé	ŋúwɔ̀_tsé	ŋ ú/u w ɔ̀/ɔ + ts é/e		892 891	ŋ ú/u w ɔ̀/ɔ + ts é/e
+339	NdandaZua	Narrow	jàŋà	jàŋà	j à/a ŋ à/a		892	j à/a ŋ à/a
+340	Goshimjang	Narrow	bjɛ́	bjɛ́	b j ɛ́/ɛ		890	b j ɛ́/ɛ
+1961	NdandaNyep	Near	mbɨ́gɨ́	mbɨ́gɨ́	ⁿb ɨ́/ɨ g ɨ́/ɨ		903	ⁿb ɨ́/ɨ g ɨ́/ɨ
+1962	NdandaShingou	Near	mbɨ́gɨ́	mbɨ́gɨ́	ⁿb ɨ́/ɨ g ɨ́/ɨ		903	ⁿb ɨ́/ɨ g ɨ́/ɨ
+1963	NdandaCaa	Near	mbɨ́gɨ́	mbɨ́gɨ́	ⁿb ɨ́/ɨ g ɨ́/ɨ		903	ⁿb ɨ́/ɨ g ɨ́/ɨ
+1964	NdandaMeno	Near	nia	nia	n i a		905	n i a
+1965	NdandaLek	Near	mbə̀ŋə̀ ŋgɛ́	mbə̀ŋə̀_ŋgɛ́	ⁿb ə̀/ə ŋ ə̀/ə + ⁿg ɛ́/ɛ		903 904	ⁿb ə̀/ə ŋ ə̀/ə + ⁿg ɛ́/ɛ
+1966	NdandaNgwa	Near	mbɨ̌k	mbɨ̌k	ⁿb ɨ̌/ɨ k		903	ⁿb ɨ̌/ɨ k -
+1967	NdandaTwefap	Near	mbɔ̌k	mbɔ̌k	ⁿb ɔ̌/ɔ k		903	ⁿb ɔ̌/ɔ k -
+1968	NdandaDenfap	Near	mbɨ̌k	mbɨ̌k	ⁿb ɨ̌/ɨ k		903	ⁿb ɨ̌/ɨ k -
+1969	NdandaZua	Near	mbə̀ŋə̀	mbə̀ŋə̀	ⁿb ə̀/ə ŋ ə̀/ə		903	ⁿb ə̀/ə ŋ ə̀/ə
+1970	Goshimjang	Near	mbə̀ŋə̀	mbə̀ŋə̀	ⁿb ə̀/ə ŋ ə̀/ə		903	ⁿb ə̀/ə ŋ ə̀/ə
+861	NdandaNyep	Neck	ntɔ̌k	ntɔ̌k	ⁿt ɔ̌/ɔ k		915	ⁿt ɔ̌/ɔ k -
+862	NdandaShingou	Neck	ntɔ́gú	ntɔ́gú	ⁿt ɔ́/ɔ g ú/u		915	ⁿt ɔ́/ɔ g ú/u
+863	NdandaCaa	Neck	ntɔ́gú í	ntɔ́gú_í	ⁿt ɔ́/ɔ g ú/u + í/i		915 916	ⁿt ɔ́/ɔ g ú/u + í/i
+864	NdandaMeno	Neck	ntɔ̌k	ntɔ̌k	ⁿt ɔ̌/ɔ k		915	ⁿt ɔ̌/ɔ k -
+865	NdandaLek	Neck	ntɔ́k	ntɔ́k	ⁿt ɔ́/ɔ k		915	ⁿt ɔ́/ɔ k -
+866	NdandaNgwa	Neck	ntɔ́k	ntɔ́k	ⁿt ɔ́/ɔ k		915	ⁿt ɔ́/ɔ k -
+867	NdandaTwefap	Neck	ntɔ́k	ntɔ́k	ⁿt ɔ́/ɔ k		915	ⁿt ɔ́/ɔ k -
+868	NdandaDenfap	Neck	ntɔ́k	ntɔ́k	ⁿt ɔ́/ɔ k		915	ⁿt ɔ́/ɔ k -
+869	NdandaZua	Neck	ntɔ́ŋ	ntɔ́ŋ	ⁿt ɔ́/ɔ ŋ		915	ⁿt ɔ́/ɔ ŋ -
+870	Goshimjang	Neck	ntɔ́ŋ	ntɔ́ŋ	ⁿt ɔ́/ɔ ŋ		915	ⁿt ɔ́/ɔ ŋ -
+1821	NdandaNyep	New	jǐ súwɨ̌	jǐ_súwɨ̌	j ǐ/i + s ú/u w ɨ̌/ɨ		928 927	j ǐ/i + s ú/u w ɨ̌/ɨ
+1822	NdandaShingou	New	jǐ súwɨ̌	jǐ_súwɨ̌	j ǐ/i + s ú/u w ɨ̌/ɨ		928 927	j ǐ/i + s ú/u w ɨ̌/ɨ
+1823	NdandaCaa	New	jǐ súwɨ̌	jǐ_súwɨ̌	j ǐ/i + s ú/u w ɨ̌/ɨ		928 927	j ǐ/i + s ú/u w ɨ̌/ɨ
+1824	NdandaMeno	New	jǐ súwɨ̌	jǐ_súwɨ̌	j ǐ/i + s ú/u w ɨ̌/ɨ		928 927	j ǐ/i + s ú/u w ɨ̌/ɨ
+1825	NdandaLek	New	sú	sú	s ú/u		927	s ú/u - -
+1826	NdandaNgwa	New	swɔ̌	swɔ̌	sʷ ɔ̌/ɔ		927	sʷ ɔ̌/ɔ - -
+1827	NdandaTwefap	New	súwɨ̌	súwɨ̌	s ú/u w ɨ̌/ɨ		927	s ú/u w ɨ̌/ɨ
+1828	NdandaDenfap	New	súwɨ̌	súwɨ̌	s ú/u w ɨ̌/ɨ		927	s ú/u w ɨ̌/ɨ
+1829	NdandaZua	New	swə́	swə́	sʷ ə́/ə		927	sʷ ə́/ə - -
+1830	Goshimjang	New	sú	sú	s ú/u		927	s ú/u - -
+1761	NdandaNyep	Night	tsû	tsû	ts û/u		942	ts û/u -
+1762	NdandaShingou	Night	tsǔ	tsǔ	ts ǔ/u		942	ts ǔ/u -
+1763	NdandaCaa	Night	tsǔ	tsǔ	ts ǔ/u		942	ts ǔ/u -
+1764	NdandaMeno	Night	tsǔ	tsǔ	ts ǔ/u		942	ts ǔ/u -
+1765	NdandaLek	Night	súʔ	súʔ	s ú/u ʔ		942	s ú/u ʔ
+1766	NdandaNgwa	Night	tsǔ	tsǔ	ts ǔ/u		942	ts ǔ/u -
+1767	NdandaTwefap	Night	tsǔ	tsǔ	ts ǔ/u		942	ts ǔ/u -
+1768	NdandaDenfap	Night	ntʃítsé	ntʃítsé	ⁿt ʃ í/i ts é/e		943	ⁿt ʃ í/i ts é/e
+1769	NdandaZua	Night	súʔ	súʔ	s ú/u ʔ		942	s ú/u ʔ
+1770	Goshimjang	Night	súʔ	súʔ	s ú/u ʔ		942	s ú/u ʔ
+741	NdandaNyep	Nose	nzé	nzé	ⁿz é/e		953	ⁿz é/e
+742	NdandaShingou	Nose	nzé	nzé	ⁿz é/e		953	ⁿz é/e
+743	NdandaCaa	Nose	nzé	nzé	ⁿz é/e		953	ⁿz é/e
+744	NdandaMeno	Nose	nzé	nzé	ⁿz é/e		953	ⁿz é/e
+745	NdandaLek	Nose	nzə́	nzə́	ⁿz ə́/ə		953	ⁿz ə́/ə
+746	NdandaNgwa	Nose	nzé	nzé	ⁿz é/e		953	ⁿz é/e
+747	NdandaTwefap	Nose	nzé	nzé	ⁿz é/e		953	ⁿz é/e
+748	NdandaDenfap	Nose	nzé	nzé	ⁿz é/e		953	ⁿz é/e
+749	NdandaZua	Nose	ndzə́	ndzə́	ⁿdz ə́/ə		953	ⁿdz ə́/ə
+750	Goshimjang	Nose	nzə́	nzə́	ⁿz ə́/ə		953	ⁿz ə́/ə
+151	NdandaNyep	Not	kâpɔ̌	kâpɔ̌	k â/a p ɔ̌/ɔ		965	k â/a p ɔ̌/ɔ
+152	NdandaShingou	Not	kâpɔ̌	kâpɔ̌	k â/a p ɔ̌/ɔ		965	k â/a p ɔ̌/ɔ
+153	NdandaCaa	Not	kâpɔ̌	kâpɔ̌	k â/a p ɔ̌/ɔ		965	k â/a p ɔ̌/ɔ
+154	NdandaMeno	Not	kâbɔ̌	kâbɔ̌	k â/a b ɔ̌/ɔ		965	k â/a b ɔ̌/ɔ
+155	NdandaLek	Not	ŋgák	ŋgák	ⁿg á/a k		964	ⁿg á/a k
+156	NdandaNgwa	Not	kâpí	kâpí	k â/a p í/i		965	k â/a p í/i
+157	NdandaTwefap	Not	ŋgǎk	ŋgǎk	ⁿg ǎ/a k		964	ⁿg ǎ/a k
+158	NdandaDenfap	Not	ŋgǎk	ŋgǎk	ⁿg ǎ/a k		964	ⁿg ǎ/a k
+159	NdandaZua	Not	ŋgáŋ	ŋgáŋ	ⁿg á/a ŋ		964	ⁿg á/a ŋ
+160	Goshimjang	Not	háŋ	háŋ	h á/a ŋ		964	h á/a ŋ
+1831	NdandaNyep	Old	zû	zû	z û/u		976	z - û/u
+1832	NdandaShingou	Old	zû	zû	z û/u		976	z - û/u
+1833	NdandaCaa	Old	nzǔ	nzǔ	ⁿz ǔ/u		976	ⁿz - ǔ/u
+1834	NdandaMeno	Old	zû	zû	z û/u		976	z - û/u
+1835	NdandaLek	Old	nzɔ̀	nzɔ̀	ⁿz ɔ̀/ɔ		976	ⁿz - ɔ̀/ɔ
+1836	NdandaNgwa	Old	nzwɛ̌	nzwɛ̌	ⁿz w ɛ̌/ɛ		976	ⁿz w ɛ̌/ɛ
+1837	NdandaTwefap	Old	bvɨ̌gé	bvɨ̌gé	bv ɨ̌/ɨ g é/e		978	bv ɨ̌/ɨ g é/e
+1838	NdandaDenfap	Old	dzúmé	dzúmé	d z ú/u m é/e		977	d z ú/u m é/e
+1839	NdandaZua	Old	ndzùŋgí	ndzùŋgí	ⁿdz ù/u ⁿg í/i		978	ⁿdz ù/u ⁿg í/i
+1840	Goshimjang	Old	mbámbìhì	mbámbìhì	ⁿb á/a ⁿb ì/i h ì/i		975	ⁿb á/a ⁿb ì/i h ì/i
+211	NdandaNyep	One	ntʃɨ̂	ntʃɨ̂	ⁿt ʃ ɨ̂/ɨ		986	ⁿt ʃ ɨ̂/ɨ -
+212	NdandaShingou	One	ntʃɨ̂	ntʃɨ̂	ⁿt ʃ ɨ̂/ɨ		986	ⁿt ʃ ɨ̂/ɨ -
+213	NdandaCaa	One	ntʃɨ̂	ntʃɨ̂	ⁿt ʃ ɨ̂/ɨ		986	ⁿt ʃ ɨ̂/ɨ -
+214	NdandaMeno	One	ntʃɨ̂	ntʃɨ̂	ⁿt ʃ ɨ̂/ɨ		986	ⁿt ʃ ɨ̂/ɨ -
+215	NdandaLek	One	ntʃʉ̀ʔ	ntʃʉ̀ʔ	ⁿt ʃ ʉ̀/ʉ ʔ		986	ⁿt ʃ ʉ̀/ʉ ʔ
+216	NdandaNgwa	One	ntʃɨ̂	ntʃɨ̂	ⁿt ʃ ɨ̂/ɨ		986	ⁿt ʃ ɨ̂/ɨ -
+217	NdandaTwefap	One	ntʃɨ̂	ntʃɨ̂	ⁿt ʃ ɨ̂/ɨ		986	ⁿt ʃ ɨ̂/ɨ -
+218	NdandaDenfap	One	ntʃɨ̂	ntʃɨ̂	ⁿt ʃ ɨ̂/ɨ		986	ⁿt ʃ ɨ̂/ɨ -
+219	NdandaZua	One	ntʃʉ̀ʔ	ntʃʉ̀ʔ	ⁿt ʃ ʉ̀/ʉ ʔ		986	ⁿt ʃ ʉ̀/ʉ ʔ
+201	NdandaNyep	Other	ntʃǎ	ntʃǎ	ⁿt ʃ ǎ/a		998	ⁿt ʃ ǎ/a
+202	NdandaShingou	Other	ntʃǎ	ntʃǎ	ⁿt ʃ ǎ/a		998	ⁿt ʃ ǎ/a
+203	NdandaCaa	Other	pɛ̂ ntʃǎ	pɛ̂_ntʃǎ	p ɛ̂/ɛ + ⁿt ʃ ǎ/a		997 998	p ɛ̂/ɛ + ⁿt ʃ ǎ/a
+204	NdandaMeno	Other	ntʃǎ	ntʃǎ	ⁿt ʃ ǎ/a		998	ⁿt ʃ ǎ/a
+205	NdandaLek	Other	mə̀tʃǔŋgɛ́	mə̀tʃǔŋgɛ́	m ə̀/ə tʃ ǔ/u ⁿg ɛ́/ɛ		999	m ə̀/ə tʃ ǔ/u ⁿg ɛ́/ɛ
+206	NdandaNgwa	Other	pɛ̂ ntʃé	pɛ̂_ntʃé	p ɛ̂/ɛ + ⁿt ʃ é/e		997 998	p ɛ̂/ɛ + ⁿt ʃ é/e
+207	NdandaTwefap	Other	ntʃé	ntʃé	ⁿt ʃ é/e		998	ⁿt ʃ é/e
+208	NdandaDenfap	Other	ntʃé	ntʃé	ⁿt ʃ é/e		998	ⁿt ʃ é/e
+209	NdandaZua	Other	mə̀ɲàŋá	mə̀ɲàŋá	m ə̀/ə ɲ à/a ŋ á/a		996	m ə̀/ə ɲ à/a ŋ á/a
+210	Goshimjang	Other	mìɲàŋá	mìɲàŋá	m ì/i ɲ à/a ŋ á/a		996	m ì/i ɲ à/a ŋ á/a
+1501	NdandaNyep	Rain	̀̀mbɛ̂k	̀mbɛ̂k	ⁿb ɛ̂/ɛ k		1009	ⁿb ɛ̂/ɛ k
+1502	NdandaShingou	Rain	̀̀mbɛ̂k	̀mbɛ̂k	ⁿb ɛ̂/ɛ k		1009	ⁿb ɛ̂/ɛ k
+1503	NdandaCaa	Rain	̀̀mbɨ̌k	̀mbɨ̌k	ⁿb ɨ̌/ɨ k		1009	ⁿb ɨ̌/ɨ k
+1504	NdandaMeno	Rain	̀̀mbɛ̂k	̀mbɛ̂k	ⁿb ɛ̂/ɛ k		1009	ⁿb ɛ̂/ɛ k
+1505	NdandaLek	Rain	̀̀mbə̀k	̀mbə̀k	ⁿb ə̀/ə k		1009	ⁿb ə̀/ə k
+1506	NdandaNgwa	Rain	mbɨ̌k	mbɨ̌k	ⁿb ɨ̌/ɨ k		1009	ⁿb ɨ̌/ɨ k
+1507	NdandaTwefap	Rain	mbɔ̌k	mbɔ̌k	ⁿb ɔ̌/ɔ k		1009	ⁿb ɔ̌/ɔ k
+1508	NdandaDenfap	Rain	mbɔ̌k	mbɔ̌k	ⁿb ɔ̌/ɔ k		1009	ⁿb ɔ̌/ɔ k
+1509	NdandaZua	Rain	̀mbə̀ŋ	mbə̀ŋ	ⁿb ə̀/ə ŋ		1009	ⁿb ə̀/ə ŋ
+1510	Goshimjang	Rain	̀mbə̀ŋ	mbə̀ŋ	ⁿb ə̀/ə ŋ		1009	ⁿb ə̀/ə ŋ
+1711	NdandaNyep	Red	mbǎk	mbǎk	ⁿb ǎ/a k		1020	ⁿb ǎ/a - - - k
+1712	NdandaShingou	Red	pâkpâk	pâkpâk	p â/a k p â/a k		1020	p â/a k p â/a k
+1713	NdandaCaa	Red	pâk	pâk	p â/a k		1020	p â/a - - - k
+1714	NdandaMeno	Red	pâk	pâk	p â/a k		1020	p â/a - - - k
+1715	NdandaLek	Red	pàŋ	pàŋ	p à/a ŋ		1020	p à/a - - - ŋ
+1716	NdandaNgwa	Red	pâk	pâk	p â/a k		1020	p â/a - - - k
+1717	NdandaTwefap	Red	pâk	pâk	p â/a k		1020	p â/a - - - k
+1718	NdandaDenfap	Red	pâk	pâk	p â/a k		1020	p â/a - - - k
+1719	NdandaZua	Red	bàŋ	bàŋ	b à/a ŋ		1020	b à/a - - - ŋ
+1720	Goshimjang	Red	bàŋ	bàŋ	b à/a ŋ		1020	b à/a - - - ŋ
+1951	NdandaNyep	Right	nínáhǎ	nínáhǎ	n í/i n á/a h ǎ/a		1032	n í/i n á/a h ǎ/a
+1952	NdandaShingou	Right	nínáhǎ	nínáhǎ	n í/i n á/a h ǎ/a		1032	n í/i n á/a h ǎ/a
+1953	NdandaCaa	Right	nénáhǎ	nénáhǎ	n é/e n á/a h ǎ/a		1032	n é/e n á/a h ǎ/a
+1954	NdandaMeno	Right	nénáhá	nénáhá	n é/e n á/a h á/a		1032	n é/e n á/a h á/a
+1955	NdandaLek	Right	fùtʃɔ̀p	fùtʃɔ̀p	f ù/u tʃ ɔ̀/ɔ p		1031	f ù/u tʃ ɔ̀/ɔ p - -
+1956	NdandaNgwa	Right	néně	néně	n é/e n ě/e		1032	n é/e n ě/e - -
+1957	NdandaTwefap	Right	nénɨ̌k	nénɨ̌k	n é/e n ɨ̌/ɨ k		1032	n é/e n ɨ̌/ɨ k -
+1958	NdandaDenfap	Right	néní	néní	n é/e n í/i		1032	n é/e n í/i - -
+1959	NdandaZua	Right	búndzìp	búndzìp	b ú/u ⁿdz ì/i p		1031	b ú/u ⁿdz ì/i p - -
+1960	Goshimjang	Right	búndíp	búndíp	b ú/u ⁿd í/i p		1031	b ú/u ⁿd í/i p - -
+1981	NdandaNyep	Right	lɨ̂p bé	lɨ̂p_bé	l ɨ̂/ɨ p + b é/e		1031 1033	- - l ɨ̂/ɨ p - - + b é/e
+1982	NdandaShingou	Right	lɨ̂p bé	lɨ̂p_bé	l ɨ̂/ɨ p + b é/e		1031 1033	- - l ɨ̂/ɨ p - - + b é/e
+1983	NdandaCaa	Right	lɨ̂p bé	lɨ̂p_bé	l ɨ̂/ɨ p + b é/e		1031 1033	- - l ɨ̂/ɨ p - - + b é/e
+1984	NdandaMeno	Right	lɨ̂p bé	lɨ̂p_bé	l ɨ̂/ɨ p + b é/e		1031 1033	- - l ɨ̂/ɨ p - - + b é/e
+1985	NdandaLek	Right	púndə̀tàŋ	púndə̀tàŋ	p ú/u ⁿd ə̀/ə t à/a ŋ		1031	p ú/u ⁿd ə̀/ə t à/a ŋ
+1986	NdandaNgwa	Right	ték	ték	t é/e k		1034	t é/e k
+1987	NdandaTwefap	Right	̀wɔ̌k lɨ̂p	̀wɔ̌k_lɨ̂p	w ɔ̌/ɔ k + l ɨ̂/ɨ p		1034 1031	w ɔ̌/ɔ k + - - l ɨ̂/ɨ p - -
+1988	NdandaDenfap	Right	̀wɔ̌k lɨ̂p	̀wɔ̌k_lɨ̂p	w ɔ̌/ɔ k + l ɨ̂/ɨ p		1034 1031	w ɔ̌/ɔ k + - - l ɨ̂/ɨ p - -
+1989	NdandaZua	Right	ndíp	ndíp	ⁿd í/i p		1031	- - ⁿd í/i p - -
+1990	Goshimjang	Right	ndíp	ndíp	ⁿd í/i p		1031	- - ⁿd í/i p - -
+1511	NdandaNyep	River	tâʔʃə̂	tâʔʃə̂	t â/a ʔ ʃ ə̂/ə		1058	t â/a ʔ ʃ ə̂/ə
+1512	NdandaShingou	River	kǔ nsé	kǔ_nsé	k ǔ/u + ⁿs é/e		1059 1058	k ǔ/u - + - - - ⁿs é/e
+1513	NdandaCaa	River	nsé	nsé	ⁿs é/e		1058	- - - ⁿs é/e
+1514	NdandaMeno	River	kǔ nsé	kǔ_nsé	k ǔ/u + ⁿs é/e		1059 1058	k ǔ/u - + - - - ⁿs é/e
+1515	NdandaLek	River	nsə̀	nsə̀	ⁿs ə̀/ə		1058	- - - ⁿs ə̀/ə
+1516	NdandaNgwa	River	kǔp	kǔp	k ǔ/u p		1059	k ǔ/u p
+1517	NdandaTwefap	River	kǔp nʃê	kǔp_nʃê	k ǔ/u p + ⁿʃ ê/e		1059 1058	k ǔ/u p + - - - ⁿʃ ê/e
+1518	NdandaDenfap	River	kǔm nʃê	kǔm_nʃê	k ǔ/u m + ⁿʃ ê/e		1059 1058	k ǔ/u m + - - - ⁿʃ ê/e
+1519	NdandaZua	River	ntsə̀ŋ ntsə̀	ntsə̀ŋ_ntsə̀	ⁿt s ə̀/ə ŋ + ⁿt s ə̀/ə		1060 1058	ⁿt s ə̀/ə ŋ + ⁿt - - s ə̀/ə
+1520	Goshimjang	River	nsə̀	nsə̀	ⁿs ə̀/ə		1058	- - - ⁿs ə̀/ə
+1691	NdandaNyep	Road	mɛ̌ʒé	mɛ̌ʒé	m ɛ̌/ɛ ʒ é/e		1074	m ɛ̌/ɛ ʒ é/e
+1692	NdandaShingou	Road	mɛ̌zî	mɛ̌zî	m ɛ̌/ɛ z î/i		1074	m ɛ̌/ɛ z î/i
+1693	NdandaCaa	Road	mɛ̌zé	mɛ̌zé	m ɛ̌/ɛ z é/e		1074	m ɛ̌/ɛ z é/e
+1694	NdandaMeno	Road	mǎzé	mǎzé	m ǎ/a z é/e		1074	m ǎ/a z é/e
+1695	NdandaLek	Road	mâzə̀	mâzə̀	m â/a z ə̀/ə		1074	m â/a z ə̀/ə
+1696	NdandaNgwa	Road	mɨ̌nʒé	mɨ̌nʒé	m ɨ̌/ɨ ⁿʒ é/e		1074	m ɨ̌/ɨ ⁿʒ é/e
+1697	NdandaTwefap	Road	mɨ̌nʒé	mɨ̌nʒé	m ɨ̌/ɨ ⁿʒ é/e		1074	m ɨ̌/ɨ ⁿʒ é/e
+1698	NdandaDenfap	Road	mɨ̌nʒé	mɨ̌nʒé	m ɨ̌/ɨ ⁿʒ é/e		1074	m ɨ̌/ɨ ⁿʒ é/e
+1699	NdandaZua	Road	mâzə̀	mâzə̀	m â/a z ə̀/ə		1074	m â/a z ə̀/ə
+1700	Goshimjang	Road	mâzə̀	mâzə̀	m â/a z ə̀/ə		1074	m â/a z ə̀/ə
+561	NdandaNyep	Root	ŋgâk	ŋgâk	ⁿg â/a k		1085	ⁿg â/a k
+562	NdandaShingou	Root	ŋgâk	ŋgâk	ⁿg â/a k		1085	ⁿg â/a k
+563	NdandaCaa	Root	ŋgâk	ŋgâk	ⁿg â/a k		1085	ⁿg â/a k
+564	NdandaMeno	Root	ŋgâk	ŋgâk	ⁿg â/a k		1085	ⁿg â/a k
+565	NdandaLek	Root	ŋgàk	ŋgàk	ⁿg à/a k		1085	ⁿg à/a k
+566	NdandaNgwa	Root	ŋgâk	ŋgâk	ⁿg â/a k		1085	ⁿg â/a k
+567	NdandaTwefap	Root	ŋgâk tsé	ŋgâk_tsé	ⁿg â/a k + ts é/e		1085 1086	ⁿg â/a k + ts é/e
+568	NdandaDenfap	Root	ŋgâk tsé	ŋgâk_tsé	ⁿg â/a k + ts é/e		1085 1086	ⁿg â/a k + ts é/e
+569	NdandaZua	Root	ŋgàŋ	ŋgàŋ	ⁿg à/a ŋ		1085	ⁿg à/a ŋ
+570	Goshimjang	Root	ŋgàŋ	ŋgàŋ	ⁿg à/a ŋ		1085	ⁿg à/a ŋ
+601	NdandaNyep	Rope	mbgwɛ̂	mbgwɛ̂	ⁿb gʷ ɛ̂/ɛ		1100	ⁿb gʷ ɛ̂/ɛ
+602	NdandaShingou	Rope	ŋkxé	ŋkxé	ⁿk x é/e		1098	ⁿk x é/e -
+603	NdandaCaa	Rope	ŋkxé ŋkxé	ŋkxé_ŋkxé	ⁿk x é/e + ⁿk x é/e		1098 1099	ⁿk x é/e - + ⁿk x é/e
+604	NdandaMeno	Rope	ŋgɛ̌p	ŋgɛ̌p	ⁿg ɛ̌/ɛ p		1098	ⁿg - ɛ̌/ɛ p
+605	NdandaLek	Rope	ŋkxə̀	ŋkxə̀	ⁿk x ə̀/ə		1098	ⁿk x ə̀/ə -
+606	NdandaNgwa	Rope	̀̀mbgwé	̀mbgwé	ⁿb gʷ é/e		1100	ⁿb gʷ é/e
+607	NdandaTwefap	Rope	ŋkxê	ŋkxê	ⁿk x ê/e		1098	ⁿk x ê/e -
+608	NdandaDenfap	Rope	ŋgwɛ̂	ŋgwɛ̂	ⁿg w ɛ̂/ɛ		1098	ⁿg w ɛ̂/ɛ -
+609	NdandaZua	Rope	ŋkxə̀	ŋkxə̀	ⁿk x ə̀/ə		1098	ⁿk x ə̀/ə -
+610	Goshimjang	Rope	ŋkxə̀ ŋkxè	ŋkxə̀_ŋkxè	ⁿk x ə̀/ə + ⁿk x è/e		1098 1099	ⁿk x ə̀/ə - + ⁿk x è/e
+1861	NdandaNyep	Rotten	mbǐ	mbǐ	ⁿb ǐ/i		1113	ⁿb - ǐ/i
+1862	NdandaShingou	Rotten	pî	pî	p î/i		1113	p - î/i
+1863	NdandaCaa	Rotten	ŋgɛ́ pí	ŋgɛ́_pí	ⁿg ɛ́/ɛ + p í/i		1112 1113	ⁿg ɛ́/ɛ + p - í/i
+1864	NdandaMeno	Rotten	mbǐ	mbǐ	ⁿb ǐ/i		1113	ⁿb - ǐ/i
+1865	NdandaLek	Rotten	ŋgə́ pì	ŋgə́_pì	ⁿg ə́/ə + p ì/i		1112 1113	ⁿg ə́/ə + p - ì/i
+1866	NdandaNgwa	Rotten	pfó	pfó	p f ó/o		1113	p f ó/o
+1867	NdandaTwefap	Rotten	mbvǔ	mbvǔ	ⁿb v ǔ/u		1113	ⁿb v ǔ/u
+1868	NdandaDenfap	Rotten	pfú	pfú	p f ú/u		1113	p f ú/u
+1869	NdandaZua	Rotten	bí	bí	b í/i		1113	b - í/i
+1870	Goshimjang	Rotten	sɔ́	sɔ́	s ɔ́/ɔ		1111	s ɔ́/ɔ
+1891	NdandaNyep	Round	ŋgɛ́ zíbé	ŋgɛ́_zíbé	ⁿg ɛ́/ɛ + z í/i b é/e		1124 1125	- - - ⁿg ɛ́/ɛ + z í/i - - b é/e
+1892	NdandaShingou	Round	ŋgɛ́ zíbé	ŋgɛ́_zíbé	ⁿg ɛ́/ɛ + z í/i b é/e		1124 1125	- - - ⁿg ɛ́/ɛ + z í/i - - b é/e
+1893	NdandaCaa	Round	zíjɛ́bɛ̌	zíjɛ́bɛ̌	z í/i j ɛ́/ɛ b ɛ̌/ɛ		1125	z í/i j ɛ́/ɛ b ɛ̌/ɛ
+1894	NdandaMeno	Round	ŋɛ̌rɛ̌	ŋɛ̌rɛ̌	ŋ ɛ̌/ɛ r ɛ̌/ɛ		1126	ŋ ɛ̌/ɛ r ɛ̌/ɛ
+1895	NdandaLek	Round	ŋgə́ zìŋə̀	ŋgə́_zìŋə̀	ⁿg ə́/ə + z ì/i ŋ ə̀/ə		1124 1125	- - - ⁿg ə́/ə + z ì/i ŋ - - ə̀/ə
+1896	NdandaNgwa	Round	ndzǐbé	ndzǐbé	ⁿdz ǐ/i b é/e		1125	ⁿdz ǐ/i - - b é/e
+1897	NdandaTwefap	Round	ndzǐbé	ndzǐbé	ⁿdz ǐ/i b é/e		1125	ⁿdz ǐ/i - - b é/e
+1898	NdandaDenfap	Round	tsébé	tsébé	ts é/e b é/e		1125	ts é/e - - b é/e
+1899	NdandaZua	Round	túʔŋgí	túʔŋgí	t ú/u ʔ ⁿg í/i		1124	t ú/u ʔ ⁿg í/i
+1900	Goshimjang	Round	tǔŋgɛ́	tǔŋgɛ́	t ǔ/u ⁿg ɛ́/ɛ		1124	t ǔ/u - ⁿg ɛ́/ɛ
+1541	NdandaNyep	Salt	mbwǎk	mbwǎk	ⁿb w ǎ/a k		1138	ⁿb w ǎ/a k
+1542	NdandaShingou	Salt	mbwǎk	mbwǎk	ⁿb w ǎ/a k		1138	ⁿb w ǎ/a k
+1543	NdandaCaa	Salt	mbwǎk	mbwǎk	ⁿb w ǎ/a k		1138	ⁿb w ǎ/a k
+1544	NdandaMeno	Salt	ŋgwǎk	ŋgwǎk	ⁿg w ǎ/a k		1138	ⁿg w ǎ/a k
+1545	NdandaLek	Salt	ŋgwák	ŋgwák	ⁿg w á/a k		1138	ⁿg w á/a k
+1546	NdandaNgwa	Salt	mbwǎk	mbwǎk	ⁿb w ǎ/a k		1138	ⁿb w ǎ/a k
+1547	NdandaTwefap	Salt	mbwǎk	mbwǎk	ⁿb w ǎ/a k		1138	ⁿb w ǎ/a k
+1548	NdandaDenfap	Salt	ŋgwǎk	ŋgwǎk	ⁿg w ǎ/a k		1138	ⁿg w ǎ/a k
+1549	NdandaZua	Salt	ŋgwáŋ	ŋgwáŋ	ⁿg w á/a ŋ		1138	ⁿg w á/a ŋ
+1550	Goshimjang	Salt	ŋgwáŋ	ŋgwáŋ	ⁿg w á/a ŋ		1138	ⁿg w á/a ŋ
+1560	Goshimjang	Sand	lùŋù	lùŋù	l ù/u ŋ ù/u		1149	l ù/u ŋ ù/u
+1561	NdandaNyep	Sand	sâgâsâgâ	sâgâsâgâ	s â/a g â/a s â/a g â/a		1150	s â/a g â/a s â/a g â/a
+1562	NdandaShingou	Sand	tʃǎ nsé	tʃǎ_nsé	tʃ ǎ/a + ⁿs é/e		1153 1150	tʃ ǎ/a + ⁿs é/e - - - - - -
+1563	NdandaCaa	Sand	sâgâsâgâ	sâgâsâgâ	s â/a g â/a s â/a g â/a		1150	s â/a g â/a s â/a g â/a
+1564	NdandaMeno	Sand	sǎn sǎn	sǎn_sǎn	s ǎ/a n + s ǎ/a n		1150 1152	s ǎ/a n - - - - - + s ǎ/a n
+1565	NdandaLek	Sand	sàŋàsàŋà	sàŋàsàŋà	s à/a ŋ à/a s à/a ŋ à/a		1150	s à/a ŋ à/a s à/a ŋ à/a
+1566	NdandaNgwa	Sand	sǎsǎ	sǎsǎ	s ǎ/a s ǎ/a		1150	s ǎ/a - - s - - ǎ/a
+1567	NdandaTwefap	Sand	sǎgǎ sǎgǎ	sǎgǎ_sǎgǎ	s ǎ/a g ǎ/a + s ǎ/a g ǎ/a		1150 1151	s ǎ/a - - - - g ǎ/a + s ǎ/a g ǎ/a
+1568	NdandaDenfap	Sand	sǎgǎ sǎgǎ	sǎgǎ_sǎgǎ	s ǎ/a g ǎ/a + s ǎ/a g ǎ/a		1150 1151	s ǎ/a - - - - g ǎ/a + s ǎ/a g ǎ/a
+1569	NdandaZua	Sand	sàŋàsàŋà	sàŋàsàŋà	s à/a ŋ à/a s à/a ŋ à/a		1150	s à/a ŋ à/a s à/a ŋ à/a
+1570	Goshimjang	Sand	sàŋàsàŋà	sàŋàsàŋà	s à/a ŋ à/a s à/a ŋ à/a		1150	s à/a ŋ à/a s à/a ŋ à/a
+1531	NdandaNyep	Sea	lípúwé ʃê	lípúwé_ʃê	l í/i p ú/u w é/e + ʃ ê/e		1167 1165	l í/i p ú/u w é/e + - ʃ ê/e
+1532	NdandaShingou	Sea	míjá nsé	míjá_nsé	m í/i j á/a + ⁿs é/e		1168 1165	m í/i j á/a + - ⁿs é/e
+1533	NdandaCaa	Sea	lípúwé ʃê	lípúwé_ʃê	l í/i p ú/u w é/e + ʃ ê/e		1167 1165	l í/i p ú/u w é/e + - ʃ ê/e
+1534	NdandaMeno	Sea	nsé ŋgɣɨ̌	nsé_ŋgɣɨ̌	ⁿs é/e + ⁿg ɣ ɨ̌/ɨ		1165 1166	- ⁿs é/e + ⁿg ɣ ɨ̌/ɨ - - -
+1535	NdandaLek	Sea	nsə̀ ŋgɣí	nsə̀_ŋgɣí	ⁿs ə̀/ə + ⁿg ɣ í/i		1165 1166	- ⁿs ə̀/ə + ⁿg ɣ í/i - - -
+1536	NdandaNgwa	Sea	nsé ŋgɣɨ̌	nsé_ŋgɣɨ̌	ⁿs é/e + ⁿg ɣ ɨ̌/ɨ		1165 1166	- ⁿs é/e + ⁿg ɣ ɨ̌/ɨ - - -
+1537	NdandaTwefap	Sea	nʃê	nʃê	ⁿʃ ê/e		1165	- ⁿʃ ê/e
+1538	NdandaDenfap	Sea	lípúwé ʃê	lípúwé_ʃê	l í/i p ú/u w é/e + ʃ ê/e		1167 1165	l í/i p ú/u w é/e + - ʃ ê/e
+1539	NdandaZua	Sea	ntsə̀ ŋgɣʉ́	ntsə̀_ŋgɣʉ́	ⁿt s ə̀/ə + ⁿg ɣ ʉ́/ʉ		1165 1166	ⁿt s ə̀/ə + ⁿg ɣ ʉ́/ʉ - - -
+1540	Goshimjang	Sea	nsə̀ ŋkxìtàŋ	nsə̀_ŋkxìtàŋ	ⁿs ə̀/ə + ⁿk x ì/i t à/a ŋ		1165 1166	- ⁿs ə̀/ə + ⁿk x ì/i t à/a ŋ
+541	NdandaNyep	Seed	ʒwǐge	ʒwǐge	ʒʷ ǐ/i g e		1186	ʒʷ ǐ/i g e
+542	NdandaShingou	Seed	ʒwɛ̌zɨ́	ʒwɛ̌zɨ́	ʒʷ ɛ̌/ɛ z ɨ́/ɨ		1186	ʒʷ ɛ̌/ɛ z ɨ́/ɨ
+543	NdandaCaa	Seed	ʒwɛ̌	ʒwɛ̌	ʒʷ ɛ̌/ɛ		1186	ʒʷ ɛ̌/ɛ - -
+544	NdandaMeno	Seed	ʒwɛ̌zwɨ́	ʒwɛ̌zwɨ́	ʒʷ ɛ̌/ɛ zʷ ɨ́/ɨ		1186	ʒʷ ɛ̌/ɛ zʷ ɨ́/ɨ
+545	NdandaLek	Seed	nə́h	nə́h	n ə́/ə h		1185	n ə́/ə h
+546	NdandaNgwa	Seed	dúwíbvɨ̌	dúwíbvɨ̌	d ú/u w í/i bv ɨ̌/ɨ		1188	d ú/u w í/i bv ɨ̌/ɨ
+547	NdandaTwefap	Seed	dzwî tsé	dzwî_tsé	d zʷ î/i + ts é/e		1187 1186	d zʷ î/i + ts é/e - -
+548	NdandaDenfap	Seed	dzwî tsé	dzwî_tsé	d zʷ î/i + ts é/e		1187 1186	d zʷ î/i + ts é/e - -
+549	NdandaZua	Seed	nə́h	nə́h	n ə́/ə h		1185	n ə́/ə h
+550	Goshimjang	Seed	nə́h	nə́h	n ə́/ə h		1185	n ə́/ə h
+1901	NdandaNyep	Sharp	ʃúwɔ́	ʃúwɔ́	ʃ ú/u w ɔ́/ɔ		1198	- ʃ ú/u w ɔ́/ɔ
+1902	NdandaShingou	Sharp	ʃúwɔ́	ʃúwɔ́	ʃ ú/u w ɔ́/ɔ		1198	- ʃ ú/u w ɔ́/ɔ
+1903	NdandaCaa	Sharp	ʃɔ̌	ʃɔ̌	ʃ ɔ̌/ɔ		1198	- - - ʃ ɔ̌/ɔ
+1904	NdandaMeno	Sharp	ʃɔ̌	ʃɔ̌	ʃ ɔ̌/ɔ		1198	- - - ʃ ɔ̌/ɔ
+1905	NdandaLek	Sharp	ʃɔ́ʔɔ́	ʃɔ́ʔɔ́	ʃ ɔ́/ɔ ʔ ɔ́/ɔ		1198	ʃ - ɔ́/ɔ ʔ ɔ́/ɔ
+1906	NdandaNgwa	Sharp	tʃíjé	tʃíjé	tʃ í/i j é/e		1198	tʃ - í/i j é/e
+1907	NdandaTwefap	Sharp	ntʃê	ntʃê	ⁿt ʃ ê/e		1198	ⁿt - - ʃ ê/e
+1908	NdandaDenfap	Sharp	ntʃíwɔ̌	ntʃíwɔ̌	ⁿt ʃ í/i w ɔ̌/ɔ		1198	ⁿt ʃ í/i w ɔ̌/ɔ
+1909	NdandaZua	Sharp	tʃɔ́ʔɔ́	tʃɔ́ʔɔ́	tʃ ɔ́/ɔ ʔ ɔ́/ɔ		1198	tʃ - ɔ́/ɔ ʔ ɔ́/ɔ
+1910	Goshimjang	Sharp	ʃɔ́ʔɔ́	ʃɔ́ʔɔ́	ʃ ɔ́/ɔ ʔ ɔ́/ɔ		1198	ʃ - ɔ́/ɔ ʔ ɔ́/ɔ
+321	NdandaNyep	Short	bvɨ̌	bvɨ̌	bv ɨ̌/ɨ		1210	- bv ɨ̌/ɨ
+322	NdandaShingou	Short	bvɨ̌	bvɨ̌	bv ɨ̌/ɨ		1210	- bv ɨ̌/ɨ
+323	NdandaCaa	Short	kɛ̌bɛ̌	kɛ̌bɛ̌	k ɛ̌/ɛ b ɛ̌/ɛ		1209	k ɛ̌/ɛ b - - ɛ̌/ɛ
+324	NdandaMeno	Short	kɛ̌bɛ̌	kɛ̌bɛ̌	k ɛ̌/ɛ b ɛ̌/ɛ		1209	k ɛ̌/ɛ b - - ɛ̌/ɛ
+325	NdandaLek	Short	mə̀tʃùʔú	mə̀tʃùʔú	m ə̀/ə tʃ ù/u ʔ ú/u		1211	m ə̀/ə tʃ ù/u ʔ ú/u
+326	NdandaNgwa	Short	kâp	kâp	k â/a p		1209	k â/a p - - -
+327	NdandaTwefap	Short	mbvɔ̌	mbvɔ̌	ⁿb v ɔ̌/ɔ		1210	ⁿb v ɔ̌/ɔ
+328	NdandaDenfap	Short	bvɨ̌	bvɨ̌	bv ɨ̌/ɨ		1210	- bv ɨ̌/ɨ
+329	NdandaZua	Short	mə̀tɔ́ŋgí	mə̀tɔ́ŋgí	m ə̀/ə t ɔ́/ɔ ⁿg í/i		1211	m ə̀/ə t ɔ́/ɔ ⁿg í/i
+330	Goshimjang	Short	kɔ̀bíŋgɛ́	kɔ̀bíŋgɛ́	k ɔ̀/ɔ b í/i ⁿg ɛ́/ɛ		1209	k ɔ̀/ɔ b í/i ⁿg ɛ́/ɛ
+611	NdandaNyep	Skin	ŋgɨ́bé	ŋgɨ́bé	ⁿg ɨ́/ɨ b é/e		1220	ⁿg ɨ́/ɨ b é/e
+612	NdandaShingou	Skin	ŋgɨ́bé nǔ	ŋgɨ́bé_nǔ	ⁿg ɨ́/ɨ b é/e + n ǔ/u		1220 1221	ⁿg ɨ́/ɨ b é/e + n ǔ/u
+613	NdandaCaa	Skin	mbâp nî	mbâp_nî	ⁿb â/a p + n î/i		1220 1221	ⁿb â/a p - + n î/i
+614	NdandaMeno	Skin	ŋgɨ́bé nǔ	ŋgɨ́bé_nǔ	ⁿg ɨ́/ɨ b é/e + n ǔ/u		1220 1221	ⁿg ɨ́/ɨ b é/e + n ǔ/u
+615	NdandaLek	Skin	ŋgə́bə́	ŋgə́bə́	ⁿg ə́/ə b ə́/ə		1220	ⁿg ə́/ə b ə́/ə
+616	NdandaNgwa	Skin	ŋgɨ́p	ŋgɨ́p	ⁿg ɨ́/ɨ p		1220	ⁿg ɨ́/ɨ p -
+617	NdandaTwefap	Skin	ŋgɨ̂p	ŋgɨ̂p	ⁿg ɨ̂/ɨ p		1220	ⁿg ɨ̂/ɨ p -
+618	NdandaDenfap	Skin	ŋgɨ̂p	ŋgɨ̂p	ⁿg ɨ̂/ɨ p		1220	ⁿg ɨ̂/ɨ p -
+619	NdandaZua	Skin	ŋgúbə́	ŋgúbə́	ⁿg ú/u b ə́/ə		1220	ⁿg ú/u b ə́/ə
+620	Goshimjang	Skin	ŋgúbí	ŋgúbí	ⁿg ú/u b í/i		1220	ⁿg ú/u b í/i
+1611	NdandaNyep	Sky	kàɣáménɛ̌p	kàɣáménɛ̌p	k à/a ɣ á/a m é/e n ɛ̌/ɛ p		1234	k à/a ɣ á/a m é/e n ɛ̌/ɛ p
+1612	NdandaShingou	Sky	kàɣáménɛ̌p	kàɣáménɛ̌p	k à/a ɣ á/a m é/e n ɛ̌/ɛ p		1234	k à/a ɣ á/a m é/e n ɛ̌/ɛ p
+1613	NdandaCaa	Sky	kàɣáménɛ̌p	kàɣáménɛ̌p	k à/a ɣ á/a m é/e n ɛ̌/ɛ p		1234	k à/a ɣ á/a m é/e n ɛ̌/ɛ p
+1614	NdandaMeno	Sky	kàɣáménɛ̌p	kàɣáménɛ̌p	k à/a ɣ á/a m é/e n ɛ̌/ɛ p		1234	k à/a ɣ á/a m é/e n ɛ̌/ɛ p
+1615	NdandaLek	Sky	ŋkǎmə̀nàm	ŋkǎmə̀nàm	ⁿk ǎ/a m ə̀/ə n à/a m		1234	ⁿk ǎ/a - - m ə̀/ə n à/a m
+1616	NdandaNgwa	Sky	kàɣáménɛ̌p	kàɣáménɛ̌p	k à/a ɣ á/a m é/e n ɛ̌/ɛ p		1234	k à/a ɣ á/a m é/e n ɛ̌/ɛ p
+1617	NdandaTwefap	Sky	kàɣáménɛ̌p	kàɣáménɛ̌p	k à/a ɣ á/a m é/e n ɛ̌/ɛ p		1234	k à/a ɣ á/a m é/e n ɛ̌/ɛ p
+1618	NdandaDenfap	Sky	kàɣáménɛ̌m	kàɣáménɛ̌m	k à/a ɣ á/a m é/e n ɛ̌/ɛ m		1234	k à/a ɣ á/a m é/e n ɛ̌/ɛ m
+1619	NdandaZua	Sky	ŋkǎmə̀ɲə̀m	ŋkǎmə̀ɲəm	ⁿk ǎ/a m ə̀/ə ɲ ə/ə m		1234	ⁿk ǎ/a - - m ə̀/ə ɲ ə/ə m
+1620	Goshimjang	Sky	ŋkǎmə̀ɲì̀m	ŋkǎmə̀ɲìm	ⁿk ǎ/a m ə̀/ə ɲ ì/i m		1234	ⁿk ǎ/a - - m ə̀/ə ɲ ì/i m
+311	NdandaNyep	Small	kwɔ̌	kwɔ̌	kʷ ɔ̌/ɔ		1245	kʷ - ɔ̌/ɔ
+312	NdandaShingou	Small	kwɔ̌	kwɔ̌	kʷ ɔ̌/ɔ		1245	kʷ - ɔ̌/ɔ
+313	NdandaCaa	Small	kwɔ̌	kwɔ̌	kʷ ɔ̌/ɔ		1245	kʷ - ɔ̌/ɔ
+314	NdandaMeno	Small	kwɔ̌	kwɔ̌	kʷ ɔ̌/ɔ		1245	kʷ - ɔ̌/ɔ
+315	NdandaLek	Small	mə̀tʃùʔú	mə̀tʃùʔú	m ə̀/ə tʃ ù/u ʔ ú/u		1246	m ə̀/ə tʃ ù/u ʔ ú/u
+316	NdandaNgwa	Small	méʒúwé	méʒúwé	m é/e ʒ ú/u w é/e		1246	m é/e ʒ ú/u w é/e
+317	NdandaTwefap	Small	ŋkwɨ̌	ŋkwɨ̌	ⁿk w ɨ̌/ɨ		1245	ⁿk w ɨ̌/ɨ
+318	NdandaDenfap	Small	ŋkwɨ̌	ŋkwɨ̌	ⁿk w ɨ̌/ɨ		1245	ⁿk w ɨ̌/ɨ
+319	NdandaZua	Small	kxɔ́	kxɔ́	k x ɔ́/ɔ		1245	k x ɔ́/ɔ
+320	Goshimjang	Small	ɣɔ́	ɣɔ́	ɣ ɔ́/ɔ		1245	ɣ - ɔ́/ɔ
+1651	NdandaNyep	Smoke	nzɨ̌mǔ	nzɨ̌mǔ	ⁿz ɨ̌/ɨ m ǔ/u		1256	ⁿz ɨ̌/ɨ m ǔ/u
+1652	NdandaShingou	Smoke	nzɨ̌mǔ	nzɨ̌mǔ	ⁿz ɨ̌/ɨ m ǔ/u		1256	ⁿz ɨ̌/ɨ m ǔ/u
+1653	NdandaCaa	Smoke	nzɨ̌mǔ	nzɨ̌mǔ	ⁿz ɨ̌/ɨ m ǔ/u		1256	ⁿz ɨ̌/ɨ m ǔ/u
+1654	NdandaMeno	Smoke	nzɨ̌mǔ	nzɨ̌mǔ	ⁿz ɨ̌/ɨ m ǔ/u		1256	ⁿz ɨ̌/ɨ m ǔ/u
+1655	NdandaLek	Smoke	nzə́mú	nzə́mú	ⁿz ə́/ə m ú/u		1256	ⁿz ə́/ə m ú/u
+1656	NdandaNgwa	Smoke	nzɨ mǒ	nzɨ_mǒ	ⁿz ɨ + m ǒ/o		1256 1258	ⁿz ɨ - - + m ǒ/o
+1657	NdandaTwefap	Smoke	nzə́mǔ	nzə́mǔ	ⁿz ə́/ə m ǔ/u		1256	ⁿz ə́/ə m ǔ/u
+1658	NdandaDenfap	Smoke	nzɨ mǒ	nzɨ_mǒ	ⁿz ɨ + m ǒ/o		1256 1257	ⁿz ɨ - - + m ǒ/o
+1659	NdandaZua	Smoke	ndzə́mú	ndzə́mú	ⁿdz ə́/ə m ú/u		1256	ⁿdz ə́/ə m ú/u
+1660	Goshimjang	Smoke	nzə́mú	nzə́mú	ⁿz ə́/ə m ú/u		1256	ⁿz ə́/ə m ú/u
+1921	NdandaNyep	Smooth	sɨ̂k	sɨ̂k	s ɨ̂/ɨ k		1269	s ɨ̂/ɨ k
+1922	NdandaShingou	Smooth	díɛ̂	díɛ̂	d í/i ɛ̂/ɛ		1270	d í/i - ɛ̂/ɛ
+1923	NdandaCaa	Smooth	sɨ̂k	sɨ̂k	s ɨ̂/ɨ k		1269	s ɨ̂/ɨ k
+1924	NdandaMeno	Smooth	lǎ	lǎ	l ǎ/a		1272	l ǎ/a
+1925	NdandaLek	Smooth	tsírí	tsírí	ts í/i r í/i		1271	ts í/i r í/i
+1926	NdandaNgwa	Smooth	tíjɛ̌	tíjɛ̌	t í/i j ɛ̌/ɛ		1270	t í/i j ɛ̌/ɛ
+1927	NdandaTwefap	Smooth	tíjɛ̌	tíjɛ̌	t í/i j ɛ̌/ɛ		1270	t í/i j ɛ̌/ɛ
+1928	NdandaDenfap	Smooth	tíjɛ̀	tíjɛ̀	t í/i j ɛ̀/ɛ		1270	t í/i j ɛ̀/ɛ
+1929	NdandaZua	Smooth	tʃòhò	tʃòhò	tʃ ò/o h ò/o		1270	tʃ ò/o h ò/o
+1930	Goshimjang	Smooth	sɨ̀ŋ	sɨ̀ŋ	s ɨ̀/ɨ ŋ		1269	s ɨ̀/ɨ ŋ
+481	NdandaNyep	Snake	nǔ	nǔ	n ǔ/u		1280	n - - ǔ/u
+482	NdandaShingou	Snake	nǔ	nǔ	n ǔ/u		1280	n - - ǔ/u
+483	NdandaCaa	Snake	nǔ	nǔ	n ǔ/u		1280	n - - ǔ/u
+484	NdandaMeno	Snake	nǔ	nǔ	n ǔ/u		1280	n - - ǔ/u
+485	NdandaLek	Snake	nú	nú	n ú/u		1280	n - - ú/u
+486	NdandaNgwa	Snake	nǔ	nǔ	n ǔ/u		1280	n - - ǔ/u
+487	NdandaTwefap	Snake	ɲíjǔ	ɲíjǔ	ɲ í/i j ǔ/u		1280	ɲ í/i j ǔ/u
+488	NdandaDenfap	Snake	ɲíjǔ	ɲíjǔ	ɲ í/i j ǔ/u		1280	ɲ í/i j ǔ/u
+489	NdandaZua	Snake	ɲú	ɲú	ɲ ú/u		1280	ɲ - - ú/u
+490	Goshimjang	Snake	ɲú	ɲú	ɲ ú/u		1280	ɲ - - ú/u
+181	NdandaNyep	Some	tʃǎʔzǔk	tʃǎʔzǔk	tʃ ǎ/a ʔ z ǔ/u k		1291	tʃ - ǎ/a ʔ - z ǔ/u k
+182	NdandaShingou	Some	pǔwɔ́kêp	pǔwɔ́kêp	p ǔ/u w ɔ́/ɔ k ê/e p		1292	p ǔ/u w - - ɔ́/ɔ k ê/e p
+183	NdandaCaa	Some	tʃǎʔzǔk	tʃǎʔzǔk	tʃ ǎ/a ʔ z ǔ/u k		1291	tʃ - ǎ/a ʔ - z ǔ/u k
+184	NdandaMeno	Some	mɔ̌ʔɔ̌	mɔ̌ʔɔ̌	m ɔ̌/ɔ ʔ ɔ̌/ɔ		1293	m ɔ̌/ɔ ʔ ɔ̌/ɔ
+185	NdandaLek	Some	mə̀tʃǔŋgɛ́	mə̀tʃǔŋgɛ́	m ə̀/ə tʃ ǔ/u ⁿg ɛ́/ɛ		1292	m ə̀/ə - - tʃ ǔ/u ⁿg ɛ́/ɛ -
+186	NdandaNgwa	Some	ndzóŋgǐ	ndzóŋgǐ	ⁿdz ó/o ⁿg ǐ/i		1292	- - - - ⁿdz ó/o ⁿg ǐ/i -
+187	NdandaTwefap	Some	ntʃě	ntʃě	ⁿt ʃ ě/e		1291	ⁿt - - - - ʃ ě/e -
+188	NdandaDenfap	Some	ntʃě	ntʃě	ⁿt ʃ ě/e		1291	ⁿt - - - - ʃ ě/e -
+189	NdandaZua	Some	búhɔ́ndɔ̀ŋgí	búhɔ́ndɔ̀ŋgí	b ú/u h ɔ́/ɔ ⁿd ɔ̀/ɔ ⁿg í/i		1292	b ú/u h ɔ́/ɔ ⁿd ɔ̀/ɔ ⁿg í/i -
+190	Goshimjang	Some	ntʃʉ̀ʔntʃʉ̀ʔ	ntʃʉ̀ʔntʃʉ̀ʔ	ⁿt ʃ ʉ̀/ʉ ʔ ⁿt ʃ ʉ̀/ʉ ʔ		1291	ⁿt ʃ ʉ̀/ʉ ʔ ⁿt ʃ ʉ̀/ʉ ʔ
+1481	NdandaNyep	Star	sâk	sâk	s â/a k		1303	s â/a k
+1482	NdandaShingou	Star	sâk	sâk	s â/a k		1303	s â/a k
+1483	NdandaCaa	Star	sǎn mɛ̌ŋu	sǎn_mɛ̌ŋu	s ǎ/a n + m ɛ̌/ɛ ŋ u		1303 1302	s ǎ/a n + - - m ɛ̌/ɛ ŋ u
+1484	NdandaMeno	Star	sâk	sâk	s â/a k		1303	s â/a k
+1485	NdandaLek	Star	sàmáŋwɔ́	sàmáŋwɔ́	s à/a m á/a ŋʷ ɔ́/ɔ		1302	s à/a m á/a ŋʷ ɔ́/ɔ
+1486	NdandaNgwa	Star	sâk	sâk	s â/a k		1303	s â/a k
+1487	NdandaTwefap	Star	sâk	sâk	s â/a k		1303	s â/a k
+1488	NdandaDenfap	Star	sâk	sâk	s â/a k		1303	s â/a k
+1489	NdandaZua	Star	sàmáŋwɔ́	sàmáŋwɔ́	s à/a m á/a ŋʷ ɔ́/ɔ		1302	s à/a m á/a ŋʷ ɔ́/ɔ
+1490	Goshimjang	Star	sàmáŋwɔ́	sàmáŋwɔ́	s à/a m á/a ŋʷ ɔ́/ɔ		1302	s à/a m á/a ŋʷ ɔ́/ɔ
+521	NdandaNyep	Stick	ŋkwɨ̌	ŋkwɨ̌	ⁿk w ɨ̌/ɨ		1315	ⁿk w ɨ̌/ɨ
+522	NdandaShingou	Stick	ŋkwɨ̌	ŋkwɨ̌	ⁿk w ɨ̌/ɨ		1315	ⁿk w ɨ̌/ɨ
+523	NdandaCaa	Stick	ŋkwɨ̌	ŋkwɨ̌	ⁿk w ɨ̌/ɨ		1315	ⁿk w ɨ̌/ɨ
+524	NdandaMeno	Stick	ŋkwɨ̌	ŋkwɨ̌	ⁿk w ɨ̌/ɨ		1315	ⁿk w ɨ̌/ɨ
+525	NdandaLek	Stick	tə́bʒwí	tə́bʒwí	t ə́/ə b ʒʷ í/i		1314	t ə́/ə b ʒʷ í/i
+526	NdandaNgwa	Stick	ŋkwɨ̌	ŋkwɨ̌	ⁿk w ɨ̌/ɨ		1315	ⁿk w ɨ̌/ɨ
+527	NdandaTwefap	Stick	ŋkwɨ̌	ŋkwɨ̌	ⁿk w ɨ̌/ɨ		1315	ⁿk w ɨ̌/ɨ
+528	NdandaDenfap	Stick	ŋkwɨ̌	ŋkwɨ̌	ⁿk w ɨ̌/ɨ		1315	ⁿk w ɨ̌/ɨ
+529	NdandaZua	Stick	kə́pʒwí	kə́pʒwí	k ə́/ə p ʒʷ í/i		1314	k ə́/ə p ʒʷ í/i
+530	Goshimjang	Stick	tʃíɣə́	tʃíɣə́	tʃ í/i ɣ ə́/ə		1314	tʃ í/i - ɣ ə́/ə
+1551	NdandaNyep	Stone	lǔgû	lǔgû	l ǔ/u g û/u		1325	l ǔ/u g û/u
+1552	NdandaShingou	Stone	lǔgû	lǔgû	l ǔ/u g û/u		1325	l ǔ/u g û/u
+1553	NdandaCaa	Stone	lǔgû	lǔgû	l ǔ/u g û/u		1325	l ǔ/u g û/u
+1554	NdandaMeno	Stone	lǔgû	lǔgû	l ǔ/u g û/u		1325	l ǔ/u g û/u
+1555	NdandaLek	Stone	lúŋù	lúŋù	l ú/u ŋ ù/u		1325	l ú/u ŋ ù/u
+1556	NdandaNgwa	Stone	lɔ́gɔ̂	lɔ́gɔ̂	l ɔ́/ɔ g ɔ̂/ɔ		1325	l ɔ́/ɔ g ɔ̂/ɔ
+1557	NdandaTwefap	Stone	lɔ́gɔ̂	lɔ́gɔ̂	l ɔ́/ɔ g ɔ̂/ɔ		1325	l ɔ́/ɔ g ɔ̂/ɔ
+1558	NdandaDenfap	Stone	lɔ́gɔ̂	lɔ́gɔ̂	l ɔ́/ɔ g ɔ̂/ɔ		1325	l ɔ́/ɔ g ɔ̂/ɔ
+1559	NdandaZua	Stone	lùŋù	lùŋù	l ù/u ŋ ù/u		1325	l ù/u ŋ ù/u
+1881	NdandaNyep	Straight	ndɨ́ŋ ndék	ndɨ́ŋ_ndék	ⁿd ɨ́/ɨ ŋ + ⁿd é/e k		1335 1336	ⁿd ɨ́/ɨ ŋ + ⁿd é/e k
+1882	NdandaShingou	Straight	ndɨ́ŋ ndék	ndɨ́ŋ_ndék	ⁿd ɨ́/ɨ ŋ + ⁿd é/e k		1335 1336	ⁿd ɨ́/ɨ ŋ + ⁿd é/e k
+1883	NdandaCaa	Straight	ndɨ́ŋ ndék	ndɨ́ŋ_ndék	ⁿd ɨ́/ɨ ŋ + ⁿd é/e k		1335 1336	ⁿd ɨ́/ɨ ŋ + ⁿd é/e k
+1884	NdandaMeno	Straight	ndɨ́ŋ ndék	ndɨ́ŋ_ndék	ⁿd ɨ́/ɨ ŋ + ⁿd é/e k		1335 1336	ⁿd ɨ́/ɨ ŋ + ⁿd é/e k
+1885	NdandaLek	Straight	ndə̀ŋ ndə̀ŋ	ndə̀ŋ_ndə̀ŋ	ⁿd ə̀/ə ŋ + ⁿd ə̀/ə ŋ		1335 1336	ⁿd ə̀/ə ŋ + ⁿd ə̀/ə ŋ
+1886	NdandaNgwa	Straight	nděk	nděk	ⁿd ě/e k		1336	ⁿd ě/e k
+1887	NdandaTwefap	Straight	ndɔ̌ ndɔ̌k	ndɔ̌_ndɔ̌k	ⁿd ɔ̌/ɔ + ⁿd ɔ̌/ɔ k		1335 1336	ⁿd ɔ̌/ɔ - + ⁿd ɔ̌/ɔ k
+1888	NdandaDenfap	Straight	ndɔ̌ ndɔ̌k	ndɔ̌_ndɔ̌k	ⁿd ɔ̌/ɔ + ⁿd ɔ̌/ɔ k		1335 1336	ⁿd ɔ̌/ɔ - + ⁿd ɔ̌/ɔ k
+1889	NdandaZua	Straight	ndə̀ŋ ndə̀ŋ	ndə̀ŋ_ndə̀ŋ	ⁿd ə̀/ə ŋ + ⁿd ə̀/ə ŋ		1335 1336	ⁿd ə̀/ə ŋ + ⁿd ə̀/ə ŋ
+1890	Goshimjang	Straight	ndə̀ŋ ndə̀ŋ	ndə̀ŋ_ndə̀ŋ	ⁿd ə̀/ə ŋ + ⁿd ə̀/ə ŋ		1335 1336	ⁿd ə̀/ə ŋ + ⁿd ə̀/ə ŋ
+1461	NdandaNyep	Sun	nɛ̂p	nɛ̂p	n ɛ̂/ɛ p		1355	n ɛ̂/ɛ p
+1462	NdandaShingou	Sun	nɛ̂p	nɛ̂p	n ɛ̂/ɛ p		1355	n ɛ̂/ɛ p
+1463	NdandaCaa	Sun	nɛ̂p	nɛ̂p	n ɛ̂/ɛ p		1355	n ɛ̂/ɛ p
+1464	NdandaMeno	Sun	nɛ̂p	nɛ̂p	n ɛ̂/ɛ p		1355	n ɛ̂/ɛ p
+1465	NdandaLek	Sun	nàm	nàm	n à/a m		1355	n à/a m
+1466	NdandaNgwa	Sun	něp	něp	n ě/e p		1355	n ě/e p
+1467	NdandaTwefap	Sun	nɛ̂p	nɛ̂p	n ɛ̂/ɛ p		1355	n ɛ̂/ɛ p
+1468	NdandaDenfap	Sun	nɛ̂p	nɛ̂p	n ɛ̂/ɛ p		1355	n ɛ̂/ɛ p
+1469	NdandaZua	Sun	ɲèm	ɲèm	ɲ è/e m		1355	ɲ è/e m
+1470	Goshimjang	Sun	ɲìm	ɲìm	ɲ ì/i m		1355	ɲ ì/i m
+681	NdandaNyep	Tail	ŋkǔ	ŋkǔ	ⁿk ǔ/u		1366	ⁿk ǔ/u
+682	NdandaShingou	Tail	ŋkǔ	ŋkǔ	ⁿk ǔ/u		1366	ⁿk ǔ/u
+683	NdandaCaa	Tail	ŋkǔ	ŋkǔ	ⁿk ǔ/u		1366	ⁿk ǔ/u
+684	NdandaMeno	Tail	ŋkǔ	ŋkǔ	ⁿk ǔ/u		1366	ⁿk ǔ/u
+685	NdandaLek	Tail	ŋkù	ŋkù	ⁿk ù/u		1366	ⁿk ù/u
+686	NdandaNgwa	Tail	ŋkǔ	ŋkǔ	ⁿk ǔ/u		1366	ⁿk ǔ/u
+687	NdandaTwefap	Tail	ŋkû	ŋkû	ⁿk û/u		1366	ⁿk û/u
+688	NdandaDenfap	Tail	ŋkû í	ŋkû_í	ⁿk û/u + í/i		1366 1367	ⁿk û/u + í/i
+689	NdandaZua	Tail	ŋkù	ŋkù	ⁿk ù/u		1366	ⁿk ù/u
+690	Goshimjang	Tail	ŋkù	ŋkù	ⁿk ù/u		1366	ⁿk ù/u
+71	NdandaNyep	That	jìgà	jìgà	j ì/i g à/a		1378	j ì/i g à/a
+72	NdandaShingou	That	jì	jì	j ì/i		1378	j ì/i - -
+73	NdandaCaa	That	jì	jì	j ì/i		1378	j ì/i - -
+74	NdandaMeno	That	jì	jì	j ì/i		1378	j ì/i - -
+75	NdandaLek	That	jìgì	jìgì	j ì/i g ì/i		1378	j ì/i g ì/i
+76	NdandaNgwa	That	jì	jì	j ì/i		1378	j ì/i - -
+77	NdandaTwefap	That	jɔ̌	jɔ̌	j ɔ̌/ɔ		1378	j ɔ̌/ɔ - -
+78	NdandaDenfap	That	jɔ̌	jɔ̌	j ɔ̌/ɔ		1378	j ɔ̌/ɔ - -
+79	NdandaZua	That	já	já	j á/a		1378	j á/a - -
+80	Goshimjang	That	jìbì	jìbì	j ì/i b ì/i		1378	j ì/i b ì/i
+91	NdandaNyep	There	sî	sî	s î/i		1389	s î/i
+92	NdandaShingou	There	sî	sî	s î/i		1389	s î/i
+93	NdandaCaa	There	ʃî	ʃî	ʃ î/i		1389	ʃ î/i
+94	NdandaMeno	There	sî	sî	s î/i		1389	s î/i
+95	NdandaLek	There	sàndàʔà	sàndàʔà	s à/a ⁿd à/a ʔ à/a		1390	s à/a ⁿd à/a ʔ à/a
+96	NdandaNgwa	There	ʃî	ʃî	ʃ î/i		1389	ʃ î/i
+97	NdandaTwefap	There	ʃî	ʃî	ʃ î/i		1389	ʃ î/i
+98	NdandaDenfap	There	ʃî	ʃî	ʃ î/i		1389	ʃ î/i
+99	NdandaZua	There	sà	sà	s à/a		1389	s à/a
+100	Goshimjang	There	sì	sì	s ì/i		1389	s ì/i
+51	NdandaNyep	They	wɔ̌p	wɔ̌p	w ɔ̌/ɔ p		1401	w ɔ̌/ɔ p
+52	NdandaShingou	They	wɔ̌p	wɔ̌p	w ɔ̌/ɔ p		1401	w ɔ̌/ɔ p
+53	NdandaCaa	They	wɔ̌p	wɔ̌p	w ɔ̌/ɔ p		1401	w ɔ̌/ɔ p
+54	NdandaMeno	They	pǔ	pǔ	p ǔ/u		1400	p ǔ/u
+55	NdandaLek	They	́pú	́pú	p ú/u		1400	p ú/u
+56	NdandaNgwa	They	wǔp	wǔp	w ǔ/u p		1401	w ǔ/u p
+57	NdandaTwefap	They	wǔp	wǔp	w ǔ/u p		1401	w ǔ/u p
+58	NdandaDenfap	They	wɔ̌p	wɔ̌p	w ɔ̌/ɔ p		1401	w ɔ̌/ɔ p
+59	NdandaZua	They	bú	bú	b ú/u		1400	b ú/u
+60	Goshimjang	They	bú	bú	b ú/u		1400	b ú/u
+291	NdandaNyep	Thick	ŋgǔʔ	ŋgǔʔ	ⁿg ǔ/u ʔ		1411	ⁿg ǔ/u ʔ -
+292	NdandaShingou	Thick	húʔú	húʔú	h ú/u ʔ ú/u		1411	h ú/u ʔ ú/u
+293	NdandaCaa	Thick	pâp ŋgɛ̌	pâp_ŋgɛ̌	p â/a p + ⁿg ɛ̌/ɛ		1412 1413	p â/a p + ⁿg ɛ̌/ɛ
+294	NdandaMeno	Thick	nzɛ̌	nzɛ̌	ⁿz ɛ̌/ɛ		1413	ⁿz ɛ̌/ɛ
+295	NdandaLek	Thick	zɛ̀	zɛ̀	z ɛ̀/ɛ		1413	z ɛ̀/ɛ
+296	NdandaNgwa	Thick	húʔ	húʔ	h ú/u ʔ		1411	h ú/u ʔ -
+297	NdandaTwefap	Thick	tsî tsɨ̌	tsî_tsɨ̌	ts î/i + ts ɨ̌/ɨ		1413 1414	ts î/i + ts ɨ̌/ɨ
+298	NdandaDenfap	Thick	húʔ	húʔ	h ú/u ʔ		1411	h ú/u ʔ -
+299	NdandaZua	Thick	kìtsìbì	kìtsìbì	k ì/i ts ì/i b ì/i		1415	k ì/i ts ì/i b ì/i
+300	Goshimjang	Thick	húʔ	húʔ	h ú/u ʔ		1411	h ú/u ʔ -
+341	NdandaNyep	Thin	níjɛŋ	níjɛŋ	n í/i j ɛ ŋ		1427	n í/i j ɛ ŋ
+342	NdandaShingou	Thin	tǎ ŋgɛ́	tǎ_ŋgɛ́	t ǎ/a + ⁿg ɛ́/ɛ		1424 1425	t ǎ/a - - - + ⁿg - ɛ́/ɛ
+343	NdandaCaa	Thin	tǎ ŋgɛ́	tǎ_ŋgɛ́	t ǎ/a + ⁿg ɛ́/ɛ		1424 1425	t ǎ/a - - - + ⁿg - ɛ́/ɛ
+344	NdandaMeno	Thin	ntɔ̌ʔŋgɛ́	ntɔ̌ʔŋgɛ́	ⁿt ɔ̌/ɔ ʔ ⁿg ɛ́/ɛ		1424	ⁿt ɔ̌/ɔ ʔ ⁿg ɛ́/ɛ
+345	NdandaLek	Thin	tóhì	tóhì	t ó/o h ì/i		1424	t ó/o - h ì/i
+346	NdandaNgwa	Thin	ɲǎk	ɲǎk	ɲ ǎ/a k		1426	ɲ ǎ/a k
+347	NdandaTwefap	Thin	ɲǎk	ɲǎk	ɲ ǎ/a k		1426	ɲ ǎ/a k
+348	NdandaDenfap	Thin	krǐ	krǐ	k r ǐ/i		1425	k r ǐ/i
+349	NdandaZua	Thin	ndɔ̀ŋgí	ndɔ̀ŋgí	ⁿd ɔ̀/ɔ ⁿg í/i		1424	ⁿd ɔ̀/ɔ - ⁿg í/i
+350	Goshimjang	Thin	tʃàŋgɛ́	tʃàŋgɛ́	tʃ à/a ⁿg ɛ́/ɛ		1424	tʃ à/a - ⁿg ɛ́/ɛ
+61	NdandaNyep	This	jɔ̌ŋgɛ́	jɔ̌ŋgɛ́	j ɔ̌/ɔ ⁿg ɛ́/ɛ		1437	j ɔ̌/ɔ ⁿg - - ɛ́/ɛ
+62	NdandaShingou	This	jîgə́lɛ̂	jîgə́lɛ̂	j î/i g ə́/ə l ɛ̂/ɛ		1437	j î/i g ə́/ə l ɛ̂/ɛ
+63	NdandaCaa	This	jìgâŋgɛ́	jìgâŋgɛ́	j ì/i g â/a ⁿg ɛ́/ɛ		1437	j ì/i g â/a ⁿg ɛ́/ɛ
+64	NdandaMeno	This	sâ	sâ	s â/a		1438	s â/a
+65	NdandaLek	This	jìgà	jìgà	j ì/i g à/a		1437	j ì/i g - - à/a
+66	NdandaNgwa	This	jɔ̌ŋgɔ́lɔ́	jɔ̌ŋgɔ́lɔ́	j ɔ̌/ɔ ⁿg ɔ́/ɔ l ɔ́/ɔ		1437	j ɔ̌/ɔ ⁿg ɔ́/ɔ l ɔ́/ɔ
+67	NdandaTwefap	This	jɔ̌ŋgɛ̀	jɔ̌ŋgɛ̀	j ɔ̌/ɔ ⁿg ɛ̀/ɛ		1437	j ɔ̌/ɔ ⁿg - - ɛ̀/ɛ
+68	NdandaDenfap	This	jɔ̌	jɔ̌	j ɔ̌/ɔ		1437	j ɔ̌/ɔ - - - -
+69	NdandaZua	This	jìŋà	jìŋà	j ì/i ŋ à/a		1437	j ì/i ŋ - - à/a
+70	Goshimjang	This	jàŋà	jàŋà	j à/a ŋ à/a		1437	j à/a ŋ - - à/a
+231	NdandaNyep	Three	tí	tí	t í/i		1448	t - í/i
+232	NdandaShingou	Three	tiɛ̌	tiɛ̌	t i ɛ̌/ɛ		1448	t i ɛ̌/ɛ
+233	NdandaCaa	Three	tiɛ̌	tiɛ̌	t i ɛ̌/ɛ		1448	t i ɛ̌/ɛ
+234	NdandaMeno	Three	tiɛ̌	tiɛ̌	t i ɛ̌/ɛ		1448	t i ɛ̌/ɛ
+235	NdandaLek	Three	tjɛ́	tjɛ́	t j ɛ́/ɛ		1448	t j ɛ́/ɛ
+236	NdandaNgwa	Three	tě	tě	t ě/e		1448	t - ě/e
+237	NdandaTwefap	Three	tě	tě	t ě/e		1448	t - ě/e
+238	NdandaDenfap	Three	tě	tě	t ě/e		1448	t - ě/e
+239	NdandaZua	Three	té	té	t é/e		1448	t - é/e
+240	Goshimjang	Three	té	té	t é/e		1448	t - é/e
+771	NdandaNyep	Tongue	diɛ̌p	diɛ̌p	d i ɛ̌/ɛ p		1460	d i ɛ̌/ɛ p
+772	NdandaShingou	Tongue	diɛ̌p zǔ	diɛ̌p_zǔ	d i ɛ̌/ɛ p + z ǔ/u		1460 1461	d i ɛ̌/ɛ p + z ǔ/u
+773	NdandaCaa	Tongue	diɛ̌p zǐ	diɛ̌p_zǐ	d i ɛ̌/ɛ p + z ǐ/i		1460 1461	d i ɛ̌/ɛ p + z ǐ/i
+774	NdandaMeno	Tongue	lɛ̌p	lɛ̌p	l ɛ̌/ɛ p		1460	l ɛ̌/ɛ - p
+775	NdandaLek	Tongue	ndʒɛ́p	ndʒɛ́p	ⁿdʒ ɛ́/ɛ p		1460	ⁿdʒ ɛ́/ɛ - p
+776	NdandaNgwa	Tongue	dɨ̌p	dɨ̌p	d ɨ̌/ɨ p		1460	d ɨ̌/ɨ - p
+777	NdandaTwefap	Tongue	lǐp	lǐp	l ǐ/i p		1460	l ǐ/i - p
+778	NdandaDenfap	Tongue	lǐp	lǐp	l ǐ/i p		1460	l ǐ/i - p
+779	NdandaZua	Tongue	lèlí	lèlí	l è/e l í/i		1459	l è/e l í/i
+780	Goshimjang	Tongue	lìlɛ́	lìlɛ́	l ì/i l ɛ́/ɛ		1459	l ì/i l ɛ́/ɛ
+761	NdandaNyep	Tooth	sɔ̂k	sɔ̂k	s ɔ̂/ɔ k		1472	s ɔ̂/ɔ - - k
+762	NdandaShingou	Tooth	nsɔ̌n mú	nsɔ̌n_mú	ⁿs ɔ̌/ɔ n + m ú/u		1472 1473	ⁿs ɔ̌/ɔ - - n + m ú/u
+763	NdandaCaa	Tooth	sɔ̂k mɛ́	sɔ̂k_mɛ́	s ɔ̂/ɔ k + m ɛ́/ɛ		1472 1473	s ɔ̂/ɔ - - k + m ɛ́/ɛ
+764	NdandaMeno	Tooth	sɔ̂k	sɔ̂k	s ɔ̂/ɔ k		1472	s ɔ̂/ɔ - - k
+765	NdandaLek	Tooth	sɔ̀ŋ	sɔ̀ŋ	s ɔ̀/ɔ ŋ		1472	s ɔ̀/ɔ - - ŋ
+766	NdandaNgwa	Tooth	súwɔ̂	súwɔ̂	s ú/u w ɔ̂/ɔ		1472	s ú/u w ɔ̂/ɔ -
+767	NdandaTwefap	Tooth	súwɔ̌k	súwɔ̌k	s ú/u w ɔ̌/ɔ k		1472	s ú/u w ɔ̌/ɔ k
+768	NdandaDenfap	Tooth	súwɔ̌k	súwɔ̌k	s ú/u w ɔ̌/ɔ k		1472	s ú/u w ɔ̌/ɔ k
+769	NdandaZua	Tooth	sɔ̀ŋ	sɔ̀ŋ	s ɔ̀/ɔ ŋ		1472	s ɔ̀/ɔ - - ŋ
+770	Goshimjang	Tooth	sɔ̀ŋ	sɔ̀ŋ	s ɔ̀/ɔ ŋ		1472	s ɔ̀/ɔ - - ŋ
+501	NdandaNyep	Tree	tíjʉ̂	tíjʉ̂	t í/i j ʉ̂/ʉ		1485	t í/i j ʉ̂/ʉ
+502	NdandaShingou	Tree	tíjʉ̂	tíjʉ̂	t í/i j ʉ̂/ʉ		1485	t í/i j ʉ̂/ʉ
+503	NdandaCaa	Tree	tʉ̌	tʉ̌	t ʉ̌/ʉ		1485	t ʉ̌/ʉ - -
+504	NdandaMeno	Tree	tʉ̌	tʉ̌	t ʉ̌/ʉ		1485	t ʉ̌/ʉ - -
+505	NdandaLek	Tree	tə́h	tə́h	t ə́/ə h		1485	t ə́/ə h -
+506	NdandaNgwa	Tree	tsé	tsé	ts é/e		1485	ts é/e - -
+507	NdandaTwefap	Tree	tsé	tsé	ts é/e		1485	ts é/e - -
+508	NdandaDenfap	Tree	tsé	tsé	ts é/e		1485	ts é/e - -
+509	NdandaZua	Tree	tsí	tsí	ts í/i		1485	ts í/i - -
+510	Goshimjang	Tree	tsí	tsí	ts í/i		1485	ts í/i - -
+220	Goshimjang	Two	ntʃʉ̀ʔ	ntʃʉ̀ʔ	ⁿt ʃ ʉ̀/ʉ ʔ		1496	ⁿt ʃ ʉ̀/ʉ ʔ
+221	NdandaNyep	Two	pâ	pâ	p â/a		1497	p â/a - -
+222	NdandaShingou	Two	pâ	pâ	p â/a		1497	p â/a - -
+223	NdandaCaa	Two	pâ	pâ	p â/a		1497	p â/a - -
+224	NdandaMeno	Two	pâ	pâ	p â/a		1497	p â/a - -
+225	NdandaLek	Two	pá	pá	p á/a		1497	p á/a - -
+226	NdandaNgwa	Two	pǔ	pǔ	p ǔ/u		1497	p ǔ/u - -
+227	NdandaTwefap	Two	pégɨ̌	pégɨ̌	p é/e g ɨ̌/ɨ		1497	p é/e g ɨ̌/ɨ
+228	NdandaDenfap	Two	pégɨ̌	pégɨ̌	p é/e g ɨ̌/ɨ		1497	p é/e g ɨ̌/ɨ
+229	NdandaZua	Two	bá	bá	b á/a		1497	b á/a - -
+230	Goshimjang	Two	bá	bá	b á/a		1497	b á/a - -
+1791	NdandaNyep	Warm	nděp	nděp	ⁿd ě/e p		1508	ⁿd ě/e p
+1792	NdandaShingou	Warm	nděp	nděp	ⁿd ě/e p		1508	ⁿd ě/e p
+1793	NdandaCaa	Warm	nděp	nděp	ⁿd ě/e p		1508	ⁿd ě/e p
+1794	NdandaMeno	Warm	ndɨ̌p	ndɨ̌p	ⁿd ɨ̌/ɨ p		1508	ⁿd ɨ̌/ɨ p
+1795	NdandaLek	Warm	ndèp	ndèp	ⁿd è/e p		1508	ⁿd è/e p
+1796	NdandaNgwa	Warm	nděp	nděp	ⁿd ě/e p		1508	ⁿd ě/e p
+1797	NdandaTwefap	Warm	ntǔgé	ntǔgé	ⁿt ǔ/u g é/e		1509	ⁿt ǔ/u g é/e
+1798	NdandaDenfap	Warm	ndɨ̌p	ndɨ̌p	ⁿd ɨ̌/ɨ p		1508	ⁿd ɨ̌/ɨ p
+1799	NdandaZua	Warm	ndzìp	ndzìp	ⁿdz ì/i p		1508	ⁿdz ì/i p
+1800	Goshimjang	Warm	ndìp	ndìp	ⁿd ì/i p		1508	ⁿd ì/i p
+1491	NdandaNyep	Water	ʃê	ʃê	ʃ ê/e		1519	- ʃ ê/e
+1492	NdandaShingou	Water	nsé	nsé	ⁿs é/e		1519	- ⁿs é/e
+1493	NdandaCaa	Water	nsé	nsé	ⁿs é/e		1519	- ⁿs é/e
+1494	NdandaMeno	Water	nsé	nsé	ⁿs é/e		1519	- ⁿs é/e
+1495	NdandaLek	Water	nsə̀	nsə̀	ⁿs ə̀/ə		1519	- ⁿs ə̀/ə
+1496	NdandaNgwa	Water	nʃê	nʃê	ⁿʃ ê/e		1519	- ⁿʃ ê/e
+1497	NdandaTwefap	Water	nʃê	nʃê	ⁿʃ ê/e		1519	- ⁿʃ ê/e
+1498	NdandaDenfap	Water	nʃê	nʃê	ⁿʃ ê/e		1519	- ⁿʃ ê/e
+1499	NdandaZua	Water	ntsə̀	ntsə̀	ⁿt s ə̀/ə		1519	ⁿt s ə̀/ə
+1500	Goshimjang	Water	nsə̀	nsə̀	ⁿs ə̀/ə		1519	- ⁿs ə̀/ə
+31	NdandaNyep	We	pâpə̀	pâpə̀	p â/a p ə̀/ə		1530	p â/a p ə̀/ə
+32	NdandaShingou	We	pâpə̀	pâpə̀	p â/a p ə̀/ə		1530	p â/a p ə̀/ə
+33	NdandaCaa	We	pâpə̀	pâpə̀	p â/a p ə̀/ə		1530	p â/a p ə̀/ə
+34	NdandaMeno	We	pə̀	pə̀	p ə̀/ə		1530	p ə̀/ə - -
+35	NdandaLek	We	pɔ̀	pɔ̀	p ɔ̀/ɔ		1530	p ɔ̀/ɔ - -
+36	NdandaNgwa	We	pâpə̀	pâpə̀	p â/a p ə̀/ə		1530	p â/a p ə̀/ə
+37	NdandaTwefap	We	pɔ̂	pɔ̂	p ɔ̂/ɔ		1530	p ɔ̂/ɔ - -
+38	NdandaDenfap	We	wɔ̌	wɔ̌	w ɔ̌/ɔ		1531	w ɔ̌/ɔ
+39	NdandaZua	We	bɔ̀	bɔ̀	b ɔ̀/ɔ		1530	b ɔ̀/ɔ - -
+40	Goshimjang	We	bɔ̀	bɔ̀	b ɔ̀/ɔ		1530	b ɔ̀/ɔ - -
+1931	NdandaNyep	Wet	mǐʔʃə̂ ŋǐm	mǐʔʃə̂_ŋǐm	m ǐ/i ʔ ʃ ə̂/ə + ŋ ǐ/i m		1545 1541	m ǐ/i ʔ ʃ ə̂/ə + ŋ ǐ/i m
+1932	NdandaShingou	Wet	nsé ní	nsé_ní	ⁿs é/e + n í/i		1543 1541	ⁿs é/e + n í/i -
+1933	NdandaCaa	Wet	lǐk	lǐk	l ǐ/i k		1542	l ǐ/i k
+1934	NdandaMeno	Wet	nɔ̌k	nɔ̌k	n ɔ̌/ɔ k		1541	n ɔ̌/ɔ k
+1935	NdandaLek	Wet	ŋgə́ fì	ŋgə́_fì	ⁿg ə́/ə + f ì/i		1543 1544	ⁿg ə́/ə + f ì/i
+1936	NdandaNgwa	Wet	ŋû	ŋû	ŋ û/u		1541	ŋ û/u -
+1937	NdandaTwefap	Wet	ɣǔ	ɣǔ	ɣ ǔ/u		1543	ɣ ǔ/u
+1938	NdandaDenfap	Wet	ɲǔd	ɲǔd	ɲ ǔ/u d		1541	ɲ ǔ/u d
+1939	NdandaZua	Wet	ŋgí fí	ŋgí_fí	ⁿg í/i + f í/i		1543 1544	ⁿg í/i + f í/i
+1940	Goshimjang	Wet	ɲwɛ̀	ɲwɛ̀	ɲʷ ɛ̀/ɛ		1541	ɲʷ ɛ̀/ɛ -
+111	NdandaNyep	What	kɔ̌	kɔ̌	k ɔ̌/ɔ		1556	k ɔ̌/ɔ
+112	NdandaShingou	What	kɔ̌	kɔ̌	k ɔ̌/ɔ		1556	k ɔ̌/ɔ
+113	NdandaCaa	What	kɔ̌	kɔ̌	k ɔ̌/ɔ		1556	k ɔ̌/ɔ
+114	NdandaMeno	What	ɛ́ kɔ̌	ɛ́_kɔ̌	ɛ́/ɛ + k ɔ̌/ɔ		1557 1556	ɛ́/ɛ + k ɔ̌/ɔ
+115	NdandaLek	What	kɔ́	kɔ́	k ɔ́/ɔ		1556	k ɔ́/ɔ
+116	NdandaNgwa	What	kɔ̌	kɔ̌	k ɔ̌/ɔ		1556	k ɔ̌/ɔ
+117	NdandaTwefap	What	ŋgé	ŋgé	ⁿg é/e		1556	ⁿg é/e
+118	NdandaDenfap	What	kɔ̌	kɔ̌	k ɔ̌/ɔ		1556	k ɔ̌/ɔ
+119	NdandaZua	What	kɔ́	kɔ́	k ɔ́/ɔ		1556	k ɔ́/ɔ
+120	Goshimjang	What	kɔ́	kɔ́	k ɔ́/ɔ		1556	k ɔ́/ɔ
+131	NdandaNyep	When	sɨ̌	sɨ̌	s ɨ̌/ɨ		1568	s ɨ̌/ɨ - -
+132	NdandaShingou	When	sɨ̌	sɨ̌	s ɨ̌/ɨ		1568	s ɨ̌/ɨ - -
+133	NdandaCaa	When	sɨ̌ʔ	sɨ̌ʔ	s ɨ̌/ɨ ʔ		1568	s ɨ̌/ɨ ʔ -
+134	NdandaMeno	When	sɨ̌	sɨ̌	s ɨ̌/ɨ		1568	s ɨ̌/ɨ - -
+135	NdandaLek	When	sɨ́	sɨ́	s ɨ́/ɨ		1568	s ɨ́/ɨ - -
+136	NdandaNgwa	When	sě	sě	s ě/e		1568	s ě/e - -
+137	NdandaTwefap	When	sɨ̌gɨ̌	sɨ̌gɨ̌	s ɨ̌/ɨ g ɨ̌/ɨ		1568	s ɨ̌/ɨ g ɨ̌/ɨ
+138	NdandaDenfap	When	tsíp kô	tsíp_kô	ts í/i p + k ô/o		1568 1569	ts í/i p - + k ô/o
+139	NdandaZua	When	sɨ́	sɨ́	s ɨ́/ɨ		1568	s ɨ́/ɨ - -
+140	Goshimjang	When	sɨ́	sɨ́	s ɨ́/ɨ		1568	s ɨ́/ɨ - -
+121	NdandaNyep	Where	hɛ́ zɨ̌ʔ	hɛ́_zɨ̌ʔ	h ɛ́/ɛ + z ɨ̌/ɨ ʔ		1580 1582	h ɛ́/ɛ - - + z ɨ̌/ɨ ʔ
+122	NdandaShingou	Where	ɛ́ hɨ̂n	ɛ́_hɨ̂n	ɛ́/ɛ + h ɨ̂/ɨ n		1581 1580	ɛ́/ɛ + h ɨ̂/ɨ n -
+123	NdandaCaa	Where	hɨ̂n	hɨ̂n	h ɨ̂/ɨ n		1580	h ɨ̂/ɨ n -
+124	NdandaMeno	Where	ɛ́ hû	ɛ́_hû	ɛ́/ɛ + h û/u		1581 1580	ɛ́/ɛ + h û/u - -
+125	NdandaLek	Where	hɔ́	hɔ́	h ɔ́/ɔ		1580	h ɔ́/ɔ - -
+126	NdandaNgwa	Where	hǔmbɔ̌	hǔmbɔ̌	h ǔ/u ⁿb ɔ̌/ɔ		1580	h ǔ/u ⁿb ɔ̌/ɔ
+127	NdandaTwefap	Where	hɨ̂n	hɨ̂n	h ɨ̂/ɨ n		1580	h ɨ̂/ɨ n -
+128	NdandaDenfap	Where	hɨ̂n	hɨ̂n	h ɨ̂/ɨ n		1580	h ɨ̂/ɨ n -
+129	NdandaZua	Where	hə́	hə́	h ə́/ə		1580	h ə́/ə - -
+130	Goshimjang	Where	hə́	hə́	h ə́/ə		1580	h ə́/ə - -
+1741	NdandaNyep	White	fɨ̌tɛ̌p	fɨ̌tɛ̌p	f ɨ̌/ɨ t ɛ̌/ɛ p		1594	f ɨ̌/ɨ t ɛ̌/ɛ p
+1742	NdandaShingou	White	fíjɨ́ tɛ̌p	fíjɨ́_tɛ̌p	f í/i j ɨ́/ɨ + t ɛ̌/ɛ p		1595 1594	f í/i j ɨ́/ɨ + - - t ɛ̌/ɛ p
+1743	NdandaCaa	White	fɨ̌tɛ̌p	fɨ̌tɛ̌p	f ɨ̌/ɨ t ɛ̌/ɛ p		1594	f ɨ̌/ɨ t ɛ̌/ɛ p
+1744	NdandaMeno	White	fɨ̌tɛ̌p	fɨ̌tɛ̌p	f ɨ̌/ɨ t ɛ̌/ɛ p		1594	f ɨ̌/ɨ t ɛ̌/ɛ p
+1745	NdandaLek	White	fə́tə́p	fə́tə́p	f ə́/ə t ə́/ə p		1594	f ə́/ə t ə́/ə p
+1746	NdandaNgwa	White	fɨ̌tǎp	fɨ̌tǎp	f ɨ̌/ɨ t ǎ/a p		1594	f ɨ̌/ɨ t ǎ/a p
+1747	NdandaTwefap	White	fɨ̌tǎp	fɨ̌tǎp	f ɨ̌/ɨ t ǎ/a p		1594	f ɨ̌/ɨ t ǎ/a p
+1748	NdandaDenfap	White	fɨ́	fɨ́	f ɨ́/ɨ		1595	f ɨ́/ɨ - -
+1749	NdandaZua	White	fʉ́tə́p	fʉ́tə́p	f ʉ́/ʉ t ə́/ə p		1594	f ʉ́/ʉ t ə́/ə p
+1750	Goshimjang	White	fə́tə́p	fə́tə́p	f ə́/ə t ə́/ə p		1594	f ə́/ə t ə́/ə p
+101	NdandaNyep	Who	wɔ̌	wɔ̌	w ɔ̌/ɔ		1606	w ɔ̌/ɔ
+102	NdandaShingou	Who	wɔ̌	wɔ̌	w ɔ̌/ɔ		1606	w ɔ̌/ɔ
+103	NdandaCaa	Who	wɔ̌	wɔ̌	w ɔ̌/ɔ		1606	w ɔ̌/ɔ
+104	NdandaMeno	Who	ɛ̌ wɔ̌	ɛ̌_wɔ̌	ɛ̌/ɛ + w ɔ̌/ɔ		1607 1606	ɛ̌/ɛ + w ɔ̌/ɔ
+105	NdandaLek	Who	wɔ́	wɔ́	w ɔ́/ɔ		1606	w ɔ́/ɔ
+106	NdandaNgwa	Who	ɛ̌ wɔ̌	ɛ̌_wɔ̌	ɛ̌/ɛ + w ɔ̌/ɔ		1607 1606	ɛ̌/ɛ + w ɔ̌/ɔ
+107	NdandaTwefap	Who	wɔ̌	wɔ̌	w ɔ̌/ɔ		1606	w ɔ̌/ɔ
+108	NdandaDenfap	Who	wɔ̌	wɔ̌	w ɔ̌/ɔ		1606	w ɔ̌/ɔ
+109	NdandaZua	Who	wɔ́	wɔ́	w ɔ́/ɔ		1606	w ɔ́/ɔ
+110	Goshimjang	Who	wɔ́	wɔ́	w ɔ́/ɔ		1606	w ɔ́/ɔ
+281	NdandaNyep	Wide	zɨ̌ʔ	zɨ̌ʔ	z ɨ̌/ɨ ʔ		1624	z ɨ̌/ɨ ʔ
+282	NdandaShingou	Wide	ŋkxé-á	ŋkxé-á	ⁿk x é/e + á/a		1621 1625	ⁿk x é/e + á/a
+283	NdandaCaa	Wide	ndíndê	ndíndê	ⁿd í/i ⁿd ê/e		1620	ⁿd í/i ⁿd ê/e
+284	NdandaMeno	Wide	míjâŋgɛ́	míjâŋgɛ́	m í/i j â/a ⁿg ɛ́/ɛ		1623	m í/i j â/a ⁿg ɛ́/ɛ
+285	NdandaLek	Wide	ndjɛ̀bə̀	ndjɛ̀bə̀	ⁿd j ɛ̀/ɛ b ə̀/ə		1622	ⁿd j ɛ̀/ɛ b ə̀/ə
+286	NdandaNgwa	Wide	ŋkǐ	ŋkǐ	ⁿk ǐ/i		1621	ⁿk - ǐ/i
+287	NdandaTwefap	Wide	ŋkxɔ̌	ŋkxɔ̌	ⁿk x ɔ̌/ɔ		1621	ⁿk x ɔ̌/ɔ
+288	NdandaDenfap	Wide	ŋkxɔ̌	ŋkxɔ̌	ⁿk x ɔ̌/ɔ		1621	ⁿk x ɔ̌/ɔ
+289	NdandaZua	Wide	lígə́sə̀	lígə́sə̀	l í/i g ə́/ə s ə̀/ə		1619	l í/i g ə́/ə s ə̀/ə
+290	Goshimjang	Wide	lígə́sə̀	lígə́sə̀	l í/i g ə́/ə s ə̀/ə		1619	l í/i g ə́/ə s ə̀/ə
+391	NdandaNyep	Wife	ɲʒì	ɲʒì	ⁿʒ ì/i		1631	ⁿʒ ì/i
+392	NdandaShingou	Wife	ɲʒǔ	ɲʒǔ	ⁿʒ ǔ/u		1631	ⁿʒ ǔ/u
+393	NdandaCaa	Wife	ɲʒì	ɲʒì	ⁿʒ ì/i		1631	ⁿʒ ì/i
+394	NdandaMeno	Wife	ɲʒì	ɲʒì	ⁿʒ ì/i		1631	ⁿʒ ì/i
+395	NdandaLek	Wife	ɲʒwí	ɲʒwí	ⁿʒʷ í/i		1631	ⁿʒʷ í/i
+396	NdandaNgwa	Wife	ɲʒì	ɲʒì	ⁿʒ ì/i		1631	ⁿʒ ì/i
+397	NdandaTwefap	Wife	dʒwíɛ́	dʒwíɛ́	dʒʷ í/i ɛ́/ɛ		1632	dʒʷ í/i ɛ́/ɛ
+398	NdandaDenfap	Wife	ɲʒì	ɲʒì	ⁿʒ ì/i		1631	ⁿʒ ì/i
+399	NdandaZua	Wife	ɲʒwí	ɲʒwí	ⁿʒʷ í/i		1631	ⁿʒʷ í/i
+400	Goshimjang	Wife	ɲʒwí	ɲʒwí	ⁿʒʷ í/i		1631	ⁿʒʷ í/i
+1621	NdandaNyep	Wind	féfɛ̂	féfɛ̂	f é/e f ɛ̂/ɛ		1642	f é/e f ɛ̂/ɛ
+1622	NdandaShingou	Wind	fɔ̌	fɔ̌	f ɔ̌/ɔ		1642	f ɔ̌/ɔ - -
+1623	NdandaCaa	Wind	fɔ̌	fɔ̌	f ɔ̌/ɔ		1642	f ɔ̌/ɔ - -
+1624	NdandaMeno	Wind	féfɛ̂	féfɛ̂	f é/e f ɛ̂/ɛ		1642	f é/e f ɛ̂/ɛ
+1625	NdandaLek	Wind	fɔ́h	fɔ́h	f ɔ́/ɔ h		1642	f ɔ́/ɔ h -
+1626	NdandaNgwa	Wind	fíjɔ̌	fíjɔ̌	f í/i j ɔ̌/ɔ		1642	f í/i j ɔ̌/ɔ
+1627	NdandaTwefap	Wind	féfɛ̂	féfɛ̂	f é/e f ɛ̂/ɛ		1642	f é/e f ɛ̂/ɛ
+1628	NdandaDenfap	Wind	féfɛ̂	féfɛ̂	f é/e f ɛ̂/ɛ		1642	f é/e f ɛ̂/ɛ
+1629	NdandaZua	Wind	fɔ́h	fɔ́h	f ɔ́/ɔ h		1642	f ɔ́/ɔ h -
+1630	Goshimjang	Wind	fɔ́h	fɔ́h	f ɔ́/ɔ h		1642	f ɔ́/ɔ h -
+831	NdandaNyep	Wing	mbâbà	mbâbà	ⁿb â/a b à/a		1653	ⁿb â/a b à/a
+832	NdandaShingou	Wing	mbâbà	mbâbà	ⁿb â/a b à/a		1653	ⁿb â/a b à/a
+833	NdandaCaa	Wing	mbâbà	mbâbà	ⁿb â/a b à/a		1653	ⁿb â/a b à/a
+834	NdandaMeno	Wing	mbâbà	mbâbà	ⁿb â/a b à/a		1653	ⁿb â/a b à/a
+835	NdandaLek	Wing	mbàbə̀	mbàbə̀	ⁿb à/a b ə̀/ə		1653	ⁿb à/a b ə̀/ə
+836	NdandaNgwa	Wing	pɛ̌	pɛ̌	p ɛ̌/ɛ		1653	p ɛ̌/ɛ - -
+837	NdandaTwefap	Wing	mbɛ̌	mbɛ̌	ⁿb ɛ̌/ɛ		1653	ⁿb ɛ̌/ɛ - -
+838	NdandaDenfap	Wing	mbɛ̌	mbɛ̌	ⁿb ɛ̌/ɛ		1653	ⁿb ɛ̌/ɛ - -
+839	NdandaZua	Wing	mbàbə̀	mbàbə̀	ⁿb à/a b ə̀/ə		1653	ⁿb à/a b ə̀/ə
+840	Goshimjang	Wing	mbàbə̀	mbàbə̀	ⁿb à/a b ə̀/ə		1653	ⁿb à/a b ə̀/ə
+351	NdandaNyep	Woman	mɨ̂ʒwí	mɨ̂ʒwí	m ɨ̂/ɨ ʒʷ í/i		1664	m ɨ̂/ɨ ʒʷ í/i
+352	NdandaShingou	Woman	mɨ̂ʒwí	mɨ̂ʒwí	m ɨ̂/ɨ ʒʷ í/i		1664	m ɨ̂/ɨ ʒʷ í/i
+353	NdandaCaa	Woman	mɨ̂ʒwí	mɨ̂ʒwí	m ɨ̂/ɨ ʒʷ í/i		1664	m ɨ̂/ɨ ʒʷ í/i
+354	NdandaMeno	Woman	mɨ̂ʒwí	mɨ̂ʒwí	m ɨ̂/ɨ ʒʷ í/i		1664	m ɨ̂/ɨ ʒʷ í/i
+355	NdandaLek	Woman	mɨ̂ʒwí	mɨ̂ʒwí	m ɨ̂/ɨ ʒʷ í/i		1664	m ɨ̂/ɨ ʒʷ í/i
+356	NdandaNgwa	Woman	mɨ̂ʒwí	mɨ̂ʒwí	m ɨ̂/ɨ ʒʷ í/i		1664	m ɨ̂/ɨ ʒʷ í/i
+357	NdandaTwefap	Woman	mɨ̂ʒwí	mɨ̂ʒwí	m ɨ̂/ɨ ʒʷ í/i		1664	m ɨ̂/ɨ ʒʷ í/i
+358	NdandaDenfap	Woman	mɨ̂ʒwí	mɨ̂ʒwí	m ɨ̂/ɨ ʒʷ í/i		1664	m ɨ̂/ɨ ʒʷ í/i
+359	NdandaZua	Woman	mɨ̂ʒwí	mɨ̂ʒwí	m ɨ̂/ɨ ʒʷ í/i		1664	m ɨ̂/ɨ ʒʷ í/i
+360	Goshimjang	Woman	mɨ̂ʒwí	mɨ̂ʒwí	m ɨ̂/ɨ ʒʷ í/i		1664	m ɨ̂/ɨ ʒʷ í/i
+491	NdandaNyep	Worm	̀mɛ̌ŋún	mɛ̌ŋún	m ɛ̌/ɛ ŋ ú/u n		1680	m ɛ̌/ɛ ŋ ú/u n
+492	NdandaShingou	Worm	ńtê	ńtê	ń/n t ê/e		1677	ń/n t ê/e
+493	NdandaCaa	Worm	ńtê	ńtê	ń/n t ê/e		1677	ń/n t ê/e
+494	NdandaMeno	Worm	té tɨ́gé	té_tɨ́gé	t é/e + t ɨ́/ɨ g é/e		1677 1678	- t é/e + t ɨ́/ɨ g é/e
+495	NdandaLek	Worm	ntɨ̀tə̀ŋə̀ ʃìʃɔ̀	ntɨ̀tə̀ŋə̀_ʃìʃɔ̀	ⁿt ɨ̀/ɨ t ə̀/ə ŋ ə̀/ə + ʃ ì/i ʃ ɔ̀/ɔ		1675 1676	ⁿt ɨ̀/ɨ t ə̀/ə ŋ ə̀/ə + ʃ ì/i ʃ ɔ̀/ɔ
+496	NdandaNgwa	Worm	ńtê teŋ lé	ńtê_teŋ_lé	ń/n t ê/e + t e ŋ + l é/e		1677 1675 1679	ń/n t ê/e + t e - - ŋ - + l é/e
+497	NdandaTwefap	Worm	ǹté têk	ǹté_têk	ǹ/n t é/e + t ê/e k		1677 1678	ǹ/n t é/e + t ê/e k -
+498	NdandaDenfap	Worm	ǹté têk	ǹté_têk	ǹ/n t é/e + t ê/e k		1677 1678	ǹ/n t é/e + t ê/e k -
+499	NdandaZua	Worm	ntɨ̀tə̀ŋə̀ ʃìʃɔ̀	ntɨ̀tə̀ŋə̀_ʃìʃɔ̀	ⁿt ɨ̀/ɨ t ə̀/ə ŋ ə̀/ə + ʃ ì/i ʃ ɔ̀/ɔ		1675 1676	ⁿt ɨ̀/ɨ t ə̀/ə ŋ ə̀/ə + ʃ ì/i ʃ ɔ̀/ɔ
+500	Goshimjang	Worm	ntɨ̀tə̀ŋə̀ ʃìʃɔ̀	ntɨ̀tə̀ŋə̀_ʃìʃɔ̀	ⁿt ɨ̀/ɨ t ə̀/ə ŋ ə̀/ə + ʃ ì/i ʃ ɔ̀/ɔ		1675 1676	ⁿt ɨ̀/ɨ t ə̀/ə ŋ ə̀/ə + ʃ ì/i ʃ ɔ̀/ɔ
+1781	NdandaNyep	Year	ŋgûʔú nzɔ̌	ŋgûʔú_nzɔ̌	ⁿg û/u ʔ ú/u + ⁿz ɔ̌/ɔ		1694 1695	ⁿg û/u ʔ ú/u + - ⁿz ɔ̌/ɔ -
+1782	NdandaShingou	Year	ŋgûʔú nzɔ̌	ŋgûʔú_nzɔ̌	ⁿg û/u ʔ ú/u + ⁿz ɔ̌/ɔ		1694 1695	ⁿg û/u ʔ ú/u + - ⁿz ɔ̌/ɔ -
+1783	NdandaCaa	Year	ŋgûʔú nzɔ̌	ŋgûʔú_nzɔ̌	ⁿg û/u ʔ ú/u + ⁿz ɔ̌/ɔ		1694 1695	ⁿg û/u ʔ ú/u + - ⁿz ɔ̌/ɔ -
+1784	NdandaMeno	Year	ŋgûʔú nzɔ̌	ŋgûʔú_nzɔ̌	ⁿg û/u ʔ ú/u + ⁿz ɔ̌/ɔ		1694 1695	ⁿg û/u ʔ ú/u + - ⁿz ɔ̌/ɔ -
+1785	NdandaLek	Year	ŋgùʔù nzɔ́	ŋgùʔù_nzɔ́	ⁿg ù/u ʔ ù/u + ⁿz ɔ́/ɔ		1694 1695	ⁿg ù/u ʔ ù/u + - ⁿz ɔ́/ɔ -
+1786	NdandaNgwa	Year	ŋgǔʔ	ŋgǔʔ	ⁿg ǔ/u ʔ		1694	ⁿg ǔ/u ʔ -
+1787	NdandaTwefap	Year	ŋgǔ dɨ̌k	ŋgǔ_dɨ̌k	ⁿg ǔ/u + d ɨ̌/ɨ k		1694 1695	ⁿg ǔ/u - - + d - ɨ̌/ɨ k
+1788	NdandaDenfap	Year	ŋgǔ dzɨ̌	ŋgǔ_dzɨ̌	ⁿg ǔ/u + d z ɨ̌/ɨ		1694 1695	ⁿg ǔ/u - - + d z ɨ̌/ɨ -
+1789	NdandaZua	Year	ŋgùʔù nzɔ́	ŋgùʔù_nzɔ́	ⁿg ù/u ʔ ù/u + ⁿz ɔ́/ɔ		1694 1695	ⁿg ù/u ʔ ù/u + - ⁿz ɔ́/ɔ -
+1790	Goshimjang	Year	ŋgùʔù nzɔ́	ŋgùʔù_nzɔ́	ⁿg ù/u ʔ ù/u + ⁿz ɔ́/ɔ		1694 1695	ⁿg ù/u ʔ ù/u + - ⁿz ɔ́/ɔ -
+1731	NdandaNyep	Yellow	ŋwaʔŋwaʔ	ŋwaʔŋwaʔ	ŋʷ a ʔ ŋʷ a ʔ		1714	ŋʷ a ʔ ŋʷ a ʔ
+1732	NdandaShingou	Yellow	ŋwaʔŋwaʔ	ŋwaʔŋwaʔ	ŋʷ a ʔ ŋʷ a ʔ		1714	ŋʷ a ʔ ŋʷ a ʔ
+1733	NdandaCaa	Yellow	ŋwaʔŋwaʔ	ŋwaʔŋwaʔ	ŋʷ a ʔ ŋʷ a ʔ		1714	ŋʷ a ʔ ŋʷ a ʔ
+1734	NdandaMeno	Yellow	ŋwaʔŋwaʔ	ŋwaʔŋwaʔ	ŋʷ a ʔ ŋʷ a ʔ		1714	ŋʷ a ʔ ŋʷ a ʔ
+1735	NdandaLek	Yellow	ŋwaʔŋwaʔ	ŋwaʔŋwaʔ	ŋʷ a ʔ ŋʷ a ʔ		1714	ŋʷ a ʔ ŋʷ a ʔ
+1736	NdandaNgwa	Yellow	ŋwaʔŋwaʔ	ŋwaʔŋwaʔ	ŋʷ a ʔ ŋʷ a ʔ		1714	ŋʷ a ʔ ŋʷ a ʔ
+1737	NdandaTwefap	Yellow	ŋwaʔŋwaʔ	ŋwaʔŋwaʔ	ŋʷ a ʔ ŋʷ a ʔ		1714	ŋʷ a ʔ ŋʷ a ʔ
+1738	NdandaDenfap	Yellow	ŋwaʔŋwaʔ	ŋwaʔŋwaʔ	ŋʷ a ʔ ŋʷ a ʔ		1714	ŋʷ a ʔ ŋʷ a ʔ
+1739	NdandaZua	Yellow	ŋwaʔwaʔ	ŋwaʔwaʔ	ŋʷ a ʔʷ a ʔ		1714	ŋʷ a ʔʷ - a ʔ
+1740	Goshimjang	Yellow	ɲwɛ̀ʔɲwɛ̀ʔ	ɲwɛ̀ʔɲwɛ̀ʔ	ɲʷ ɛ̀/ɛ ʔ ɲʷ ɛ̀/ɛ ʔ		1714	ɲʷ ɛ̀/ɛ ʔ ɲʷ ɛ̀/ɛ ʔ
+41	NdandaNyep	You (pl)	wɔ̌p	wɔ̌p	w ɔ̌/ɔ p		1726	w ɔ̌/ɔ p
+42	NdandaShingou	You (pl)	wɔ̌p	wɔ̌p	w ɔ̌/ɔ p		1726	w ɔ̌/ɔ p
+43	NdandaCaa	You (pl)	wɔ̌p	wɔ̌p	w ɔ̌/ɔ p		1726	w ɔ̌/ɔ p
+44	NdandaMeno	You (pl)	pǔ	pǔ	p ǔ/u		1725	p ǔ/u
+45	NdandaLek	You (pl)	pə̀	pə̀	p ə̀/ə		1725	p ə̀/ə
+46	NdandaNgwa	You (pl)	wǔp	wǔp	w ǔ/u p		1726	w ǔ/u p
+47	NdandaTwefap	You (pl)	wǔp	wǔp	w ǔ/u p		1726	w ǔ/u p
+48	NdandaDenfap	You (pl)	wɔ̌p	wɔ̌p	w ɔ̌/ɔ p		1726	w ɔ̌/ɔ p
+49	NdandaZua	You (pl)	bú	bú	b ú/u		1725	b ú/u
+50	Goshimjang	You (pl)	bʉ́	bʉ́	b ʉ́/ʉ		1725	b ʉ́/ʉ
+11	NdandaNyep	You (sg)	jɔ̌	jɔ̌	j ɔ̌/ɔ		1738	j ɔ̌/ɔ
+12	NdandaShingou	You (sg)	hû	hû	h û/u		1737	h - - û/u
+13	NdandaCaa	You (sg)	hû	hû	h û/u		1737	h - - û/u
+14	NdandaMeno	You (sg)	hû	hû	h û/u		1737	h - - û/u
+15	NdandaLek	You (sg)	ù	ù	ù/u		1736	ù/u
+16	NdandaNgwa	You (sg)	wû	wû	w û/u		1737	- - w û/u
+17	NdandaTwefap	You (sg)	hû	hû	h û/u		1737	h - - û/u
+18	NdandaDenfap	You (sg)	hûwɔ́	hûwɔ́	h û/u w ɔ́/ɔ		1737	h û/u w ɔ́/ɔ
+19	NdandaZua	You (sg)	ù	ù	ù/u		1736	ù/u
+20	Goshimjang	You (sg)	ù	ù	ù/u		1736	ù/u
+1601	NdandaNyep	fog	dî	dî	d î/i		1748	d î/i -
+1602	NdandaShingou	fog	míjá díɛ́	míjá_díɛ́	m í/i j á/a + d í/i ɛ́/ɛ		1752 1748	m í/i j á/a + d í/i ɛ́/ɛ
+1603	NdandaCaa	fog	diɛ́ diɛ́	diɛ́_diɛ́	d i ɛ́/ɛ + d i ɛ́/ɛ		1748 1749	d i ɛ́/ɛ + d i ɛ́/ɛ
+1604	NdandaMeno	fog	díɛ́	díɛ́	d í/i ɛ́/ɛ		1748	d í/i ɛ́/ɛ
+1605	NdandaLek	fog	díɛ́	díɛ́	d í/i ɛ́/ɛ		1748	d í/i ɛ́/ɛ
+1606	NdandaNgwa	fog	ɣúɣú	ɣúɣú	ɣ ú/u ɣ ú/u		1751	ɣ ú/u ɣ ú/u
+1607	NdandaTwefap	fog	lúwì	lúwì	l ú/u w ì/i		1750	l ú/u w ì/i
+1608	NdandaDenfap	fog	lúwì	lúwì	l ú/u w ì/i		1750	l ú/u w ì/i
+1609	NdandaZua	fog	dʒwɛ̀	dʒwɛ̀	dʒʷ ɛ̀/ɛ		1748	dʒʷ ɛ̀/ɛ -
+1610	Goshimjang	fog	ʒwɛ̀	ʒwɛ̀	ʒʷ ɛ̀/ɛ		1747	ʒʷ ɛ̀/ɛ
+1631	NdandaNyep	snow	ŋɨ̂p	ŋɨ̂p	ŋ ɨ̂/ɨ p		1762	ŋ ɨ̂/ɨ p -
+1632	NdandaShingou	snow	díɛ́ kwǐt	díɛ́_kwǐt	d í/i ɛ́/ɛ + kʷ ǐ/i t		1760 1761	d í/i - ɛ́/ɛ + kʷ ǐ/i t
+1633	NdandaCaa	snow	díɛ́ kwǐt	díɛ́_kwǐt	d í/i ɛ́/ɛ + kʷ ǐ/i t		1760 1761	d í/i - ɛ́/ɛ + kʷ ǐ/i t
+1634	NdandaMeno	snow	díɛ́ kwǐt	díɛ́_kwǐt	d í/i ɛ́/ɛ + kʷ ǐ/i t		1760 1761	d í/i - ɛ́/ɛ + kʷ ǐ/i t
+1635	NdandaLek	snow	dzwɛ̀	dzwɛ̀	d zʷ ɛ̀/ɛ		1760	d - zʷ ɛ̀/ɛ
+1636	NdandaNgwa	snow	ŋúwɔ́ mbɨ̀ŋ	ŋúwɔ́_mbɨ̀ŋ	ŋ ú/u w ɔ́/ɔ + ⁿb ɨ̀/ɨ ŋ		1762 1763	ŋ ú/u w ɔ́/ɔ + - - - - ⁿb ɨ̀/ɨ ŋ
+1637	NdandaTwefap	snow	ŋúwɔ́ mbɨ̀ŋ	ŋúwɔ́_mbɨ̀ŋ	ŋ ú/u w ɔ́/ɔ + ⁿb ɨ̀/ɨ ŋ		1762 1763	ŋ ú/u w ɔ́/ɔ + - - - - ⁿb ɨ̀/ɨ ŋ
+1638	NdandaDenfap	snow	ŋúwɔ́ mbɨ̀ŋ	ŋúwɔ́_mbɨ̀ŋ	ŋ ú/u w ɔ́/ɔ + ⁿb ɨ̀/ɨ ŋ		1762 1763	ŋ ú/u w ɔ́/ɔ + - - - - ⁿb ɨ̀/ɨ ŋ
+1639	NdandaZua	snow	fùfùmbə̀ŋ	fùfùmbə̀ŋ	f ù/u f ù/u ⁿb ə̀/ə ŋ		1763	f ù/u f ù/u ⁿb ə̀/ə ŋ
+1640	Goshimjang	snow	ntɔ́ɲɛ̀	ntɔ́ɲɛ̀	ⁿt ɔ́/ɔ ɲ ɛ̀/ɛ		1760	ⁿt ɔ́/ɔ ɲ ɛ̀/ɛ
+931	NdandaNyep	to bite	ndɨ̌p	ndɨ̌p	ⁿd ɨ̌/ɨ p		1778	ⁿd ɨ̌/ɨ p
+932	NdandaShingou	to bite	nděp	nděp	ⁿd ě/e p		1778	ⁿd ě/e p
+933	NdandaCaa	to bite	nděp bî	nděp_bî	ⁿd ě/e p + b î/i		1778 1779	ⁿd ě/e p + b î/i
+934	NdandaMeno	to bite	lɨ̌p	lɨ̌p	l ɨ̌/ɨ p		1778	l ɨ̌/ɨ p
+935	NdandaLek	to bite	nə̀ tʃúh	nə̀_tʃúh	n ə̀/ə + tʃ ú/u h		1777 1778	n ə̀/ə + tʃ ú/u h
+936	NdandaNgwa	to bite	lěp	lěp	l ě/e p		1778	l ě/e p
+937	NdandaTwefap	to bite	dɨ̌p	dɨ̌p	d ɨ̌/ɨ p		1778	d ɨ̌/ɨ p
+938	NdandaDenfap	to bite	lěp	lěp	l ě/e p		1778	l ě/e p
+939	NdandaZua	to bite	ndì tʃúh	ndì_tʃúh	ⁿd ì/i + tʃ ú/u h		1778 1780	ⁿd ì/i - + tʃ ú/u h
+940	Goshimjang	to bite	nì tʃúh	nì_tʃúh	n ì/i + tʃ ú/u h		1777 1778	n ì/i + tʃ ú/u h
+971	NdandaNyep	to blow	fɛ̌sé	fɛ̌sé	f ɛ̌/ɛ s é/e		1793	f ɛ̌/ɛ - s é/e
+972	NdandaShingou	to blow	fɛ́ mú	fɛ́_mú	f ɛ́/ɛ + m ú/u		1793 1795	f ɛ́/ɛ - - - + m ú/u
+973	NdandaCaa	to blow	fɛ̌sé	fɛ̌sé	f ɛ̌/ɛ s é/e		1793	f ɛ̌/ɛ - s é/e
+974	NdandaMeno	to blow	fɛ̌sé	fɛ̌sé	f ɛ̌/ɛ s é/e		1793	f ɛ̌/ɛ - s é/e
+975	NdandaLek	to blow	nə̀ fɔ́hsə́	nə̀_fɔ́hsə́	n ə̀/ə + f ɔ́/ɔ h s ə́/ə		1792 1793	n ə̀/ə + f ɔ́/ɔ h s ə́/ə
+976	NdandaNgwa	to blow	fě	fě	f ě/e		1793	f ě/e - - -
+977	NdandaTwefap	to blow	fǐ	fǐ	f ǐ/i		1793	f ǐ/i - - -
+978	NdandaDenfap	to blow	fé tsé	fé_tsé	f é/e + ts é/e		1793 1794	f é/e - - - + ts é/e
+979	NdandaZua	to blow	ndì fɔ́hsə́	ndì_fɔ́hsə́	ⁿd ì/i + f ɔ́/ɔ h s ə́/ə		1794 1793	ⁿd ì/i + f ɔ́/ɔ h s ə́/ə
+980	Goshimjang	to blow	nì fɔ́hsə́	nì_fɔ́hsə́	n ì/i + f ɔ́/ɔ h s ə́/ə		1792 1793	n ì/i + f ɔ́/ɔ h s ə́/ə
+981	NdandaNyep	to breathe	ʒwǐhɛ̌	ʒwǐhɛ̌	ʒʷ ǐ/i h ɛ̌/ɛ		1809	ʒʷ ǐ/i h ɛ̌/ɛ
+982	NdandaShingou	to breathe	ʒwǐhɛ́	ʒwǐhɛ́	ʒʷ ǐ/i h ɛ́/ɛ		1809	ʒʷ ǐ/i h ɛ́/ɛ
+983	NdandaCaa	to breathe	ʒwǐhɛ́	ʒwǐhɛ́	ʒʷ ǐ/i h ɛ́/ɛ		1809	ʒʷ ǐ/i h ɛ́/ɛ
+984	NdandaMeno	to breathe	dʒwǐhɛ́	dʒwǐhɛ́	dʒʷ ǐ/i h ɛ́/ɛ		1809	dʒʷ ǐ/i h ɛ́/ɛ
+985	NdandaLek	to breathe	nə̀ ʒwɛ̀hɛ̀	nə̀_ʒwɛ̀hɛ̀	n ə̀/ə + ʒʷ ɛ̀/ɛ h ɛ̀/ɛ		1808 1809	n ə̀/ə + ʒʷ ɛ̀/ɛ h ɛ̀/ɛ
+986	NdandaNgwa	to breathe	ʒwǐhɛ́	ʒwǐhɛ́	ʒʷ ǐ/i h ɛ́/ɛ		1809	ʒʷ ǐ/i h ɛ́/ɛ
+987	NdandaTwefap	to breathe	ʒûwɔ̂	ʒûwɔ̂	ʒ û/u w ɔ̂/ɔ		1809	ʒ û/u w ɔ̂/ɔ
+988	NdandaDenfap	to breathe	ʒûwɔ̂	ʒûwɔ̂	ʒ û/u w ɔ̂/ɔ		1809	ʒ û/u w ɔ̂/ɔ
+989	NdandaZua	to breathe	ndì ʒwɛ̀hɛ̀	ndì_ʒwɛ̀hɛ̀	ⁿd ì/i + ʒʷ ɛ̀/ɛ h ɛ̀/ɛ		1810 1809	ⁿd ì/i + ʒʷ ɛ̀/ɛ h ɛ̀/ɛ
+990	Goshimjang	to breathe	nì ʒwɛ̀hɛ̀	nì_ʒwɛ̀hɛ̀	n ì/i + ʒʷ ɛ̀/ɛ h ɛ̀/ɛ		1808 1809	n ì/i + ʒʷ ɛ̀/ɛ h ɛ̀/ɛ
+1681	NdandaNyep	to burn	ntǔ	ntǔ	ⁿt ǔ/u		1823	ⁿt - - ǔ/u
+1682	NdandaShingou	to burn	túwɔ̌	túwɔ̌	t ú/u w ɔ̌/ɔ		1823	t ú/u w ɔ̌/ɔ
+1683	NdandaCaa	to burn	ntʃǔ	ntʃǔ	ⁿt ʃ ǔ/u		1823	ⁿt - ʃ ǔ/u
+1684	NdandaMeno	to burn	tíjɨ̌	tíjɨ̌	t í/i j ɨ̌/ɨ		1823	t í/i j ɨ̌/ɨ
+1685	NdandaLek	to burn	nə̀ tùɣə̀	nə̀_tùɣə̀	n ə̀/ə + t ù/u ɣ ə̀/ə		1822 1823	n ə̀/ə + t ù/u ɣ ə̀/ə
+1686	NdandaNgwa	to burn	túwǒ	túwǒ	t ú/u w ǒ/o		1823	t ú/u w ǒ/o
+1687	NdandaTwefap	to burn	ntǔgé	ntǔgé	ⁿt ǔ/u g é/e		1823	ⁿt ǔ/u g é/e
+1688	NdandaDenfap	to burn	túwǒ	túwǒ	t ú/u w ǒ/o		1823	t ú/u w ǒ/o
+1689	NdandaZua	to burn	ndì tùɣə̀	ndì_tùɣə̀	ⁿd ì/i + t ù/u ɣ ə̀/ə		1824 1823	ⁿd ì/i + t ù/u ɣ ə̀/ə
+1690	Goshimjang	to burn	nì tùɣə̀	nì_tùɣə̀	n ì/i + t ù/u ɣ ə̀/ə		1822 1823	n ì/i + t ù/u ɣ ə̀/ə
+1211	NdandaNyep	to come	ŋwǎ	ŋwǎ	ŋʷ ǎ/a		1836	ŋʷ ǎ/a
+1212	NdandaShingou	to come	ŋkɨ̌p	ŋkɨ̌p	ⁿk ɨ̌/ɨ p		1838	ⁿk ɨ̌/ɨ p
+1213	NdandaCaa	to come	kɨ̌p	kɨ̌p	k ɨ̌/ɨ p		1838	k ɨ̌/ɨ p
+1214	NdandaMeno	to come	kɨ̌p	kɨ̌p	k ɨ̌/ɨ p		1838	k ɨ̌/ɨ p
+1215	NdandaLek	to come	nə̀ hɔ̀ʔɔ́	nə̀_hɔ̀ʔɔ́	n ə̀/ə + h ɔ̀/ɔ ʔ ɔ́/ɔ		1836 1837	n ə̀/ə + h ɔ̀/ɔ ʔ ɔ́/ɔ
+1216	NdandaNgwa	to come	ŋwâ	ŋwâ	ŋʷ â/a		1836	ŋʷ â/a
+1217	NdandaTwefap	to come	ŋwɛ̌	ŋwɛ̌	ŋʷ ɛ̌/ɛ		1836	ŋʷ ɛ̌/ɛ
+1218	NdandaDenfap	to come	ŋwɛ̌	ŋwɛ̌	ŋʷ ɛ̌/ɛ		1836	ŋʷ ɛ̌/ɛ
+1219	NdandaZua	to come	ndì sɔ̀ʔɔ̀	ndì_sɔ̀ʔɔ̀	ⁿd ì/i + s ɔ̀/ɔ ʔ ɔ̀/ɔ		1839 1837	ⁿd ì/i + s ɔ̀/ɔ ʔ ɔ̀/ɔ
+1220	Goshimjang	to come	nì sɔ̀ʔɔ̀	nì_sɔ̀ʔɔ̀	n ì/i + s ɔ̀/ɔ ʔ ɔ̀/ɔ		1836 1837	n ì/i + s ɔ̀/ɔ ʔ ɔ̀/ɔ
+1381	NdandaNyep	to count	ʃǎkse	ʃǎkse	ʃ ǎ/a k s e		1851	ʃ ǎ/a - - k s e
+1382	NdandaShingou	to count	síják	síják	s í/i j á/a k		1851	s í/i j á/a k - -
+1383	NdandaCaa	to count	ʃǎk	ʃǎk	ʃ ǎ/a k		1851	ʃ ǎ/a - - k - -
+1384	NdandaMeno	to count	síják	síják	s í/i j á/a k		1851	s í/i j á/a k - -
+1385	NdandaLek	to count	nè sáŋ	nè_sáŋ	n è/e + s á/a ŋ		1850 1851	n è/e + s á/a - - ŋ - -
+1386	NdandaNgwa	to count	ʃǎk	ʃǎk	ʃ ǎ/a k		1851	ʃ ǎ/a - - k - -
+1387	NdandaTwefap	to count	ʃiǎk	ʃiǎk	ʃ i ǎ/a k		1851	ʃ i - ǎ/a k - -
+1388	NdandaDenfap	to count	ʃiǎk	ʃiǎk	ʃ i ǎ/a k		1851	ʃ i - ǎ/a k - -
+1389	NdandaZua	to count	ndì ʃáŋ	ndì_ʃáŋ	ⁿd ì/i + ʃ á/a ŋ		1852 1851	ⁿd ì/i + ʃ á/a - - ŋ - -
+1390	Goshimjang	to count	nì sáŋ	nì_sáŋ	n ì/i + s á/a ŋ		1850 1851	n ì/i + s á/a - - ŋ - -
+1131	NdandaNyep	to cut	ndʒâ	ndʒâ	ⁿdʒ â/a		1866	ⁿdʒ - â/a
+1132	NdandaShingou	to cut	ntʃɔ̌	ntʃɔ̌	ⁿt ʃ ɔ̌/ɔ		1866	ⁿt ʃ ɔ̌/ɔ
+1133	NdandaCaa	to cut	jáʔǎ	jáʔǎ	j á/a ʔ ǎ/a		1865	j á/a ʔ ǎ/a
+1134	NdandaMeno	to cut	ndʒǎ	ndʒǎ	ⁿdʒ ǎ/a		1866	ⁿdʒ - ǎ/a
+1135	NdandaLek	to cut	nə̀ jáʔ	nə̀_jáʔ	n ə̀/ə + j á/a ʔ		1864 1865	n ə̀/ə + j á/a ʔ -
+1136	NdandaNgwa	to cut	jáʔá	jáʔá	j á/a ʔ á/a		1865	j á/a ʔ á/a
+1137	NdandaTwefap	to cut	ndʒâ	ndʒâ	ⁿdʒ â/a		1866	ⁿdʒ - â/a
+1138	NdandaDenfap	to cut	jâ	jâ	j â/a		1865	j â/a - -
+1139	NdandaZua	to cut	ndì jáʔ	ndì_jáʔ	ⁿd ì/i + j á/a ʔ		1866 1865	ⁿd - ì/i + j á/a ʔ -
+1140	Goshimjang	to cut	nì jáʔ	nì_jáʔ	n ì/i + j á/a ʔ		1864 1865	n ì/i + j á/a ʔ -
+1081	NdandaNyep	to die	ŋkwɔ̌	ŋkwɔ̌	ⁿk w ɔ̌/ɔ		1880	ⁿk w ɔ̌/ɔ -
+1082	NdandaShingou	to die	ŋkwɔ̌	ŋkwɔ̌	ⁿk w ɔ̌/ɔ		1880	ⁿk w ɔ̌/ɔ -
+1083	NdandaCaa	to die	ŋkwɔ̌	ŋkwɔ̌	ⁿk w ɔ̌/ɔ		1880	ⁿk w ɔ̌/ɔ -
+1084	NdandaMeno	to die	ŋkwɔ̌	ŋkwɔ̌	ⁿk w ɔ̌/ɔ		1880	ⁿk w ɔ̌/ɔ -
+1085	NdandaLek	to die	nə̀ gɣúhɔ́	nə̀_gɣúhɔ́	n ə̀/ə + g ɣ ú/u h ɔ́/ɔ		1878 1879	n ə̀/ə + g ɣ ú/u h ɔ́/ɔ
+1086	NdandaNgwa	to die	kfwɨ̌	kfwɨ̌	k fʷ ɨ̌/ɨ		1880	k fʷ ɨ̌/ɨ -
+1087	NdandaTwefap	to die	kpwɨ̌k	kpwɨ̌k	k pʷ ɨ̌/ɨ k		1880	k pʷ ɨ̌/ɨ k
+1088	NdandaDenfap	to die	kwɨ̌	kwɨ̌	kʷ ɨ̌/ɨ		1880	kʷ - ɨ̌/ɨ -
+1089	NdandaZua	to die	ndì kxúhó	ndì_kxúhó	ⁿd ì/i + k x ú/u h ó/o		1881 1879	ⁿd ì/i + k x ú/u h ó/o
+1090	Goshimjang	to die	nì gɣúhɔ́	nì_gɣúhɔ́	n ì/i + g ɣ ú/u h ɔ́/ɔ		1878 1879	n ì/i + g ɣ ú/u h ɔ́/ɔ
+1171	NdandaNyep	to dig	zɨ̌ʔɨ́	zɨ̌ʔɨ́	z ɨ̌/ɨ ʔ ɨ́/ɨ		1893	z ɨ̌/ɨ ʔ ɨ́/ɨ
+1172	NdandaShingou	to dig	zɨ̌ʔɨ́	zɨ̌ʔɨ́	z ɨ̌/ɨ ʔ ɨ́/ɨ		1893	z ɨ̌/ɨ ʔ ɨ́/ɨ
+1173	NdandaCaa	to dig	zɨ̌ʔɨ́	zɨ̌ʔɨ́	z ɨ̌/ɨ ʔ ɨ́/ɨ		1893	z ɨ̌/ɨ ʔ ɨ́/ɨ
+1174	NdandaMeno	to dig	ntǔk	ntǔk	ⁿt ǔ/u k		1894	ⁿt ǔ/u k
+1175	NdandaLek	to dig	nə̀ sùʔú	nə̀_sùʔú	n ə̀/ə + s ù/u ʔ ú/u		1892 1893	n ə̀/ə + s ù/u ʔ ú/u
+1176	NdandaNgwa	to dig	tsǔ	tsǔ	ts ǔ/u		1893	ts ǔ/u - -
+1177	NdandaTwefap	to dig	nzɨ̌	nzɨ̌	ⁿz ɨ̌/ɨ		1893	ⁿz ɨ̌/ɨ - -
+1178	NdandaDenfap	to dig	tɔ̌k	tɔ̌k	t ɔ̌/ɔ k		1894	t ɔ̌/ɔ k
+1179	NdandaZua	to dig	ndì tsúʔ	ndì_tsúʔ	ⁿd ì/i + ts ú/u ʔ		1894 1893	ⁿd ì/i - + ts ú/u ʔ -
+1180	Goshimjang	to dig	nì súʔ	nì_súʔ	n ì/i + s ú/u ʔ		1892 1893	n ì/i + s ú/u ʔ -
+911	NdandaNyep	to drink	nǔ	nǔ	n ǔ/u		1907	n ǔ/u
+912	NdandaShingou	to drink	nǔ	nǔ	n ǔ/u		1907	n ǔ/u
+913	NdandaCaa	to drink	nǔ	nǔ	n ǔ/u		1907	n ǔ/u
+914	NdandaMeno	to drink	nǔ	nǔ	n ǔ/u		1907	n ǔ/u
+915	NdandaLek	to drink	nə̀ nú	nə̀_nú	n ə̀/ə + n ú/u		1906 1907	n ə̀/ə + n ú/u
+916	NdandaNgwa	to drink	nǔ	nǔ	n ǔ/u		1907	n ǔ/u
+917	NdandaTwefap	to drink	nǔ	nǔ	n ǔ/u		1907	n ǔ/u
+918	NdandaDenfap	to drink	nǔ	nǔ	n ǔ/u		1907	n ǔ/u
+919	NdandaZua	to drink	ndì ɲú	ndì_ɲú	ⁿd ì/i + ɲ ú/u		1908 1907	ⁿd ì/i + ɲ ú/u
+920	Goshimjang	to drink	nì ɲú	nì_ɲú	n ì/i + ɲ ú/u		1906 1907	n ì/i + ɲ ú/u
+921	NdandaNyep	to eat	kpwɛ̌	kpwɛ̌	k pʷ ɛ̌/ɛ		1921	- k pʷ ɛ̌/ɛ
+922	NdandaShingou	to eat	kpwɛ̌	kpwɛ̌	k pʷ ɛ̌/ɛ		1921	- k pʷ ɛ̌/ɛ
+923	NdandaCaa	to eat	kpwɛ̌	kpwɛ̌	k pʷ ɛ̌/ɛ		1921	- k pʷ ɛ̌/ɛ
+924	NdandaMeno	to eat	kpwɛ̌	kpwɛ̌	k pʷ ɛ̌/ɛ		1921	- k pʷ ɛ̌/ɛ
+925	NdandaLek	to eat	nə̀ ŋkpɛ́	nə̀_ŋkpɛ́	n ə̀/ə + ⁿk p ɛ́/ɛ		1920 1921	n ə̀/ə + - ⁿk p ɛ́/ɛ
+926	NdandaNgwa	to eat	kpwé	kpwé	k pʷ é/e		1921	- k pʷ é/e
+927	NdandaTwefap	to eat	kpwé	kpwé	k pʷ é/e		1921	- k pʷ é/e
+928	NdandaDenfap	to eat	kpwé	kpwé	k pʷ é/e		1921	- k pʷ é/e
+929	NdandaZua	to eat	ndì nkpɛ́	ndì_nkpɛ́	ⁿd ì/i + n k p ɛ́/ɛ		1922 1921	ⁿd ì/i + n k p ɛ́/ɛ
+930	Goshimjang	to eat	nì nkpɛ́	nì_nkpɛ́	n ì/i + n k p ɛ́/ɛ		1920 1921	n ì/i + n k p ɛ́/ɛ
+1261	NdandaNyep	to fall	ŋgwɔ̌sí	ŋgwɔ̌sí	ⁿg w ɔ̌/ɔ s í/i		1936	ⁿg w ɔ̌/ɔ s í/i
+1262	NdandaShingou	to fall	tɛ̌p sí	tɛ̌p_sí	t ɛ̌/ɛ p + s í/i		1935 1936	t ɛ̌/ɛ p - - + - - - s í/i
+1263	NdandaCaa	to fall	tɛ̌p ʃí	tɛ̌p_ʃí	t ɛ̌/ɛ p + ʃ í/i		1935 1936	t ɛ̌/ɛ p - - + - - - ʃ í/i
+1264	NdandaMeno	to fall	tɛ̌p	tɛ̌p	t ɛ̌/ɛ p		1935	t ɛ̌/ɛ p - -
+1265	NdandaLek	to fall	nə̀ tɔ̀psə́	nə̀_tɔ̀psə́	n ə̀/ə + t ɔ̀/ɔ p s ə́/ə		1934 1935	n ə̀/ə + t ɔ̀/ɔ p s ə́/ə
+1266	NdandaNgwa	to fall	bvɨʃi	bvɨʃi	bv ɨ ʃ i		1936	- bv ɨ ʃ i
+1267	NdandaTwefap	to fall	mbɨk ʃǐ	mbɨk_ʃǐ	ⁿb ɨ k + ʃ ǐ/i		1937 1936	ⁿb ɨ k + - - - ʃ ǐ/i
+1268	NdandaDenfap	to fall	tǎp ʃí	tǎp_ʃí	t ǎ/a p + ʃ í/i		1935 1936	t ǎ/a p - - + - - - ʃ í/i
+1269	NdandaZua	to fall	ndì tə́psə́	ndì_tə́psə́	ⁿd ì/i + t ə́/ə p s ə́/ə		1938 1935	ⁿd ì/i + t ə́/ə p s ə́/ə
+1270	Goshimjang	to fall	nì tɔ́psə́	nì_tɔ́psə́	n ì/i + t ɔ́/ɔ p s ə́/ə		1934 1935	n ì/i + t ɔ́/ɔ p s ə́/ə
+1051	NdandaNyep	to fear	mbɔ̌	mbɔ̌	ⁿb ɔ̌/ɔ		1953	ⁿb ɔ̌/ɔ - -
+1052	NdandaShingou	to fear	mbɔ̌	mbɔ̌	ⁿb ɔ̌/ɔ		1953	ⁿb ɔ̌/ɔ - -
+1053	NdandaCaa	to fear	mbɔ̌	mbɔ̌	ⁿb ɔ̌/ɔ		1953	ⁿb ɔ̌/ɔ - -
+1054	NdandaMeno	to fear	mbɔ̌hɔ̌	mbɔ̌hɔ̌	ⁿb ɔ̌/ɔ h ɔ̌/ɔ		1953	ⁿb ɔ̌/ɔ h ɔ̌/ɔ
+1055	NdandaLek	to fear	nə̀ bɔ́h	nə̀_bɔ́h	n ə̀/ə + b ɔ́/ɔ h		1952 1953	n ə̀/ə + b ɔ́/ɔ h -
+1056	NdandaNgwa	to fear	pú ɔ̌	pú_ɔ̌	p ú/u + ɔ̌/ɔ		1953 1954	p ú/u - - + ɔ̌/ɔ
+1057	NdandaTwefap	to fear	bwɔ̌	bwɔ̌	bʷ ɔ̌/ɔ		1953	bʷ ɔ̌/ɔ - -
+1058	NdandaDenfap	to fear	púwɔ̌	púwɔ̌	p ú/u w ɔ̌/ɔ		1953	p ú/u w ɔ̌/ɔ
+1059	NdandaZua	to fear	ndì bɔ́h	ndì_bɔ́h	ⁿd ì/i + b ɔ́/ɔ h		1955 1953	ⁿd ì/i + b ɔ́/ɔ h -
+1060	Goshimjang	to fear	nì bɔ́h	nì_bɔ́h	n ì/i + b ɔ́/ɔ h		1952 1953	n ì/i + b ɔ́/ɔ h -
+1100	Goshimjang	to fight	nì ʒwí	nì_ʒwí	n ì/i + ʒʷ í/i		1967 1968	n ì/i - + ʒʷ í/i - -
+1101	NdandaNyep	to fight	nzɔ̌kwɛ̌	nzɔ̌kwɛ̌	ⁿz ɔ̌/ɔ kʷ ɛ̌/ɛ		1968	ⁿz ɔ̌/ɔ kʷ ɛ̌/ɛ
+1102	NdandaShingou	to fight	zǎp nǔ	zǎp_nǔ	z ǎ/a p + n ǔ/u		1968 1967	z ǎ/a p - + n ǔ/u -
+1103	NdandaCaa	to fight	zǎp ɲíá	zǎp_ɲíá	z ǎ/a p + ɲ í/i á/a		1968 1967	z ǎ/a p - + ɲ í/i á/a
+1104	NdandaMeno	to fight	nzɔ̌	nzɔ̌	ⁿz ɔ̌/ɔ		1968	ⁿz ɔ̌/ɔ - -
+1105	NdandaLek	to fight	nə̀ zɔ́ŋkwɛ̀	nə̀_zɔ́ŋkwɛ̀	n ə̀/ə + z ɔ́/ɔ ⁿk w ɛ̀/ɛ		1967 1970	n ə̀/ə - + - z ɔ́/ɔ ⁿk w ɛ̀/ɛ
+1106	NdandaNgwa	to fight	nzɛ́ ŋkwè	nzɛ́_ŋkwè	ⁿz ɛ́/ɛ + ⁿk w è/e		1968 1970	ⁿz ɛ́/ɛ - - + - - - ⁿk w è/e
+1107	NdandaTwefap	to fight	tʃǔ ŋkwè	tʃǔ_ŋkwè	tʃ ǔ/u + ⁿk w è/e		1969 1970	tʃ ǔ/u + - - - ⁿk w è/e
+1108	NdandaDenfap	to fight	tʃǔ ŋkwè	tʃǔ_ŋkwè	tʃ ǔ/u + ⁿk w è/e		1969 1970	tʃ ǔ/u + - - - ⁿk w è/e
+1109	NdandaZua	to fight	ndì dzɔ́ŋkwɛ̀	ndì_dzɔ́ŋkwɛ̀	ⁿd ì/i + d z ɔ́/ɔ ⁿk w ɛ̀/ɛ		1969 1970	ⁿd ì/i + d z ɔ́/ɔ ⁿk w ɛ̀/ɛ
+1110	Goshimjang	to fight	nì zɔ́ŋkwɛ̀	nì_zɔ́ŋkwɛ̀	n ì/i + z ɔ́/ɔ ⁿk w ɛ̀/ɛ		1967 1970	n ì/i - + - z ɔ́/ɔ ⁿk w ɛ̀/ɛ
+1421	NdandaNyep	to float	pǎ sé	pǎ_sé	p ǎ/a + s é/e		1989 1990	p ǎ/a - - + s é/e
+1422	NdandaShingou	to float	pǎ sé	pǎ_sé	p ǎ/a + s é/e		1989 1990	p ǎ/a - - + s é/e
+1423	NdandaCaa	to float	pǎ sé	pǎ_sé	p ǎ/a + s é/e		1989 1990	p ǎ/a - - + s é/e
+1424	NdandaMeno	to float	pǎ sé	pǎ_sé	p ǎ/a + s é/e		1989 1990	p ǎ/a - - + s é/e
+1425	NdandaLek	to float	nə̀ pásə̀	nə̀_pásə̀	n ə̀/ə + p á/a s ə̀/ə		1988 1989	n ə̀/ə + p á/a s ə̀/ə
+1426	NdandaNgwa	to float	pǎ sé	pǎ_sé	p ǎ/a + s é/e		1989 1990	p ǎ/a - - + s é/e
+1427	NdandaTwefap	to float	pǎ sé	pǎ_sé	p ǎ/a + s é/e		1989 1990	p ǎ/a - - + s é/e
+1428	NdandaDenfap	to float	pǎ sé	pǎ_sé	p ǎ/a + s é/e		1989 1990	p ǎ/a - - + s é/e
+1429	NdandaZua	to float	ndì básə̀	ndì_básə̀	ⁿd ì/i + b á/a s ə̀/ə		1991 1989	ⁿd ì/i + b á/a s ə̀/ə
+1430	Goshimjang	to float	nì básè	nì_básè	n ì/i + b á/a s è/e		1988 1989	n ì/i + b á/a s è/e
+1431	NdandaNyep	to flow	fîʔ	fîʔ	f î/i ʔ		2010	f î/i ʔ
+1432	NdandaShingou	to flow	fî	fî	f î/i		2010	f î/i -
+1433	NdandaCaa	to flow	ntɨ̌p	ntɨ̌p	ⁿt ɨ̌/ɨ p		2011	ⁿt ɨ̌/ɨ p
+1434	NdandaMeno	to flow	fî	fî	f î/i		2010	f î/i -
+1435	NdandaLek	to flow	nə̀ fî	nə̀_fî	n ə̀/ə + f î/i		2009 2010	n ə̀/ə + f î/i -
+1436	NdandaNgwa	to flow	ntɨ̌p	ntɨ̌p	ⁿt ɨ̌/ɨ p		2011	ⁿt ɨ̌/ɨ p
+1437	NdandaTwefap	to flow	fî	fî	f î/i		2010	f î/i -
+1438	NdandaDenfap	to flow	fî	fî	f î/i		2010	f î/i -
+1439	NdandaZua	to flow	ndì fé	ndì_fé	ⁿd ì/i + f é/e		2011 2010	ⁿd ì/i - + f é/e -
+1440	Goshimjang	to flow	nì fé	nì_fé	n ì/i + f é/e		2009 2010	n ì/i + f é/e -
+1191	NdandaNyep	to fly	fɛ̌	fɛ̌	f ɛ̌/ɛ		2023	f - ɛ̌/ɛ
+1192	NdandaShingou	to fly	fɛ̌	fɛ̌	f ɛ̌/ɛ		2023	f - ɛ̌/ɛ
+1193	NdandaCaa	to fly	fɛ̌	fɛ̌	f ɛ̌/ɛ		2023	f - ɛ̌/ɛ
+1194	NdandaMeno	to fly	nfɛ̌	nfɛ̌	n f ɛ̌/ɛ		2023	n f ɛ̌/ɛ
+1195	NdandaLek	to fly	nə̀ ʒɔ̀	nə̀_ʒɔ̀	n ə̀/ə + ʒ ɔ̀/ɔ		2023 2024	n - ə̀/ə + ʒ - - ɔ̀/ɔ
+1196	NdandaNgwa	to fly	fé	fé	f é/e		2023	f - é/e
+1197	NdandaTwefap	to fly	ntě	ntě	ⁿt ě/e		2025	ⁿt ě/e
+1198	NdandaDenfap	to fly	tě	tě	t ě/e		2025	t ě/e
+1199	NdandaZua	to fly	ndì ʒìhɔ̀	ndì_ʒìhɔ̀	ⁿd ì/i + ʒ ì/i h ɔ̀/ɔ		2025 2024	ⁿd ì/i + ʒ ì/i h ɔ̀/ɔ
+1200	Goshimjang	to fly	nì ʒɔ̀	nì_ʒɔ̀	n ì/i + ʒ ɔ̀/ɔ		2023 2024	n - ì/i + ʒ - - ɔ̀/ɔ
+1441	NdandaNyep	to freeze	ŋɨ̌p	ŋɨ̌p	ŋ ɨ̌/ɨ p		2037	ŋ ɨ̌/ɨ p
+1442	NdandaShingou	to freeze	ŋɨ̌p	ŋɨ̌p	ŋ ɨ̌/ɨ p		2037	ŋ ɨ̌/ɨ p
+1443	NdandaCaa	to freeze	kpwǐt ntǔgɛ̌	kpwǐt_ntǔgɛ̌	k pʷ ǐ/i t + ⁿt ǔ/u g ɛ̌/ɛ		2039 2040	k pʷ ǐ/i t + ⁿt ǔ/u g ɛ̌/ɛ
+1444	NdandaMeno	to freeze	ŋɨ̌p	ŋɨ̌p	ŋ ɨ̌/ɨ p		2037	ŋ ɨ̌/ɨ p
+1445	NdandaLek	to freeze	siŋ	siŋ	s i ŋ		2041	s i ŋ
+1446	NdandaNgwa	to freeze	kwid	kwid	kʷ i d		2039	kʷ - i d
+1447	NdandaTwefap	to freeze	ŋêp	ŋêp	ŋ ê/e p		2037	ŋ ê/e p
+1448	NdandaDenfap	to freeze	ŋêp	ŋêp	ŋ ê/e p		2037	ŋ ê/e p
+1449	NdandaZua	to freeze	ndì ɲwɛ̀	ndì_ɲwɛ̀	ⁿd ì/i + ɲʷ ɛ̀/ɛ		2040 2037	ⁿd ì/i - - + ɲʷ ɛ̀/ɛ -
+1450	Goshimjang	to freeze	nì ɲwɛ̀	nì_ɲwɛ̀	n ì/i + ɲʷ ɛ̀/ɛ		2037 2038	n ì/i - + ɲʷ ɛ̀/ɛ
+1271	NdandaNyep	to give	hɛ̌	hɛ̌	h ɛ̌/ɛ		2052	h ɛ̌/ɛ
+1272	NdandaShingou	to give	hɛ̌	hɛ̌	h ɛ̌/ɛ		2052	h ɛ̌/ɛ
+1273	NdandaCaa	to give	hɛ̌	hɛ̌	h ɛ̌/ɛ		2052	h ɛ̌/ɛ
+1274	NdandaMeno	to give	hɛ̌	hɛ̌	h ɛ̌/ɛ		2052	h ɛ̌/ɛ
+1275	NdandaLek	to give	nə̀ há	nə̀_há	n ə̀/ə + h á/a		2051 2052	n ə̀/ə + h á/a
+1276	NdandaNgwa	to give	hɛ̌	hɛ̌	h ɛ̌/ɛ		2052	h ɛ̌/ɛ
+1277	NdandaTwefap	to give	hɛ̌	hɛ̌	h ɛ̌/ɛ		2052	h ɛ̌/ɛ
+1278	NdandaDenfap	to give	hɛ̌	hɛ̌	h ɛ̌/ɛ		2052	h ɛ̌/ɛ
+1279	NdandaZua	to give	ndì há	ndì_há	ⁿd ì/i + h á/a		2053 2052	ⁿd ì/i + h á/a
+1280	Goshimjang	to give	nì há	nì_há	n ì/i + h á/a		2051 2052	n ì/i + h á/a
+1011	NdandaNyep	to hear	ndʒû	ndʒû	ⁿdʒ û/u		2067	ⁿdʒ û/u
+1012	NdandaShingou	to hear	ndʒû	ndʒû	ⁿdʒ û/u		2067	ⁿdʒ û/u
+1013	NdandaCaa	to hear	ndʒû	ndʒû	ⁿdʒ û/u		2067	ⁿdʒ û/u
+1014	NdandaMeno	to hear	jǔʔǔ	jǔʔǔ	j ǔ/u ʔ ǔ/u		2066	j ǔ/u ʔ ǔ/u
+1015	NdandaLek	to hear	nə̀ júʔ	nə̀_júʔ	n ə̀/ə + j ú/u ʔ		2065 2066	n ə̀/ə + j ú/u ʔ -
+1016	NdandaNgwa	to hear	jǔ	jǔ	j ǔ/u		2066	j ǔ/u - -
+1017	NdandaTwefap	to hear	ndʒû	ndʒû	ⁿdʒ û/u		2067	ⁿdʒ û/u
+1018	NdandaDenfap	to hear	jǔ	jǔ	j ǔ/u		2066	j ǔ/u - -
+1019	NdandaZua	to hear	ndì ndʒúʔ	ndì_ndʒúʔ	ⁿd ì/i + ⁿdʒ ú/u ʔ		2067 2066	ⁿd ì/i + ⁿdʒ ú/u ʔ -
+1020	Goshimjang	to hear	nì júʔ	nì_júʔ	n ì/i + j ú/u ʔ		2065 2066	n ì/i + j ú/u ʔ -
+1121	NdandaNyep	to hit	nzǎp	nzǎp	ⁿz ǎ/a p		2080	ⁿz ǎ/a p -
+1122	NdandaShingou	to hit	nzǎp	nzǎp	ⁿz ǎ/a p		2080	ⁿz ǎ/a p -
+1123	NdandaCaa	to hit	nzǎp	nzǎp	ⁿz ǎ/a p		2080	ⁿz ǎ/a p -
+1124	NdandaMeno	to hit	nzǎp	nzǎp	ⁿz ǎ/a p		2080	ⁿz ǎ/a p -
+1125	NdandaLek	to hit	nə̀ zabə̀	nə̀_zabə̀	n ə̀/ə + z a b ə̀/ə		2079 2080	n ə̀/ə + z a b ə̀/ə
+1126	NdandaNgwa	to hit	zɛ́	zɛ́	z ɛ́/ɛ		2080	z ɛ́/ɛ - -
+1127	NdandaTwefap	to hit	mbǔ	mbǔ	ⁿb ǔ/u		2080	- - ⁿb ǔ/u
+1128	NdandaDenfap	to hit	nzǎp	nzǎp	ⁿz ǎ/a p		2080	ⁿz ǎ/a p -
+1129	NdandaZua	to hit	ndì zàbə̀	ndì_zàbə̀	ⁿd ì/i + z à/a b ə̀/ə		2081 2080	ⁿd ì/i + z à/a b ə̀/ə
+1130	Goshimjang	to hit	nì zàbə̀	nì_zàbə̀	n ì/i + z à/a b ə̀/ə		2079 2080	n ì/i + z à/a b ə̀/ə
+1281	NdandaNyep	to hold	tʃíbɨ́	tʃíbɨ́	tʃ í/i b ɨ́/ɨ		2094	tʃ í/i b ɨ́/ɨ
+1282	NdandaShingou	to hold	tʃíbɨ́	tʃíbɨ́	tʃ í/i b ɨ́/ɨ		2094	tʃ í/i b ɨ́/ɨ
+1283	NdandaCaa	to hold	tʃíbɨ́	tʃíbɨ́	tʃ í/i b ɨ́/ɨ		2094	tʃ í/i b ɨ́/ɨ
+1284	NdandaMeno	to hold	tʃíbɨ́	tʃíbɨ́	tʃ í/i b ɨ́/ɨ		2094	tʃ í/i b ɨ́/ɨ
+1285	NdandaLek	to hold	nə̀ ʃìbə̀	nə̀_ʃìbə̀	n ə̀/ə + ʃ ì/i b ə̀/ə		2093 2094	n ə̀/ə + ʃ ì/i b ə̀/ə
+1286	NdandaNgwa	to hold	wǔp	wǔp	w ǔ/u p		2094	w ǔ/u p -
+1287	NdandaTwefap	to hold	tʃǐp	tʃǐp	tʃ ǐ/i p		2094	tʃ ǐ/i p -
+1288	NdandaDenfap	to hold	tʃǐp	tʃǐp	tʃ ǐ/i p		2094	tʃ ǐ/i p -
+1289	NdandaZua	to hold	ndì wɔ̀p	ndì_wɔ̀p	ⁿd ì/i + w ɔ̀/ɔ p		2094 2095	ⁿd ì/i - - + w ɔ̀/ɔ p
+1290	Goshimjang	to hold	nì ʃìbì	nì_ʃìbì	n ì/i + ʃ ì/i b ì/i		2093 2094	n ì/i + ʃ ì/i b ì/i
+1111	NdandaNyep	to hunt	ndʒǔk	ndʒǔk	ⁿdʒ ǔ/u k		2109	ⁿdʒ ǔ/u k
+1112	NdandaShingou	to hunt	ndʒǔk	ndʒǔk	ⁿdʒ ǔ/u k		2109	ⁿdʒ ǔ/u k
+1113	NdandaCaa	to hunt	ndʒǔk	ndʒǔk	ⁿdʒ ǔ/u k		2109	ⁿdʒ ǔ/u k
+1114	NdandaMeno	to hunt	ndʒǔk	ndʒǔk	ⁿdʒ ǔ/u k		2109	ⁿdʒ ǔ/u k
+1115	NdandaLek	to hunt	nə̀ táʔnɔ̀	nə̀_táʔnɔ̀	n ə̀/ə + t á/a ʔ n ɔ̀/ɔ		2107 2108	n ə̀/ə + t á/a ʔ n ɔ̀/ɔ
+1116	NdandaNgwa	to hunt	ijɔ̌k	ijɔ̌k	i j ɔ̌/ɔ k		2110	i j ɔ̌/ɔ k
+1117	NdandaTwefap	to hunt	ndʒǔk	ndʒǔk	ⁿdʒ ǔ/u k		2109	ⁿdʒ ǔ/u k
+1118	NdandaDenfap	to hunt	ndʒɔ̌k	ndʒɔ̌k	ⁿdʒ ɔ̌/ɔ k		2109	ⁿdʒ ɔ̌/ɔ k
+1119	NdandaZua	to hunt	ndì táʔɲɔ̀	ndì_táʔɲɔ̀	ⁿd ì/i + t á/a ʔ ɲ ɔ̀/ɔ		2109 2108	ⁿd ì/i - + t á/a ʔ ɲ ɔ̀/ɔ
+1120	Goshimjang	to hunt	nì táʔɲɔ̀	nì_táʔɲɔ̀	n ì/i + t á/a ʔ ɲ ɔ̀/ɔ		2107 2108	n ì/i + t á/a ʔ ɲ ɔ̀/ɔ
+1091	NdandaNyep	to kill	ʒwɨ̌	ʒwɨ̌	ʒʷ ɨ̌/ɨ		2121	ʒʷ ɨ̌/ɨ
+1092	NdandaShingou	to kill	ʒwɨ̌	ʒwɨ̌	ʒʷ ɨ̌/ɨ		2121	ʒʷ ɨ̌/ɨ
+1093	NdandaCaa	to kill	ʒǔ	ʒǔ	ʒ ǔ/u		2121	ʒ ǔ/u
+1094	NdandaMeno	to kill	ʒwɨ̌	ʒwɨ̌	ʒʷ ɨ̌/ɨ		2121	ʒʷ ɨ̌/ɨ
+1095	NdandaLek	to kill	nə̀ ʒwí	nə̀_ʒwí	n ə̀/ə + ʒʷ í/i		2122 2121	n ə̀/ə + ʒʷ í/i
+1096	NdandaNgwa	to kill	ʒwɨ̌	ʒwɨ̌	ʒʷ ɨ̌/ɨ		2121	ʒʷ ɨ̌/ɨ
+1097	NdandaTwefap	to kill	dʒwɨ̌	dʒwɨ̌	dʒʷ ɨ̌/ɨ		2123	dʒʷ ɨ̌/ɨ
+1098	NdandaDenfap	to kill	ʒwə	ʒwə	ʒʷ ə/ə		2121	ʒʷ ə/ə
+1099	NdandaZua	to kill	ndì ʒwí	ndì_ʒwí	ⁿd ì/i + ʒʷ í/i		2123 2121	ⁿd ì/i + ʒʷ í/i
+991	NdandaNyep	to laugh	nʒwǐ	nʒwǐ	ⁿʒʷ ǐ/i		2134	ⁿʒʷ ǐ/i
+992	NdandaShingou	to laugh	nʒwǐ	nʒwǐ	ⁿʒʷ ǐ/i		2134	ⁿʒʷ ǐ/i
+993	NdandaCaa	to laugh	nʒwǐ	nʒwǐ	ⁿʒʷ ǐ/i		2134	ⁿʒʷ ǐ/i
+994	NdandaMeno	to laugh	nʒwǐ	nʒwǐ	ⁿʒʷ ǐ/i		2134	ⁿʒʷ ǐ/i
+995	NdandaLek	to laugh	nə̀ ʒwí	nə̀_ʒwí	n ə̀/ə + ʒʷ í/i		2133 2134	n - ə̀/ə + ʒʷ í/i
+996	NdandaNgwa	to laugh	ɣǔ	ɣǔ	ɣ ǔ/u		2134	ɣ ǔ/u
+997	NdandaTwefap	to laugh	ŋɣǔ	ŋɣǔ	ŋ ɣ ǔ/u		2133	ŋ ɣ ǔ/u
+998	NdandaDenfap	to laugh	ɣǔ	ɣǔ	ɣ ǔ/u		2134	ɣ ǔ/u
+999	NdandaZua	to laugh	ndì ʒwí	ndì_ʒwí	ⁿd ì/i + ʒʷ í/i		2135 2134	ⁿd ì/i + ʒʷ í/i
+1000	Goshimjang	to laugh	nì ʒwí	nì_ʒwí	n ì/i + ʒʷ í/i		2133 2134	n - ì/i + ʒʷ í/i
+1221	NdandaNyep	to lie	nɔ̂k	nɔ̂k	n ɔ̂/ɔ k		2148	n ɔ̂/ɔ k - - -
+1222	NdandaShingou	to lie	nɔ̂k	nɔ̂k	n ɔ̂/ɔ k		2148	n ɔ̂/ɔ k - - -
+1223	NdandaCaa	to lie	nɔ̌kʃǐ	nɔ̌kʃǐ	n ɔ̌/ɔ k ʃ ǐ/i		2148	n ɔ̌/ɔ k - ʃ ǐ/i
+1224	NdandaMeno	to lie	nɔ̂k	nɔ̂k	n ɔ̂/ɔ k		2148	n ɔ̂/ɔ k - - -
+1225	NdandaLek	to lie	nə̀ nɔ́ŋɔ́sé	nə̀_nɔ́ŋɔ́sé	n ə̀/ə + n ɔ́/ɔ ŋ ɔ́/ɔ s é/e		2149 2148	n ə̀/ə + n ɔ́/ɔ ŋ ɔ́/ɔ s é/e
+1226	NdandaNgwa	to lie	nɔ̂kʃǐ	nɔ̂kʃǐ	n ɔ̂/ɔ k ʃ ǐ/i		2148	n ɔ̂/ɔ k - ʃ ǐ/i
+1227	NdandaTwefap	to lie	nɔ̂kʃǐ	nɔ̂kʃǐ	n ɔ̂/ɔ k ʃ ǐ/i		2148	n ɔ̂/ɔ k - ʃ ǐ/i
+1228	NdandaDenfap	to lie	nɔ̂kʃǐ	nɔ̂kʃǐ	n ɔ̂/ɔ k ʃ ǐ/i		2148	n ɔ̂/ɔ k - ʃ ǐ/i
+1229	NdandaZua	to lie	ndì nɔ́ŋɔ́sé	ndì_nɔ́ŋɔ́sé	ⁿd ì/i + n ɔ́/ɔ ŋ ɔ́/ɔ s é/e		2150 2148	ⁿd ì/i + n ɔ́/ɔ ŋ ɔ́/ɔ s é/e
+1230	Goshimjang	to lie	nì nɔ́ŋɔ́sé	nì_nɔ́ŋɔ́sé	n ì/i + n ɔ́/ɔ ŋ ɔ́/ɔ s é/e		2147 2148	n ì/i + n ɔ́/ɔ ŋ ɔ́/ɔ s é/e
+1071	NdandaNyep	to live	tʃɨ̌je	tʃɨ̌je	tʃ ɨ̌/ɨ j e		2162	tʃ ɨ̌/ɨ j e
+1072	NdandaShingou	to live	sé	sé	s é/e		2162	- - s é/e
+1073	NdandaCaa	to live	sɨ́ hǎ	sɨ́_hǎ	s ɨ́/ɨ + h ǎ/a		2162 2163	- - s ɨ́/ɨ + h ǎ/a
+1074	NdandaMeno	to live	ntsɨ̌	ntsɨ̌	ⁿt s ɨ̌/ɨ		2162	ⁿt - s ɨ̌/ɨ
+1075	NdandaLek	to live	nə̀ zò	nə̀_zò	n ə̀/ə + z ò/o		2161 2162	n ə̀/ə + - - z ò/o
+1076	NdandaNgwa	to live	tʃɛ̂	tʃɛ̂	tʃ ɛ̂/ɛ		2162	tʃ ɛ̂/ɛ - -
+1077	NdandaTwefap	to live	ntʃě	ntʃě	ⁿt ʃ ě/e		2162	ⁿt - ʃ ě/e
+1078	NdandaDenfap	to live	tʃɛ̂	tʃɛ̂	tʃ ɛ̂/ɛ		2162	tʃ ɛ̂/ɛ - -
+1079	NdandaZua	to live	ndì zùh	ndì_zùh	ⁿd ì/i + z ù/u h		2162 2164	ⁿd ì/i - - + z ù/u h
+1080	Goshimjang	to live	nì zùh	nì_zùh	n ì/i + z ù/u h		2161 2162	n ì/i + z ù/u h -
+1021	NdandaNyep	to nkow	ʒɛ̌	ʒɛ̌	ʒ ɛ̌/ɛ		2178	ʒ ɛ̌/ɛ
+1022	NdandaShingou	to nkow	nzɨ̌	nzɨ̌	ⁿz ɨ̌/ɨ		2178	ⁿz ɨ̌/ɨ
+1023	NdandaCaa	to nkow	nzɨ̌	nzɨ̌	ⁿz ɨ̌/ɨ		2178	ⁿz ɨ̌/ɨ
+1024	NdandaMeno	to nkow	zɨ̌	zɨ̌	z ɨ̌/ɨ		2178	z ɨ̌/ɨ
+1025	NdandaLek	to nkow	nə̀ zə́	nə̀_zə́	n ə̀/ə + z ə́/ə		2176 2178	n ə̀/ə + z ə́/ə
+1026	NdandaNgwa	to nkow	ʒɛ̌	ʒɛ̌	ʒ ɛ̌/ɛ		2178	ʒ ɛ̌/ɛ
+1027	NdandaTwefap	to nkow	ʒɛ̌	ʒɛ̌	ʒ ɛ̌/ɛ		2178	ʒ ɛ̌/ɛ
+1028	NdandaDenfap	to nkow	ʒɛ̌	ʒɛ̌	ʒ ɛ̌/ɛ		2178	ʒ ɛ̌/ɛ
+1029	NdandaZua	to nkow	ndì lɛ̀ŋ	ndì_lɛ̀ŋ	ⁿd ì/i + l ɛ̀/ɛ ŋ		2179 2177	ⁿd ì/i + l ɛ̀/ɛ ŋ
+1030	Goshimjang	to nkow	nì lɛ̀ŋ	nì_lɛ̀ŋ	n ì/i + l ɛ̀/ɛ ŋ		2176 2177	n ì/i + l ɛ̀/ɛ ŋ
+1411	NdandaNyep	to play	ŋgɨ́ ŋgíjɛ̂	ŋgɨ́_ŋgíjɛ̂	ⁿg ɨ́/ɨ + ⁿg í/i j ɛ̂/ɛ		2193 2195	ⁿg - ɨ́/ɨ + ⁿg í/i j ɛ̂/ɛ
+1412	NdandaShingou	to play	ŋgɨ́ ŋgxɛ̂	ŋgɨ́_ŋgxɛ̂	ⁿg ɨ́/ɨ + ⁿg x ɛ̂/ɛ		2193 2191	ⁿg - ɨ́/ɨ + ⁿg x ɛ̂/ɛ
+1413	NdandaCaa	to play	ŋgǎ ŋgxɨ̌	ŋgǎ_ŋgxɨ̌	ⁿg ǎ/a + ⁿg x ɨ̌/ɨ		2193 2191	ⁿg - ǎ/a + ⁿg x ɨ̌/ɨ
+1414	NdandaMeno	to play	ŋgɨ́ ŋgrǎ	ŋgɨ́_ŋgrǎ	ⁿg ɨ́/ɨ + ⁿg r ǎ/a		2193 2191	ⁿg - ɨ́/ɨ + ⁿg r ǎ/a
+1415	NdandaLek	to play	nə̀ ŋgxə́ ŋgxá	nə̀_ŋgxə́_ŋgxá	n ə̀/ə + ⁿg x ə́/ə + ⁿg x á/a		2190 2191 2193	n ə̀/ə + ⁿg x ə́/ə + ⁿg x á/a
+1416	NdandaNgwa	to play	tǎp	tǎp	t ǎ/a p		2194	t ǎ/a p
+1417	NdandaTwefap	to play	ŋgɨ̌ ŋgxɨ̌	ŋgɨ̌_ŋgxɨ̌	ⁿg ɨ̌/ɨ + ⁿg x ɨ̌/ɨ		2193 2191	ⁿg - ɨ̌/ɨ + ⁿg x ɨ̌/ɨ
+1418	NdandaDenfap	to play	ŋgɨ̌ ŋgxɨ̌	ŋgɨ̌_ŋgxɨ̌	ⁿg ɨ̌/ɨ + ⁿg x ɨ̌/ɨ		2193 2191	ⁿg - ɨ̌/ɨ + ⁿg x ɨ̌/ɨ
+1419	NdandaZua	to play	ndì ŋgxə́ ŋgxá	ndì_ŋgxə́_ŋgxá	ⁿd ì/i + ⁿg x ə́/ə + ⁿg x á/a		2194 2191 2193	ⁿd ì/i - + ⁿg x ə́/ə + ⁿg x á/a
+1420	Goshimjang	to play	nì ŋgxə́ ʃɔ̀	nì_ŋgxə́_ʃɔ̀	n ì/i + ⁿg x ə́/ə + ʃ ɔ̀/ɔ		2190 2191 2192	n ì/i + ⁿg x ə́/ə + ʃ ɔ̀/ɔ
+1331	NdandaNyep	to pull	fɨ̀k	fɨ̀k	f ɨ̀/ɨ k		2214	f ɨ̀/ɨ k
+1332	NdandaShingou	to pull	fɨ̀k	fɨ̀k	f ɨ̀/ɨ k		2214	f ɨ̀/ɨ k
+1333	NdandaCaa	to pull	fɨ̀k	fɨ̀k	f ɨ̀/ɨ k		2214	f ɨ̀/ɨ k
+1334	NdandaMeno	to pull	fɨ̀k	fɨ̀k	f ɨ̀/ɨ k		2214	f ɨ̀/ɨ k
+1335	NdandaLek	to pull	nə̀ fə́ŋ	nə̀_fə́ŋ	n ə̀/ə + f ə́/ə ŋ		2213 2214	n ə̀/ə + f ə́/ə ŋ
+1336	NdandaNgwa	to pull	fɨ̀k	fɨ̀k	f ɨ̀/ɨ k		2214	f ɨ̀/ɨ k
+1337	NdandaTwefap	to pull	fɔ̌k	fɔ̌k	f ɔ̌/ɔ k		2214	f ɔ̌/ɔ k
+1338	NdandaDenfap	to pull	fɨ̀k	fɨ̀k	f ɨ̀/ɨ k		2214	f ɨ̀/ɨ k
+1339	NdandaZua	to pull	ndì fə́ŋ	ndì_fə́ŋ	ⁿd ì/i + f ə́/ə ŋ		2215 2214	ⁿd ì/i + f ə́/ə ŋ
+1340	Goshimjang	to pull	nì fə́ŋ	nì_fə́ŋ	n ì/i + f ə́/ə ŋ		2213 2214	n ì/i + f ə́/ə ŋ
+1341	NdandaNyep	to push	ntʃɛ̂	ntʃɛ̂	ⁿt ʃ ɛ̂/ɛ		2228	ⁿt ʃ ɛ̂/ɛ -
+1342	NdandaShingou	to push	ntǐʔ	ntǐʔ	ⁿt ǐ/i ʔ		2228	ⁿt - ǐ/i ʔ
+1343	NdandaCaa	to push	ntʃɨ̌	ntʃɨ̌	ⁿt ʃ ɨ̌/ɨ		2228	ⁿt ʃ ɨ̌/ɨ -
+1344	NdandaMeno	to push	tʃɨ̌	tʃɨ̌	tʃ ɨ̌/ɨ		2228	tʃ - ɨ̌/ɨ -
+1345	NdandaLek	to push	nə̀ ntʃú	nə̀_ntʃú	n ə̀/ə + ⁿt ʃ ú/u		2227 2228	n ə̀/ə + ⁿt ʃ ú/u -
+1346	NdandaNgwa	to push	tʃé	tʃé	tʃ é/e		2228	tʃ - é/e -
+1347	NdandaTwefap	to push	ntsé	ntsé	ⁿt s é/e		2228	ⁿt s é/e -
+1348	NdandaDenfap	to push	tʃɨ̌	tʃɨ̌	tʃ ɨ̌/ɨ		2228	tʃ - ɨ̌/ɨ -
+1349	NdandaZua	to push	ndì ntʃú	ndì_ntʃú	ⁿd ì/i + ⁿt ʃ ú/u		2229 2228	ⁿd ì/i + ⁿt ʃ ú/u -
+1350	Goshimjang	to push	nì ntʃú	nì_ntʃú	n ì/i + ⁿt ʃ ú/u		2227 2228	n ì/i + ⁿt ʃ ú/u -
+1301	NdandaNyep	to rub	sɛ̌p	sɛ̌p	s ɛ̌/ɛ p		2243	s ɛ̌/ɛ p
+1302	NdandaShingou	to rub	kwɔ̌p	kwɔ̌p	kʷ ɔ̌/ɔ p		2243	kʷ ɔ̌/ɔ p
+1303	NdandaCaa	to rub	sɨ̌ʔ	sɨ̌ʔ	s ɨ̌/ɨ ʔ		2242	s ɨ̌/ɨ ʔ - -
+1304	NdandaMeno	to rub	tʃɛ̌p	tʃɛ̌p	tʃ ɛ̌/ɛ p		2243	tʃ ɛ̌/ɛ p
+1305	NdandaLek	to rub	nè sʉ́ʔsə́	nè_sʉ́ʔsə́	n è/e + s ʉ́/ʉ ʔ s ə́/ə		2241 2242	n è/e + s ʉ́/ʉ ʔ s ə́/ə
+1306	NdandaNgwa	to rub	sǎp	sǎp	s ǎ/a p		2243	s ǎ/a p
+1307	NdandaTwefap	to rub	sǎktsé	sǎktsé	s ǎ/a k ts é/e		2242	s ǎ/a k ts é/e
+1308	NdandaDenfap	to rub	sǎp	sǎp	s ǎ/a p		2243	s ǎ/a p
+1309	NdandaZua	to rub	ndì séhé	ndì_séhé	ⁿd ì/i + s é/e h é/e		2243 2242	ⁿd ì/i - + s é/e h - é/e
+1310	Goshimjang	to rub	nì zíʔsə̀	nì_zíʔsə̀	n ì/i + z í/i ʔ s ə̀/ə		2241 2242	n ì/i + z í/i ʔ s ə̀/ə
+1391	NdandaNyep	to say	ŋgɔ̌	ŋgɔ̌	ⁿg ɔ̌/ɔ		2257	ⁿg ɔ̌/ɔ -
+1392	NdandaShingou	to say	ŋgɔ̌	ŋgɔ̌	ⁿg ɔ̌/ɔ		2257	ⁿg ɔ̌/ɔ -
+1393	NdandaCaa	to say	ŋgɔ̌	ŋgɔ̌	ⁿg ɔ̌/ɔ		2257	ⁿg ɔ̌/ɔ -
+1394	NdandaMeno	to say	ŋgɔ̌	ŋgɔ̌	ⁿg ɔ̌/ɔ		2257	ⁿg ɔ̌/ɔ -
+1395	NdandaLek	to say	nə̀ hɔ̀	nə̀_hɔ̀	n ə̀/ə + h ɔ̀/ɔ		2255 2256	n ə̀/ə + h ɔ̀/ɔ
+1396	NdandaNgwa	to say	wɔ̌p	wɔ̌p	w ɔ̌/ɔ p		2257	w ɔ̌/ɔ p
+1397	NdandaTwefap	to say	ŋgǔp	ŋgǔp	ⁿg ǔ/u p		2257	ⁿg ǔ/u p
+1398	NdandaDenfap	to say	ɣôp	ɣôp	ɣ ô/o p		2257	ɣ ô/o p
+1399	NdandaZua	to say	ndì hɔ̀	ndì_hɔ̀	ⁿd ì/i + h ɔ̀/ɔ		2258 2256	ⁿd ì/i + h ɔ̀/ɔ
+1400	Goshimjang	to say	nì hɔ̀	nì_hɔ̀	n ì/i + h ɔ̀/ɔ		2255 2256	n ì/i + h ɔ̀/ɔ
+1160	Goshimjang	to scratch	nì sə̀b	nì_sə̀b	n ì/i + s ə̀/ə b		2269 2270	n ì/i + s - ə̀/ə b - -
+1161	NdandaNyep	to scratch	kpwɔ̌p	kpwɔ̌p	k pʷ ɔ̌/ɔ p		2270	k pʷ ɔ̌/ɔ p - -
+1162	NdandaShingou	to scratch	kpwɔ̌p	kpwɔ̌p	k pʷ ɔ̌/ɔ p		2270	k pʷ ɔ̌/ɔ p - -
+1163	NdandaCaa	to scratch	kpwɔ̌p	kpwɔ̌p	k pʷ ɔ̌/ɔ p		2270	k pʷ ɔ̌/ɔ p - -
+1164	NdandaMeno	to scratch	kpwɔ̌p	kpwɔ̌p	k pʷ ɔ̌/ɔ p		2270	k pʷ ɔ̌/ɔ p - -
+1165	NdandaLek	to scratch	nə̀ kɔ́ŋɔ́	nə̀_kɔ́ŋɔ́	n ə̀/ə + k ɔ́/ɔ ŋ ɔ́/ɔ		2269 2271	n ə̀/ə + k ɔ́/ɔ ŋ ɔ́/ɔ
+1166	NdandaNgwa	to scratch	kǔp	kǔp	k ǔ/u p		2270	k - ǔ/u p - -
+1167	NdandaTwefap	to scratch	kǔp	kǔp	k ǔ/u p		2270	k - ǔ/u p - -
+1168	NdandaDenfap	to scratch	kǔp	kǔp	k ǔ/u p		2270	k - ǔ/u p - -
+1169	NdandaZua	to scratch	nə̀ ŋkwɔ́bsə́	nə̀_ŋkwɔ́bsə́	n ə̀/ə + ⁿk w ɔ́/ɔ b s ə́/ə		2269 2270	n ə̀/ə + ⁿk w ɔ́/ɔ b s ə́/ə
+1170	Goshimjang	to scratch	nì jùh	nì_jùh	n ì/i + j ù/u h		2269 2272	n ì/i + j ù/u h
+1001	NdandaNyep	to see	ndʒɨ̌	ndʒɨ̌	ⁿdʒ ɨ̌/ɨ		2287	ⁿdʒ ɨ̌/ɨ
+1002	NdandaShingou	to see	ndʒɨ̌	ndʒɨ̌	ⁿdʒ ɨ̌/ɨ		2287	ⁿdʒ ɨ̌/ɨ
+1003	NdandaCaa	to see	ndʒɨ̌	ndʒɨ̌	ⁿdʒ ɨ̌/ɨ		2287	ⁿdʒ ɨ̌/ɨ
+1004	NdandaMeno	to see	jɛ̌	jɛ̌	j ɛ̌/ɛ		2288	j ɛ̌/ɛ
+1005	NdandaLek	to see	nə̀ jí	nə̀_jí	n ə̀/ə + j í/i		2285 2288	n ə̀/ə + j í/i
+1006	NdandaNgwa	to see	jɔ̌	jɔ̌	j ɔ̌/ɔ		2288	j ɔ̌/ɔ
+1007	NdandaTwefap	to see	ndʒɔ̌	ndʒɔ̌	ⁿdʒ ɔ̌/ɔ		2287	ⁿdʒ ɔ̌/ɔ
+1008	NdandaDenfap	to see	ndʒɔ̌	ndʒɔ̌	ⁿdʒ ɔ̌/ɔ		2287	ⁿdʒ ɔ̌/ɔ
+1009	NdandaZua	to see	ndì lɔ́ŋsə́	ndì_lɔ́ŋsə́	ⁿd ì/i + l ɔ́/ɔ ŋ s ə́/ə		2287 2286	ⁿd ì/i + l ɔ́/ɔ ŋ s ə́/ə
+1010	Goshimjang	to see	nì lɔ́ŋsə́	nì_lɔ́ŋsə́	n ì/i + l ɔ́/ɔ ŋ s ə́/ə		2285 2286	n ì/i + l ɔ́/ɔ ŋ s ə́/ə
+1371	NdandaNyep	to sew	tɛ̌p	tɛ̌p	t ɛ̌/ɛ p		2300	t ɛ̌/ɛ p
+1372	NdandaShingou	to sew	tɛ̌p	tɛ̌p	t ɛ̌/ɛ p		2300	t ɛ̌/ɛ p
+1373	NdandaCaa	to sew	tɛ̌p	tɛ̌p	t ɛ̌/ɛ p		2300	t ɛ̌/ɛ p
+1374	NdandaMeno	to sew	tɛ̌p	tɛ̌p	t ɛ̌/ɛ p		2300	t ɛ̌/ɛ p
+1375	NdandaLek	to sew	nè tə́p	nè_tə́p	n è/e + t ə́/ə p		2299 2300	n è/e + t ə́/ə p
+1376	NdandaNgwa	to sew	tǎp	tǎp	t ǎ/a p		2300	t ǎ/a p
+1377	NdandaTwefap	to sew	ntǎp	ntǎp	ⁿt ǎ/a p		2300	ⁿt ǎ/a p
+1378	NdandaDenfap	to sew	tǎp	tǎp	t ǎ/a p		2300	t ǎ/a p
+1379	NdandaZua	to sew	ndì ntə́b	ndì_ntə́b	ⁿd ì/i + ⁿt ə́/ə b		2301 2300	ⁿd ì/i + ⁿt ə́/ə b
+1380	Goshimjang	to sew	nì tɔ́b	nì_tɔ́b	n ì/i + t ɔ́/ɔ b		2299 2300	n ì/i + t ɔ́/ɔ b
+1401	NdandaNyep	to sing	dʒwɔ̌p	dʒwɔ̌p	dʒʷ ɔ̌/ɔ p		2314	dʒʷ ɔ̌/ɔ p - -
+1402	NdandaShingou	to sing	dʒɔ̌p	dʒɔ̌p	dʒ ɔ̌/ɔ p		2314	dʒ ɔ̌/ɔ p - -
+1403	NdandaCaa	to sing	dʒɔ̌p ʃwî	dʒɔ̌p_ʃwî	dʒ ɔ̌/ɔ p + ʃʷ î/i		2314 2315	dʒ ɔ̌/ɔ p - - + ʃʷ î/i
+1404	NdandaMeno	to sing	dʒɔ̌p	dʒɔ̌p	dʒ ɔ̌/ɔ p		2314	dʒ ɔ̌/ɔ p - -
+1405	NdandaLek	to sing	nə̀ jɔ̀bʃì	nə̀_jɔ̀bʃì	n ə̀/ə + j ɔ̀/ɔ b ʃ ì/i		2313 2314	n ə̀/ə + j ɔ̀/ɔ b ʃ ì/i
+1406	NdandaNgwa	to sing	jǔp	jǔp	j ǔ/u p		2314	j ǔ/u p - -
+1407	NdandaTwefap	to sing	ndʒǔp	ndʒǔp	ⁿdʒ ǔ/u p		2314	ⁿdʒ ǔ/u p - -
+1408	NdandaDenfap	to sing	dʒwɔ̌p	dʒwɔ̌p	dʒʷ ɔ̌/ɔ p		2314	dʒʷ ɔ̌/ɔ p - -
+1409	NdandaZua	to sing	ndì ndʒɛ́p	ndì_ndʒɛ́p	ⁿd ì/i + ⁿdʒ ɛ́/ɛ p		2316 2314	ⁿd ì/i + ⁿdʒ ɛ́/ɛ p - -
+1410	Goshimjang	to sing	nì jɔ̀bʃì	nì_jɔ̀bʃì	n ì/i + j ɔ̀/ɔ b ʃ ì/i		2313 2314	n ì/i + j ɔ̀/ɔ b ʃ ì/i
+1231	NdandaNyep	to sit	tʃǐɛ	tʃǐɛ	tʃ ǐ/i ɛ		2329	tʃ ǐ/i - ɛ
+1232	NdandaShingou	to sit	sɨ́sí	sɨ́sí	s ɨ́/ɨ s í/i		2329	s ɨ́/ɨ s í/i
+1233	NdandaCaa	to sit	sǐ ʃî	sǐ_ʃî	s ǐ/i + ʃ î/i		2329 2330	s ǐ/i - - + ʃ î/i
+1234	NdandaMeno	to sit	tsé	tsé	ts é/e		2329	ts é/e - -
+1235	NdandaLek	to sit	nə̀ sɨ́sə́	nə̀_sɨ́sə́	n ə̀/ə + s ɨ́/ɨ s ə́/ə		2328 2329	n ə̀/ə + s ɨ́/ɨ s ə́/ə
+1236	NdandaNgwa	to sit	tʃɛ́ʃí	tʃɛ́ʃí	tʃ ɛ́/ɛ ʃ í/i		2329	tʃ ɛ́/ɛ ʃ í/i
+1237	NdandaTwefap	to sit	tʃíʃí	tʃíʃí	tʃ í/i ʃ í/i		2329	tʃ í/i ʃ í/i
+1238	NdandaDenfap	to sit	tʃíʃí	tʃíʃí	tʃ í/i ʃ í/i		2329	tʃ í/i ʃ í/i
+1239	NdandaZua	to sit	ndì tsɨ́sə́	ndì_tsɨ́sə́	ⁿd ì/i + ts ɨ́/ɨ s ə́/ə		2331 2329	ⁿd ì/i + ts ɨ́/ɨ s ə́/ə
+1240	Goshimjang	to sit	nì sɨ́sə́	nì_sɨ́sə́	n ì/i + s ɨ́/ɨ s ə́/ə		2328 2329	n ì/i + s ɨ́/ɨ s ə́/ə
+1061	NdandaNyep	to sleep	ndǐ	ndǐ	ⁿd ǐ/i		2344	ⁿd - ǐ/i
+1062	NdandaShingou	to sleep	ndǐ	ndǐ	ⁿd ǐ/i		2344	ⁿd - ǐ/i
+1063	NdandaCaa	to sleep	ndǐ	ndǐ	ⁿd ǐ/i		2344	ⁿd - ǐ/i
+1064	NdandaMeno	to sleep	ndǐ	ndǐ	ⁿd ǐ/i		2344	ⁿd - ǐ/i
+1065	NdandaLek	to sleep	nì dzí	nì_dzí	n ì/i + d z í/i		2343 2344	n ì/i + d z í/i
+1066	NdandaNgwa	to sleep	zǐ	zǐ	z ǐ/i		2344	- z ǐ/i
+1067	NdandaTwefap	to sleep	ndǐ	ndǐ	ⁿd ǐ/i		2344	ⁿd - ǐ/i
+1068	NdandaDenfap	to sleep	tsî	tsî	ts î/i		2344	- ts î/i
+1069	NdandaZua	to sleep	ndì ndí	ndì_ndí	ⁿd ì/i + ⁿd í/i		2344 2345	ⁿd - ì/i + ⁿd í/i
+1070	Goshimjang	to sleep	nì ndí	nì_ndí	n ì/i + ⁿd í/i		2343 2344	n ì/i + ⁿd - í/i
+1041	NdandaNyep	to smell	ndɛ̌p	ndɛ̌p	ⁿd ɛ̌/ɛ p		2363	ⁿd ɛ̌/ɛ p -
+1042	NdandaShingou	to smell	ndɛ̌p	ndɛ̌p	ⁿd ɛ̌/ɛ p		2363	ⁿd ɛ̌/ɛ p -
+1043	NdandaCaa	to smell	nʒǔ sɛ̌	nʒǔ_sɛ̌	ⁿʒ ǔ/u + s ɛ̌/ɛ		2359 2360	ⁿʒ ǔ/u + s ɛ̌/ɛ
+1044	NdandaMeno	to smell	sɛ̂	sɛ̂	s ɛ̂/ɛ		2360	s ɛ̂/ɛ
+1045	NdandaLek	to smell	nə̀ lɛ̀psə̀	nə̀_lɛ̀psə̀	n ə̀/ə + l ɛ̀/ɛ p s ə̀/ə		2357 2362	n ə̀/ə + l ɛ̀/ɛ p s ə̀/ə
+1046	NdandaNgwa	to smell	ndǎp	ndǎp	ⁿd ǎ/a p		2363	ⁿd ǎ/a p -
+1047	NdandaTwefap	to smell	ndǎbǎ	ndǎbǎ	ⁿd ǎ/a b ǎ/a		2363	ⁿd ǎ/a b ǎ/a
+1048	NdandaDenfap	to smell	jǔ ʒwí	jǔ_ʒwí	j ǔ/u + ʒʷ í/i		2361 2360	j ǔ/u + ʒʷ í/i
+1049	NdandaZua	to smell	ndì ndə̀p	ndì_ndə̀p	ⁿd ì/i + ⁿd ə̀/ə p		2364 2363	ⁿd ì/i + ⁿd ə̀/ə p -
+1050	Goshimjang	to smell	nì júʔkə̀bɔ̀ŋ	nì_júʔkə̀bɔ̀ŋ	n ì/i + j ú/u ʔ k ə̀/ə b ɔ̀/ɔ ŋ		2357 2358	n ì/i + j ú/u ʔ k ə̀/ə b ɔ̀/ɔ ŋ
+951	NdandaNyep	to spit	ntɛ̂m tí	ntɛ̂m_tí	ⁿt ɛ̂/ɛ m + t í/i		2375 2374	ⁿt ɛ̂/ɛ m - + t í/i
+952	NdandaShingou	to spit	ntí tí	ntí_tí	ⁿt í/i + t í/i		2374 2375	ⁿt í/i + t í/i - -
+953	NdandaCaa	to spit	ntɨ̌ tijɨ́	ntɨ̌_tijɨ́	ⁿt ɨ̌/ɨ + t i j ɨ́/ɨ		2374 2375	ⁿt ɨ̌/ɨ + t i j ɨ́/ɨ
+954	NdandaMeno	to spit	ntí tí	ntí_tí	ⁿt í/i + t í/i		2374 2375	ⁿt í/i + t í/i - -
+955	NdandaLek	to spit	nə̀ tʃì	nə̀_tʃì	n ə̀/ə + tʃ ì/i		2373 2374	n ə̀/ə + tʃ ì/i
+956	NdandaNgwa	to spit	tǒ	tǒ	t ǒ/o		2374	t ǒ/o
+957	NdandaTwefap	to spit	tǒ	tǒ	t ǒ/o		2374	t ǒ/o
+958	NdandaDenfap	to spit	tǒ	tǒ	t ǒ/o		2374	t ǒ/o
+959	NdandaZua	to spit	ndì tʃì	ndì_tʃì	ⁿd ì/i + tʃ ì/i		2374 2375	ⁿd ì/i + tʃ ì/i - -
+960	Goshimjang	to spit	nì tʃì	nì_tʃì	n ì/i + tʃ ì/i		2373 2374	n ì/i + tʃ ì/i
+1141	NdandaNyep	to split	mbǎ	mbǎ	ⁿb ǎ/a		2393	ⁿb ǎ/a - -
+1142	NdandaShingou	to split	mbǎ	mbǎ	ⁿb ǎ/a		2393	ⁿb ǎ/a - -
+1143	NdandaCaa	to split	pǎʔa	pǎʔa	p ǎ/a ʔ a		2393	p ǎ/a ʔ a
+1144	NdandaMeno	to split	mbǎ	mbǎ	ⁿb ǎ/a		2393	ⁿb ǎ/a - -
+1145	NdandaLek	to split	nə̀ tàhsə̀	nə̀_tàhsə̀	n ə̀/ə + t à/a h s ə̀/ə		2391 2392	n ə̀/ə + t à/a h s ə̀/ə
+1146	NdandaNgwa	to split	ì paʔ	ì_paʔ	ì/i + p a ʔ		2394 2393	ì/i + p a ʔ -
+1147	NdandaTwefap	to split	mbɛ̌	mbɛ̌	ⁿb ɛ̌/ɛ		2393	ⁿb ɛ̌/ɛ - -
+1148	NdandaDenfap	to split	pɛ̂	pɛ̂	p ɛ̂/ɛ		2393	p ɛ̂/ɛ - -
+1149	NdandaZua	to split	ndì tàhsə̀	ndì_tàhsə̀	ⁿd ì/i + t à/a h s ə̀/ə		2395 2392	ⁿd ì/i + t à/a h s ə̀/ə
+1150	Goshimjang	to split	nì tàhsə̀	nì_tàhsə̀	n ì/i + t à/a h s ə̀/ə		2391 2392	n ì/i + t à/a h s ə̀/ə
+1291	NdandaNyep	to squeeze	nɔ̂ʔ	nɔ̂ʔ	n ɔ̂/ɔ ʔ		2406	n ɔ̂/ɔ ʔ -
+1292	NdandaShingou	to squeeze	nɔ̂ʔ	nɔ̂ʔ	n ɔ̂/ɔ ʔ		2406	n ɔ̂/ɔ ʔ -
+1293	NdandaCaa	to squeeze	nɔ̂ʔ	nɔ̂ʔ	n ɔ̂/ɔ ʔ		2406	n ɔ̂/ɔ ʔ -
+1294	NdandaMeno	to squeeze	nɔ̂ʔ	nɔ̂ʔ	n ɔ̂/ɔ ʔ		2406	n ɔ̂/ɔ ʔ -
+1295	NdandaLek	to squeeze	nə̀ sú	nə̀_sú	n ə̀/ə + s ú/u		2406 2408	n ə̀/ə - - + s ú/u
+1296	NdandaNgwa	to squeeze	ní	ní	n í/i		2406	n í/i - -
+1297	NdandaTwefap	to squeeze	nɔ̌tsé	nɔ̌tsé	n ɔ̌/ɔ ts é/e		2406	n ɔ̌/ɔ ts é/e
+1298	NdandaDenfap	to squeeze	núwɔ̂	núwɔ̂	n ú/u w ɔ̂/ɔ		2406	n ú/u w ɔ̂/ɔ
+1299	NdandaZua	to squeeze	ndì nséʔ	ndì_nséʔ	ⁿd ì/i + ⁿs é/e ʔ		2409 2406	ⁿd ì/i + ⁿs é/e ʔ -
+1300	Goshimjang	to squeeze	nì mɔ́	nì_mɔ́	n ì/i + m ɔ́/ɔ		2406 2407	n ì/i - - + m ɔ́/ɔ
+1151	NdandaNyep	to stab	sɔ̌p	sɔ̌p	s ɔ̌/ɔ p		2420	s ɔ̌/ɔ p
+1152	NdandaShingou	to stab	sɔ̌p	sɔ̌p	s ɔ̌/ɔ p		2420	s ɔ̌/ɔ p
+1153	NdandaCaa	to stab	sɔ̌p	sɔ̌p	s ɔ̌/ɔ p		2420	s ɔ̌/ɔ p
+1154	NdandaMeno	to stab	sɔ̌p	sɔ̌p	s ɔ̌/ɔ p		2420	s ɔ̌/ɔ p
+1155	NdandaLek	to stab	nə̀ sɛ̀p	nə̀_sɛ̀p	n ə̀/ə + s ɛ̀/ɛ p		2421 2420	n ə̀/ə + s ɛ̀/ɛ p
+1156	NdandaNgwa	to stab	sǔp	sǔp	s ǔ/u p		2420	s ǔ/u p
+1157	NdandaTwefap	to stab	sǔp	sǔp	s ǔ/u p		2420	s ǔ/u p
+1158	NdandaDenfap	to stab	sǔp	sǔp	s ǔ/u p		2420	s ǔ/u p
+1159	NdandaZua	to stab	ndì sə̀b	ndì_sə̀b	ⁿd ì/i + s ə̀/ə b		2422 2420	ⁿd ì/i + s ə̀/ə b
+1241	NdandaNyep	to stand	ntsǐ tíjɨ́	ntsǐ_tíjɨ́	ⁿt s ǐ/i + t í/i j ɨ́/ɨ		2433 2436	ⁿt - s ǐ/i + - - t í/i j ɨ́/ɨ
+1242	NdandaShingou	to stand	sítíjɨ́	sítíjɨ́	s í/i t í/i j ɨ́/ɨ		2436	s í/i t í/i j ɨ́/ɨ
+1243	NdandaCaa	to stand	sǐ tɨ̌	sǐ_tɨ̌	s ǐ/i + t ɨ̌/ɨ		2434 2435	s ǐ/i + t ɨ̌/ɨ
+1244	NdandaMeno	to stand	ndúhú tɨ́	ndúhú_tɨ́	ⁿd ú/u h ú/u + t ɨ́/ɨ		2433 2434	ⁿd ú/u h ú/u + t ɨ́/ɨ
+1245	NdandaLek	to stand	nè tʃɨ́sə́	nè_tʃɨ́sə́	n è/e + tʃ ɨ́/ɨ s ə́/ə		2432 2433	n è/e + tʃ ɨ́/ɨ s ə́/ə
+1246	NdandaNgwa	to stand	tsǐ tsé	tsǐ_tsé	ts ǐ/i + ts é/e		2434 2435	ts ǐ/i + ts é/e
+1247	NdandaTwefap	to stand	tsí tsɨ̂	tsí_tsɨ̂	ts í/i + ts ɨ̂/ɨ		2434 2435	ts í/i + ts ɨ̂/ɨ
+1248	NdandaDenfap	to stand	tsí tsɨ̂	tsí_tsɨ̂	ts í/i + ts ɨ̂/ɨ		2434 2435	ts í/i + ts ɨ̂/ɨ
+1249	NdandaZua	to stand	ndì tʃɨ́sə́	ndì_tʃɨ́sə́	ⁿd ì/i + tʃ ɨ́/ɨ s ə́/ə		2434 2433	ⁿd ì/i + tʃ ɨ́/ɨ s ə́/ə
+1250	Goshimjang	to stand	nì tʃɨ́sə́	nì_tʃɨ́sə́	n ì/i + tʃ ɨ́/ɨ s ə́/ə		2432 2433	n ì/i + tʃ ɨ́/ɨ s ə́/ə
+941	NdandaNyep	to suck	nǔ	nǔ	n ǔ/u		2452	n ǔ/u
+942	NdandaShingou	to suck	fíjɛ̌p sé	fíjɛ̌p_sé	f í/i j ɛ̌/ɛ p + s é/e		2455 2454	f í/i j ɛ̌/ɛ p + s - - é/e
+943	NdandaCaa	to suck	nǔ sé	nǔ_sé	n ǔ/u + s é/e		2452 2454	n ǔ/u + s - - é/e
+944	NdandaMeno	to suck	fúwɔ̌p sé	fúwɔ̌p_sé	f ú/u w ɔ̌/ɔ p + s é/e		2455 2454	f ú/u w ɔ̌/ɔ p + s - - é/e
+945	NdandaLek	to suck	nə̀ ʃjɛ́	nə̀_ʃjɛ́	n ə̀/ə + ʃ j ɛ́/ɛ		2452 2454	n ə̀/ə + ʃ - j ɛ́/ɛ
+946	NdandaNgwa	to suck	núwɔ̌k	núwɔ̌k	n ú/u w ɔ̌/ɔ k		2456	n ú/u w ɔ̌/ɔ k
+947	NdandaTwefap	to suck	núwɔ̌k	núwɔ̌k	n ú/u w ɔ̌/ɔ k		2456	n ú/u w ɔ̌/ɔ k
+948	NdandaDenfap	to suck	fíjɛ̌ tsé	fíjɛ̌_tsé	f í/i j ɛ̌/ɛ + ts é/e		2455 2454	f í/i j ɛ̌/ɛ - + ts - - é/e
+949	NdandaZua	to suck	ndì sísə̀	ndì_sísə̀	ⁿd ì/i + s í/i s ə̀/ə		2457 2454	ⁿd ì/i + s í/i s ə̀/ə
+950	Goshimjang	to suck	nì ɲɔ́	nì_ɲɔ́	n ì/i + ɲ ɔ́/ɔ		2452 2453	n ì/i + ɲ ɔ́/ɔ
+1451	NdandaNyep	to swell	kǎʔse	kǎʔse	k ǎ/a ʔ s e		2471	k ǎ/a ʔ s e
+1452	NdandaShingou	to swell	ŋgûʔ	ŋgûʔ	ⁿg û/u ʔ		2471	ⁿg û/u ʔ - -
+1453	NdandaCaa	to swell	kɔ́ʔɔ	kɔ́ʔɔ	k ɔ́/ɔ ʔ ɔ		2471	k ɔ́/ɔ ʔ - ɔ
+1454	NdandaMeno	to swell	kɔ́ʔɔ	kɔ́ʔɔ	k ɔ́/ɔ ʔ ɔ		2471	k ɔ́/ɔ ʔ - ɔ
+1455	NdandaLek	to swell	múhǔ	múhǔ	m ú/u h ǔ/u		2471	m ú/u h - ǔ/u
+1456	NdandaNgwa	to swell	hú	hú	h ú/u		2471	- - h - ú/u
+1457	NdandaTwefap	to swell	kwɔ̌ʔɔ́	kwɔ̌ʔɔ́	kʷ ɔ̌/ɔ ʔ ɔ́/ɔ		2471	kʷ ɔ̌/ɔ ʔ - ɔ́/ɔ
+1458	NdandaDenfap	to swell	ŋwî	ŋwî	ŋʷ î/i		2470	ŋʷ î/i
+1459	NdandaZua	to swell	ndì màʔfɔ́	ndì_màʔfɔ́	ⁿd ì/i + m à/a ʔ f ɔ́/ɔ		2472 2471	ⁿd ì/i + m à/a ʔ f ɔ́/ɔ
+1460	Goshimjang	to swell	nì kɔ́ʔɔ́	nì_kɔ́ʔɔ́	n ì/i + k ɔ́/ɔ ʔ ɔ́/ɔ		2470 2471	n ì/i + k ɔ́/ɔ ʔ - ɔ́/ɔ
+1181	NdandaNyep	to swim	láŋǎ ʃè	láŋǎ_ʃè	l á/a ŋ ǎ/a + ʃ è/e		2483 2484	l á/a ŋ ǎ/a + ʃ è/e -
+1182	NdandaShingou	to swim	nɔ̌ sé	nɔ̌_sé	n ɔ̌/ɔ + s é/e		2483 2484	- - n ɔ̌/ɔ + s é/e -
+1183	NdandaCaa	to swim	láŋǎ ʃè	láŋǎ_ʃè	l á/a ŋ ǎ/a + ʃ è/e		2483 2484	l á/a ŋ ǎ/a + ʃ è/e -
+1184	NdandaMeno	to swim	sɛ̌t	sɛ̌t	s ɛ̌/ɛ t		2484	s ɛ̌/ɛ t
+1185	NdandaLek	to swim	nə̀ màʔànɔ̀	nə̀_màʔànɔ̀	n ə̀/ə + m à/a ʔ à/a n ɔ̀/ɔ		2483 2485	- - n ə̀/ə + m à/a ʔ à/a n ɔ̀/ɔ
+1186	NdandaNgwa	to swim	láŋá	láŋá	l á/a ŋ á/a		2483	l á/a ŋ á/a
+1187	NdandaTwefap	to swim	láŋá	láŋá	l á/a ŋ á/a		2483	l á/a ŋ á/a
+1188	NdandaDenfap	to swim	láŋá	láŋá	l á/a ŋ á/a		2483	l á/a ŋ á/a
+1189	NdandaZua	to swim	ndì ndàŋàtsə̀	ndì_ndàŋàtsə̀	ⁿd ì/i + ⁿd à/a ŋ à/a ts ə̀/ə		2486 2487	ⁿd ì/i + ⁿd à/a ŋ à/a ts ə̀/ə
+1190	Goshimjang	to swim	nì sɛ̀b	nì_sɛ̀b	n ì/i + s ɛ̀/ɛ b		2483 2484	- - n ì/i + s ɛ̀/ɛ b
+1031	NdandaNyep	to think	ʃǎksé	ʃǎksé	ʃ ǎ/a k s é/e		2501	ʃ - ǎ/a k s é/e
+1032	NdandaShingou	to think	kpwǎk	kpwǎk	k pʷ ǎ/a k		2501	k pʷ ǎ/a - k -
+1033	NdandaCaa	to think	kpwǎk sé	kpwǎk_sé	k pʷ ǎ/a k + s é/e		2501 2502	k pʷ ǎ/a - k - + s é/e
+1034	NdandaMeno	to think	kpwǎk sé	kpwǎk_sé	k pʷ ǎ/a k + s é/e		2501 2502	k pʷ ǎ/a - k - + s é/e
+1035	NdandaLek	to think	nə̀ kwàŋsə̀	nə̀_kwàŋsə̀	n ə̀/ə + kʷ à/a ŋ s ə̀/ə		2500 2501	n ə̀/ə + kʷ - à/a ŋ s ə̀/ə
+1036	NdandaNgwa	to think	kɨ̌pzɛ́	kɨ̌pzɛ́	k ɨ̌/ɨ p z ɛ́/ɛ		2501	k - ɨ̌/ɨ p z ɛ́/ɛ
+1037	NdandaTwefap	to think	kwǎgǎ	kwǎgǎ	kʷ ǎ/a g ǎ/a		2501	kʷ - ǎ/a - g ǎ/a
+1038	NdandaDenfap	to think	kwǎk	kwǎk	kʷ ǎ/a k		2501	kʷ - ǎ/a - k -
+1039	NdandaZua	to think	ndì kwàŋsə̀	ndì_kwàŋsə̀	ⁿd ì/i + kʷ à/a ŋ s ə̀/ə		2503 2501	ⁿd ì/i + kʷ - à/a ŋ s ə̀/ə
+1040	Goshimjang	to think	nə̀ kwàŋsə̀	nə̀_kwàŋsə̀	n ə̀/ə + kʷ à/a ŋ s ə̀/ə		2500 2501	n ə̀/ə + kʷ - à/a ŋ s ə̀/ə
+1351	NdandaNyep	to throw	ŋgwâʔ	ŋgwâʔ	ⁿg w â/a ʔ		2517	ⁿg w â/a ʔ -
+1352	NdandaShingou	to throw	ŋgwǎʔ	ŋgwǎʔ	ⁿg w ǎ/a ʔ		2517	ⁿg w ǎ/a ʔ -
+1353	NdandaCaa	to throw	ŋgwǎʔ	ŋgwǎʔ	ⁿg w ǎ/a ʔ		2517	ⁿg w ǎ/a ʔ -
+1354	NdandaMeno	to throw	ŋgwǎʔ	ŋgwǎʔ	ⁿg w ǎ/a ʔ		2517	ⁿg w ǎ/a ʔ -
+1355	NdandaLek	to throw	nè wáʔ	nè_wáʔ	n è/e + w á/a ʔ		2516 2517	n è/e + - w á/a ʔ -
+1356	NdandaNgwa	to throw	wǎʔá	wǎʔá	w ǎ/a ʔ á/a		2517	- w ǎ/a ʔ á/a
+1357	NdandaTwefap	to throw	ŋgwǎʔ	ŋgwǎʔ	ⁿg w ǎ/a ʔ		2517	ⁿg w ǎ/a ʔ -
+1358	NdandaDenfap	to throw	wǎʔ	wǎʔ	w ǎ/a ʔ		2517	- w ǎ/a ʔ -
+1359	NdandaZua	to throw	ndì wáʔ	ndì_wáʔ	ⁿd ì/i + w á/a ʔ		2518 2517	ⁿd ì/i + - w á/a ʔ -
+1360	Goshimjang	to throw	nì wáʔá	nì_wáʔá	n ì/i + w á/a ʔ á/a		2516 2517	n ì/i + - w á/a ʔ á/a
+1361	NdandaNyep	to tie	kpwǐ	kpwǐ	k pʷ ǐ/i		2531	k pʷ ǐ/i -
+1362	NdandaShingou	to tie	kpwǐt	kpwǐt	k pʷ ǐ/i t		2531	k pʷ ǐ/i t
+1363	NdandaCaa	to tie	phwǐt	phwǐt	p hʷ ǐ/i t		2531	p hʷ ǐ/i t
+1364	NdandaMeno	to tie	kpwǐt	kpwǐt	k pʷ ǐ/i t		2531	k pʷ ǐ/i t
+1365	NdandaLek	to tie	nə̀ dzjɛ̀bə̀	nə̀_dzjɛ̀bə̀	n ə̀/ə + d z j ɛ̀/ɛ b ə̀/ə		2530 2532	n ə̀/ə + d z j ɛ̀/ɛ b ə̀/ə
+1366	NdandaNgwa	to tie	kwǐ	kwǐ	kʷ ǐ/i		2531	kʷ - ǐ/i -
+1367	NdandaTwefap	to tie	ŋkwǐ	ŋkwǐ	ⁿk w ǐ/i		2531	ⁿk w ǐ/i -
+1368	NdandaDenfap	to tie	kwî	kwî	kʷ î/i		2531	kʷ - î/i -
+1369	NdandaZua	to tie	ndì kwɛ́t	ndì_kwɛ́t	ⁿd ì/i + kʷ ɛ́/ɛ t		2533 2531	ⁿd ì/i + kʷ - ɛ́/ɛ t
+1370	Goshimjang	to tie	nì kpɨ́	nì_kpɨ́	n ì/i + k p ɨ́/ɨ		2530 2531	n ì/i + k p ɨ́/ɨ -
+1251	NdandaNyep	to turn	fǎk	fǎk	f ǎ/a k		2546	f ǎ/a k - -
+1252	NdandaShingou	to turn	fǎk	fǎk	f ǎ/a k		2546	f ǎ/a k - -
+1253	NdandaCaa	to turn	fǎksé níjǔ	fǎksé_níjǔ	f ǎ/a k s é/e + n í/i j ǔ/u		2546 2544	f ǎ/a k s é/e + n í/i j ǔ/u
+1254	NdandaMeno	to turn	fǎk	fǎk	f ǎ/a k		2546	f ǎ/a k - -
+1255	NdandaLek	to turn	nə̀ kə̀ŋ	nə̀_kə̀ŋ	n ə̀/ə + k ə̀/ə ŋ		2544 2545	n ə̀/ə - - + k ə̀/ə ŋ
+1256	NdandaNgwa	to turn	fǎk	fǎk	f ǎ/a k		2546	f ǎ/a k - -
+1257	NdandaTwefap	to turn	fǎk ɲíhú	fǎk_ɲíhú	f ǎ/a k + ɲ í/i h ú/u		2546 2544	f ǎ/a k - - + ɲ í/i h ú/u
+1258	NdandaDenfap	to turn	fǎk	fǎk	f ǎ/a k		2546	f ǎ/a k - -
+1259	NdandaZua	to turn	ndì kə̀ŋ	ndì_kə̀ŋ	ⁿd ì/i + k ə̀/ə ŋ		2547 2545	ⁿd ì/i + k ə̀/ə ŋ
+1260	Goshimjang	to turn	nì kə̀ŋ	nì_kə̀ŋ	n ì/i + k ə̀/ə ŋ		2544 2545	n ì/i - - + k ə̀/ə ŋ
+961	NdandaNyep	to vomit	ndǐʔí	ndǐʔí	ⁿd ǐ/i ʔ í/i		2561	ⁿd ǐ/i - ʔ í/i
+962	NdandaShingou	to vomit	dǐéʔ	dǐéʔ	d ǐ/i é/e ʔ		2561	d ǐ/i é/e ʔ -
+963	NdandaCaa	to vomit	nděʔé	nděʔé	ⁿd ě/e ʔ é/e		2561	ⁿd ě/e - ʔ é/e
+964	NdandaMeno	to vomit	lɨ̌ʔɨ́	lɨ̌ʔɨ́	l ɨ̌/ɨ ʔ ɨ́/ɨ		2561	l ɨ̌/ɨ - ʔ ɨ́/ɨ
+965	NdandaLek	to vomit	nə̀ lə́ʔə́	nə̀_lə́ʔə́	n ə̀/ə + l ə́/ə ʔ ə́/ə		2560 2561	n ə̀/ə + l ə́/ə - ʔ ə́/ə
+966	NdandaNgwa	to vomit	lɨ̌ʔɨ́	lɨ̌ʔɨ́	l ɨ̌/ɨ ʔ ɨ́/ɨ		2561	l ɨ̌/ɨ - ʔ ɨ́/ɨ
+967	NdandaTwefap	to vomit	ndɔ̌ʔɔ́	ndɔ̌ʔɔ́	ⁿd ɔ̌/ɔ ʔ ɔ́/ɔ		2561	ⁿd ɔ̌/ɔ - ʔ ɔ́/ɔ
+968	NdandaDenfap	to vomit	lɨ̌ʔɨ́	lɨ̌ʔɨ́	l ɨ̌/ɨ ʔ ɨ́/ɨ		2561	l ɨ̌/ɨ - ʔ ɨ́/ɨ
+969	NdandaZua	to vomit	ndì lʉ́ʔʉ́	ndì_lʉ́ʔʉ́	ⁿd ì/i + l ʉ́/ʉ ʔ ʉ́/ʉ		2562 2561	ⁿd ì/i + l ʉ́/ʉ - ʔ ʉ́/ʉ
+970	Goshimjang	to vomit	nì lə́ʔə́	nì_lə́ʔə́	n ì/i + l ə́/ə ʔ ə́/ə		2560 2561	n ì/i + l ə́/ə - ʔ ə́/ə
+1201	NdandaNyep	to walk	ndʒǐ	ndʒǐ	ⁿdʒ ǐ/i		2575	ⁿdʒ ǐ/i - -
+1202	NdandaShingou	to walk	ndzǐ	ndzǐ	ⁿdz ǐ/i		2575	ⁿdz ǐ/i - -
+1203	NdandaCaa	to walk	nzǐ	nzǐ	ⁿz ǐ/i		2575	ⁿz ǐ/i - -
+1204	NdandaMeno	to walk	zǐ	zǐ	z ǐ/i		2575	z ǐ/i - -
+1205	NdandaLek	to walk	nə̀ zísə̀	nə̀_zísə̀	n ə̀/ə + z í/i s ə̀/ə		2574 2575	n ə̀/ə + z í/i s ə̀/ə
+1206	NdandaNgwa	to walk	ʒî	ʒî	ʒ î/i		2575	ʒ î/i - -
+1207	NdandaTwefap	to walk	ndʒí	ndʒí	ⁿdʒ í/i		2575	ⁿdʒ í/i - -
+1208	NdandaDenfap	to walk	ʒî	ʒî	ʒ î/i		2575	ʒ î/i - -
+1209	NdandaZua	to walk	ndì zə̀	ndì_zə̀	ⁿd ì/i + z ə̀/ə		2576 2575	ⁿd ì/i + z ə̀/ə - -
+1210	Goshimjang	to walk	nì zə̀	nì_zə̀	n ì/i + z ə̀/ə		2574 2575	n ì/i + z ə̀/ə - -
+1311	NdandaNyep	to wash	sǔ	sǔ	s ǔ/u		2589	s ǔ/u - -
+1312	NdandaShingou	to wash	sǔ	sǔ	s ǔ/u		2589	s ǔ/u - -
+1313	NdandaCaa	to wash	sǔ	sǔ	s ǔ/u		2589	s ǔ/u - -
+1314	NdandaMeno	to wash	sǔ	sǔ	s ǔ/u		2589	s ǔ/u - -
+1315	NdandaLek	to wash	nə̀ súʔù	nə̀_súʔù	n ə̀/ə + s ú/u ʔ ù/u		2588 2589	n ə̀/ə + s ú/u ʔ ù/u
+1316	NdandaNgwa	to wash	sǔ	sǔ	s ǔ/u		2589	s ǔ/u - -
+1317	NdandaTwefap	to wash	sǔ	sǔ	s ǔ/u		2589	s ǔ/u - -
+1318	NdandaDenfap	to wash	sǔ	sǔ	s ǔ/u		2589	s ǔ/u - -
+1319	NdandaZua	to wash	ndì súʔù	ndì_súʔù	ⁿd ì/i + s ú/u ʔ ù/u		2590 2589	ⁿd ì/i + s ú/u ʔ ù/u
+1320	Goshimjang	to wash	nì súʔù	nì_súʔù	n ì/i + s ú/u ʔ ù/u		2588 2589	n ì/i + s ú/u ʔ ù/u
+1321	NdandaNyep	to wipe	tʃwǐ	tʃwǐ	tʃ w ǐ/i		2605	tʃ w ǐ/i
+1322	NdandaShingou	to wipe	ʃúwɛ́	ʃúwɛ́	ʃ ú/u w ɛ́/ɛ		2603	ʃ ú/u w ɛ́/ɛ
+1323	NdandaCaa	to wipe	tʃǔwɛ́ sé	tʃǔwɛ́_sé	tʃ ǔ/u w ɛ́/ɛ + s é/e		2604 2603	tʃ ǔ/u w ɛ́/ɛ + s é/e - -
+1324	NdandaMeno	to wipe	tʃíʔí	tʃíʔí	tʃ í/i ʔ í/i		2604	tʃ í/i ʔ í/i
+1325	NdandaLek	to wipe	nə̀ ʃɛ́sə́	nə̀_ʃɛ́sə́	n ə̀/ə + ʃ ɛ́/ɛ s ə́/ə		2602 2603	n ə̀/ə + ʃ ɛ́/ɛ s ə́/ə
+1326	NdandaNgwa	to wipe	tʃíhí	tʃíhí	tʃ í/i h í/i		2604	tʃ í/i h í/i
+1327	NdandaTwefap	to wipe	tʃǐhí	tʃǐhí	tʃ ǐ/i h í/i		2604	tʃ ǐ/i h í/i
+1328	NdandaDenfap	to wipe	tʃíʔí	tʃíʔí	tʃ í/i ʔ í/i		2604	tʃ í/i ʔ í/i
+1329	NdandaZua	to wipe	ndì tʃɛ́sə́	ndì_tʃɛ́sə́	ⁿd ì/i + tʃ ɛ́/ɛ s ə́/ə		2605 2604	ⁿd - ì/i + tʃ ɛ́/ɛ s ə́/ə
+1330	Goshimjang	to wipe	nì ʃɛ́sə́	nì_ʃɛ́sə́	n ì/i + ʃ ɛ́/ɛ s ə́/ə		2602 2603	n ì/i + ʃ ɛ́/ɛ s ə́/ə
